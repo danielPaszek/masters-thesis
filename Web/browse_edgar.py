@@ -33,7 +33,7 @@ def open_income_statement(driver) -> WebElement:
     if section is None:
         raise Exception("No section found")
     section.click()
-    for text in ['Revenue', 'Net income', 'Net income (loss)', 'Operating income', 'Operating income (loss)', 'Revenues']:
+    for text in ['Revenue', 'Net income', 'Net income (loss)', 'Operating income', 'Operating income (loss)', 'Revenues', 'Revenues:']:
         try:
             table = driver.find_element(By.XPATH, f"//*[text()='{text}' and not(contains(@class, 'xbrlviewer'))]/ancestor::tbody[1]")
             break

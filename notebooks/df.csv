@@ -1,37 +1,48 @@
-,"CONSOLIDATED STATEMENTS OF INCOME (USD $) In Millions, except Per Share data, unless otherwise specified","Dec. 31, 2012","Dec. 31, 2011","Dec. 31, 2010"
-0,Revenue,"$ 5,089","$ 3,711","$ 1,974"
-1,Costs and expenses:,,,
-2,Cost of revenue,1364,860,493
-3,Research and development,1399,388,144
-4,Marketing and sales,896,393,167
-5,General and administrative,892,314,138
-6,Total costs and expenses,4551,1955,942
-7,Income from operations,538,1756,1032
-8,"Interest and other income (expense), net:",,,
-9,Interest expense,(51),(42),(22)
-10,"Other income (expense), net",7,(19),(2)
-11,Income before provision for income taxes,494,1695,1008
-12,Provision for income taxes,441,695,402
-13,Net income,53,1000,606
-14,Less: Net income attributable to participating securities,21,332,234
-15,Net income attributable to Class A and Class B common stockholders,32,668,372
-16,Earnings per share attributable to Class A and Class B common stockholders:,,,
-17,Basic,$ 0.02,$ 0.52,$ 0.34
-18,Diluted,$ 0.01,$ 0.46,$ 0.28
-19,Weighted average shares used to compute earnings per share attributable to Class A and Class B common stockholders:,,,
-20,Basic,2006,1294,1107
-21,Diluted,2166,1508,1414
-22,Share-based compensation expense included in costs and expenses:,,,
-23,Share-based compensation expense,1572,217,20
-24,Cost of revenue,,,
-25,Share-based compensation expense included in costs and expenses:,,,
-26,Share-based compensation expense,88,9,0
-27,Research and development,,,
-28,Share-based compensation expense included in costs and expenses:,,,
-29,Share-based compensation expense,843,114,9
-30,Marketing and sales,,,
-31,Share-based compensation expense included in costs and expenses:,,,
-32,Share-based compensation expense,306,37,2
-33,General and administrative,,,
-34,Share-based compensation expense included in costs and expenses:,,,
-35,Share-based compensation expense,$ 335,$ 57,$ 9
+1,"Consolidated Statements of Operations - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2022","Dec. 31, 2021","Dec. 31, 2020"
+2,Revenues,,,
+3,Total revenues,"$ 81,462","$ 53,823","$ 31,536"
+4,Cost of revenues,,,
+5,Total cost of revenues,60609,40217,24906
+6,Gross profit,20853,13606,6630
+7,Operating expenses,,,
+8,Research and development,3075,2593,1491
+9,"Selling, general and administrative",3946,4517,3145
+10,Restructuring and other,176,(27),0
+11,Total operating expenses,7197,7083,4636
+12,Income from operations,13656,6523,1994
+13,Interest income,297,56,30
+14,Interest expense,(191),(371),(748)
+15,"Other (expense) income , net",(43),135,(122)
+16,Income before income taxes,13719,6343,1154
+17,Provision for income taxes,1132,699,292
+18,Net income,12587,5644,862
+19,Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries,31,125,141
+20,Net income attributable to common stockholders,"$ 12,556","$ 5,519",$ 721
+21,Net income per share of common stock attributable to common stockholders,,,
+22,Basic,$ 4.02,$ 1.87,$ 0.25
+23,Diluted,$ 3.62,$ 1.63,$ 0.21
+24,Weighted average shares used in computing net income per share of common stock,,,
+25,Basic,3130,2959,2798
+26,Diluted,3475,3386,3249
+27,Automotive Revenues [Member],,,
+28,Revenues,,,
+29,Automotive sales,"$ 67,210","$ 44,125","$ 24,604"
+30,Automotive regulatory credits,1776,1465,1580
+31,Automotive leasing,2476,1642,1052
+32,Total automotive revenues,71462,47232,27236
+33,Cost of revenues,,,
+34,Automotive sales,49599,32415,19696
+35,Automotive leasing,1509,978,563
+36,Total automotive cost of revenues,51108,33393,20259
+37,Energy Generation and Storage [Member],,,
+38,Revenues,,,
+39,Revenues,3909,2789,1994
+40,Cost of revenues,,,
+41,Cost of revenues,3621,2918,1976
+42,Services And Other [Member],,,
+43,Revenues,,,
+44,Revenues,6091,3802,2306
+45,Cost of revenues,,,
+46,Cost of revenues,"$ 5,880","$ 3,906","$ 2,671"
+47,,,,
+48,"[1] Prior period results have been adjusted to reflect the three-for-one stock split effected in the form of a stock dividend in August 2022. See Note 1, Overview, for details.","[1] Prior period results have been adjusted to reflect the three-for-one stock split effected in the form of a stock dividend in August 2022. See Note 1, Overview, for details.","[1] Prior period results have been adjusted to reflect the three-for-one stock split effected in the form of a stock dividend in August 2022. See Note 1, Overview, for details.",
