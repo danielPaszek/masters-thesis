@@ -1,48 +1,30 @@
-1,"Consolidated Statements of Operations - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2022","Dec. 31, 2021","Dec. 31, 2020"
-2,Revenues,,,
-3,Total revenues,"$ 81,462","$ 53,823","$ 31,536"
-4,Cost of revenues,,,
-5,Total cost of revenues,60609,40217,24906
-6,Gross profit,20853,13606,6630
-7,Operating expenses,,,
-8,Research and development,3075,2593,1491
-9,"Selling, general and administrative",3946,4517,3145
-10,Restructuring and other,176,(27),0
-11,Total operating expenses,7197,7083,4636
-12,Income from operations,13656,6523,1994
-13,Interest income,297,56,30
-14,Interest expense,(191),(371),(748)
-15,"Other (expense) income , net",(43),135,(122)
-16,Income before income taxes,13719,6343,1154
-17,Provision for income taxes,1132,699,292
-18,Net income,12587,5644,862
-19,Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries,31,125,141
-20,Net income attributable to common stockholders,"$ 12,556","$ 5,519",$ 721
-21,Net income per share of common stock attributable to common stockholders,,,
-22,Basic,$ 4.02,$ 1.87,$ 0.25
-23,Diluted,$ 3.62,$ 1.63,$ 0.21
-24,Weighted average shares used in computing net income per share of common stock,,,
-25,Basic,3130,2959,2798
-26,Diluted,3475,3386,3249
-27,Automotive Revenues [Member],,,
-28,Revenues,,,
-29,Automotive sales,"$ 67,210","$ 44,125","$ 24,604"
-30,Automotive regulatory credits,1776,1465,1580
-31,Automotive leasing,2476,1642,1052
-32,Total automotive revenues,71462,47232,27236
-33,Cost of revenues,,,
-34,Automotive sales,49599,32415,19696
-35,Automotive leasing,1509,978,563
-36,Total automotive cost of revenues,51108,33393,20259
-37,Energy Generation and Storage [Member],,,
-38,Revenues,,,
-39,Revenues,3909,2789,1994
-40,Cost of revenues,,,
-41,Cost of revenues,3621,2918,1976
-42,Services And Other [Member],,,
-43,Revenues,,,
-44,Revenues,6091,3802,2306
-45,Cost of revenues,,,
-46,Cost of revenues,"$ 5,880","$ 3,906","$ 2,671"
-47,,,,
-48,"[1] Prior period results have been adjusted to reflect the three-for-one stock split effected in the form of a stock dividend in August 2022. See Note 1, Overview, for details.","[1] Prior period results have been adjusted to reflect the three-for-one stock split effected in the form of a stock dividend in August 2022. See Note 1, Overview, for details.","[1] Prior period results have been adjusted to reflect the three-for-one stock split effected in the form of a stock dividend in August 2022. See Note 1, Overview, for details.",
+,"CONSOLIDATED STATEMENT OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","Oct. 31, 2022","Oct. 31, 2021","Oct. 31, 2020"
+0,Net revenue,"$ 6,848","$ 6,319","$ 5,339"
+1,Costs and expenses:,,,
+2,Cost of revenue,3126,2912,2502
+3,Research and development,467,441,495
+4,"Selling, general and administrative",1637,1619,1496
+5,Total costs and expenses,5230,4972,4493
+6,Income from operations,1618,1347,846
+7,Interest income,9,2,8
+8,Interest expense,(84),(81),(78)
+9,"Other income (expense), net",(39),92,66
+10,Income before taxes,1504,1360,842
+11,Provision for income taxes,250,150,123
+12,Net Income,"$ 1,254","$ 1,210",$ 719
+13,Net income per share:,,,
+14,Net income per share - basic,$ 4.19,$ 3.98,$ 2.33
+15,Net income per share - diluted,$ 4.18,$ 3.94,$ 2.30
+16,Weighted Averge Shares Used In Computing Net Income Per Share,,,
+17,Basic (in shares),299,304,309
+18,Diluted (in shares),300,307,312
+19,Products,,,
+20,Net revenue:,,,
+21,Net revenue,"$ 5,187","$ 4,756","$ 3,993"
+22,Costs and expenses:,,,
+23,Cost of revenue,2242,2078,1796
+24,Services and Other,,,
+25,Net revenue:,,,
+26,Net revenue,1661,1563,1346
+27,Costs and expenses:,,,
+28,Cost of revenue,$ 884,$ 834,$ 706
