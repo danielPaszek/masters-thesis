@@ -1,0 +1,46 @@
+,"Statement Of Income (USD $) In Millions, except Per Share data",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+,"Statement Of Income (USD $) In Millions, except Per Share data","Dec. 31, 2009","Dec. 31, 2009.1","Dec. 31, 2008","Dec. 31, 2008.1","Dec. 31, 2007","Dec. 31, 2007.1"
+0,Revenue:,,,,,,
+1,Regulated,"$ 7,816","$ 7,816","$ 7,768","$ 7,768","$ 6,863","$ 6,863"
+2,Non-Regulated,6303,6303,7590,7590,6151,6151
+3,Total revenue,14119,14119,15358,15358,13014,13014
+4,Cost of Sales:,,,,,,
+5,Regulated,"(5,705)","(5,705)","(5,564)","(5,564)","(4,746)","(4,746)"
+6,Non-Regulated,"(4,919)","(4,919)","(6,162)","(6,162)","(4,970)","(4,970)"
+7,Total cost of sales,"(10,624)","(10,624)","(11,726)","(11,726)","(9,716)","(9,716)"
+8,Gross margin,3495,3495,3632,3632,3298,3298
+9,General and administrative expenses,(345),(345),(371),(371),(378),(378)
+10,Interest expense,"(1,515)","(1,515)","(1,803)","(1,803)","(1,755)","(1,755)"
+11,Interest income,348,348,519,519,489,489
+12,Other expense,(111),(111),(161),(161),(253),(253)
+13,Other income,466,466,377,377,358,358
+14,Gain on sale of investments,131,131,909,909,0,0
+15,(Loss) gain on sale of subsidiary stock,0,0,(31),(31),134,134
+16,Goodwill impairment,(122),(122),0,0,0,0
+17,Asset impairment expense,(25),(25),(175),(175),(408),(408)
+18,Foreign currency transaction gains (losses) on net monetary position,33,33,(184),(184),29,29
+19,Other non-operating expense,(12),(12),(15),(15),(57),(57)
+20,INCOME FROM CONTINUING OPERATIONS BEFORE TAXES AND EQUITY IN EARNINGS OF AFFILIATES,2343,2343,2697,2697,1457,1457
+21,Income tax expense,(599),(599),(771),(771),(676),(676)
+22,Net equity in earnings of affiliates,92,92,33,33,76,76
+23,INCOME FROM CONTINUING OPERATIONS,1836,1836,1959,1959,857,857
+24,"Income from operations of discontinued businesses, net of income tax expense of $3, $7 and $32, respectively",69,69,67,67,161,161
+25,"Gain (loss) from disposal of discontinued businesses, net of income tax benefit of $-, $- and $8, respectively",(150),(150),6,6,(661),(661)
+26,NET INCOME,1755,1755,2032,2032,357,357
+27,Noncontrolling interests:,,,,,,
+28,Less: Income from continuing operations attributable to noncontrolling interests,"(1,107)","(1,107)",(770),(770),(403),(403)
+29,Less: Income (loss) from discontinued operations attributable to noncontrolling interests,10,10,(28),(28),(49),(49)
+30,Total net income attributable to noncontrolling interests,"(1,097)","(1,097)",(798),(798),(452),(452)
+31,NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION,658,658,1234,1234,(95),(95)
+32,BASIC EARNINGS (LOSS) PER SHARE:,,,,,,
+33,"Income from continuing operations attributable to The AES Corporation common stockholders, net of tax",$ 1.09,$ 1.09,$ 1.78,$ 1.78,$ 0.68,$ 0.68
+34,"Discontinued operations attributable to The AES Corporation common stockholders, net of tax",$ (0.10),$ (0.10),$ 0.06,$ 0.06,$ (0.82),$ (0.82)
+35,NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION COMMON STOCKHOLDERS,$ 0.99,$ 0.99,$ 1.84,$ 1.84,$ (0.14),$ (0.14)
+36,DILUTED EARNINGS (LOSS) PER SHARE:,,,,,,
+37,"Income from continuing operations attributable to The AES Corporation common stockholders, net of tax",$ 1.09,$ 1.09,$ 1.76,$ 1.76,$ 0.67,$ 0.67
+38,"Discontinued operations attributable to The AES Corporation common stockholders, net of tax",$ (0.11),$ (0.11),$ 0.06,$ 0.06,$ (0.81),$ (0.81)
+39,NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION COMMON STOCKHOLDERS,$ 0.98,$ 0.98,$ 1.82,$ 1.82,$ (0.14),$ (0.14)
+40,AMOUNTS ATTRIBUTABLE TO THE AES CORPORATION COMMON STOCKHOLDERS:,,,,,,
+41,"Income from continuing operations, net of tax",729,729,1189,1189,454,454
+42,"Discontinued operations, net of tax",(71),(71),45,45,(549),(549)
+43,NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION,$ 658,$ 658,"$ 1,234","$ 1,234",$ (95),$ (95)

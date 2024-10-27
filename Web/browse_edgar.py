@@ -5,7 +5,14 @@ from selenium.webdriver.remote.webelement import WebElement
 
 
 def open_sections(driver):
-    accordion = driver.find_element(By.ID, "menu")
+    try:
+        accordion = driver.find_element(By.ID, "menu")
+    except:
+        print("SOMETHING WENT WRONG!!!!!!!!")
+        print(driver.current_url)
+        print("UWAGA!!!!!!!!!!!!!!!!!!!!")
+        return False
+
     sleep(1)
     for kid in accordion.find_elements(By.XPATH, "./li"):
         try:
@@ -14,6 +21,7 @@ def open_sections(driver):
                 sleep(1)
         except:
             continue
+    return True
 
 def open_income_statement(driver) -> WebElement | None:
     section = None

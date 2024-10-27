@@ -1,0 +1,37 @@
+,0,1,2,3,4
+0,[1],"Includes a gain (loss) of $20, $(42) and $(11) in 2023, 2022 and 2021, respectively, related to remeasurement of the deferred profit liability for limited-payment contracts.",,,
+1,[2],Includes expense of $48 in 2021 for the early extinguishment of debt.,,,
+2,"Consolidated Statements of Earnings - USD ($)  shares in Thousands, $ in Millions","Consolidated Statements of Earnings - USD ($)  shares in Thousands, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+3,"Consolidated Statements of Earnings - USD ($)  shares in Thousands, $ in Millions","Consolidated Statements of Earnings - USD ($)  shares in Thousands, $ in Millions","Dec. 31, 2023","Dec. 31, 2022","Dec. 31, 2021"
+4,Revenues:,,,,
+5,"Net earned premiums, principally supplemental health insurance",[1],"$ 14,123","$ 14,901","$ 17,095"
+6,Net investment income,,3811,3656,3818
+7,Net investment gains (losses),,590,363,468
+8,Other income (loss),,177,220,173
+9,Total revenues,,18701,19140,21554
+10,Benefits and expenses:,,,,
+11,"Benefits and claims, excluding reserve remeasurement",,8594,9102,10623
+12,Reserve remeasurement (gains) losses,,(383),(215),(147)
+13,"Total benefits and claims, net",,8211,8887,10476
+14,Acquisition and operating expenses:,,,,
+15,Amortization of deferred policy acquisition costs,,816,792,835
+16,Insurance commissions,,1052,1117,1256
+17,Insurance and other expenses,[2],3165,3249,3541
+18,Interest expense,,195,226,238
+19,Total acquisition and operating expenses,,5228,5384,5870
+20,Total benefits and expenses,,13439,14271,16346
+21,Earnings before income taxes,,5262,4869,5208
+22,Income Tax Expense:,,,,
+23,Current,,1663,1181,1095
+24,Deferred,,"(1,060)",(730),(118)
+25,Income taxes,,603,451,977
+26,Net earnings,,"$ 4,659","$ 4,418","$ 4,231"
+27,Net earnings per share:,,,,
+28,Basic (in dollars per share),,$ 7.81,$ 6.96,$ 6.28
+29,Diluted (in dollars per share),,$ 7.78,$ 6.93,$ 6.25
+30,Weighted-average outstanding common shares used in computing earnings per share (In thousands):,,,,
+31,Basic (in shares),,596173,634816,673617
+32,Diluted (in shares),,598745,637655,676729
+33,Cash dividends per share,,$ 1.68,$ 1.60,$ 1.32
+34,,,,,
+35,"[1] Includes a gain (loss) of $20, $(42) and $(11) in 2023, 2022 and 2021, respectively, related to remeasurement of the deferred profit liability for limited-payment contracts. [2] Includes expense of $48 in 2021 for the early extinguishment of debt.","[1] Includes a gain (loss) of $20, $(42) and $(11) in 2023, 2022 and 2021, respectively, related to remeasurement of the deferred profit liability for limited-payment contracts. [2] Includes expense of $48 in 2021 for the early extinguishment of debt.","[1] Includes a gain (loss) of $20, $(42) and $(11) in 2023, 2022 and 2021, respectively, related to remeasurement of the deferred profit liability for limited-payment contracts. [2] Includes expense of $48 in 2021 for the early extinguishment of debt.","[1] Includes a gain (loss) of $20, $(42) and $(11) in 2023, 2022 and 2021, respectively, related to remeasurement of the deferred profit liability for limited-payment contracts. [2] Includes expense of $48 in 2021 for the early extinguishment of debt.",
