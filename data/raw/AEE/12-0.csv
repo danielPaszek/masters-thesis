@@ -1,0 +1,113 @@
+,0,1,2,3,4,5,6
+0,[1],Includes amounts for registrant and nonregistrant subsidiaries.,,,,,
+1,[2],Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations,,,,,
+2,[3],Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations.,,,,,
+3,[4],Represents net income (loss) available to common stockholders.,,,,,
+4,[5],Prior period has been adjusted to reflect the AIC Merger as discussed in Note 1 - Summary of Significant Accounting Policies.,,,,,
+5,[6],Prior period has been adjusted to reflect the Ameren Illinois Merger as discussed in Note 1 - Summary of Significant Accounting Policies.,,,,,
+6,[7],Prior period has been adjusted to include EEI as discussed in Note 1 - Summary of Significant Accounting Policies.,,,,,
+7,"Consolidated Statement Of Income (Loss) (USD $) In Millions, except Per Share data, unless otherwise specified",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+8,"Consolidated Statement Of Income (Loss) (USD $) In Millions, except Per Share data, unless otherwise specified","Dec. 31, 2011","Dec. 31, 2011","Dec. 31, 2010","Dec. 31, 2010","Dec. 31, 2009","Dec. 31, 2009"
+9,Operating Revenues:,,,,,,
+10,Electric,"$ 6,530",,"$ 6,521",,"$ 5,940",
+11,Gas,1001,,1117,,1195,
+12,Total operating revenues,7531,,7638,,7135,
+13,Operating Expenses:,,,,,,
+14,Fuel,1567,,1323,,1141,
+15,Purchased power,966,,1106,,909,
+16,Gas purchased for resale,570,,669,,749,
+17,Other operations and maintenance,1820,,1821,,1768,
+18,Goodwill and other impairment charges,125,[1],589,[1],7,[1]
+19,Depreciation and amortization,785,,765,,725,
+20,Taxes other than income taxes,457,,449,,420,
+21,Total operating expenses,6290,,6722,,5719,
+22,Operating income (loss),1241,,916,,1416,
+23,Other Income and Expenses:,,,,,,
+24,Miscellaneous income,69,[2],90,[2],71,[2]
+25,Miscellaneous expense,23,[2],33,[2],23,[2]
+26,Total other income (expense),46,,57,,48,
+27,Interest Charges,451,,497,,508,
+28,Income (Loss) Before Income Taxes,836,,476,,956,
+29,Income tax (benefit),310,[3],325,[3],332,[3]
+30,Net Income (Loss),526,,151,,624,
+31,Less: Net Income Attributable to Noncontrolling Interests,7,,12,,12,
+32,Net Income Attributable to Ameren Corporation,519,[4],139,[4],612,[4]
+33,Earnings per Common Share - Basic and Diluted,$ 2.15,,$ 0.58,,$ 2.78,
+34,Dividends per Common Share,$ 1.555,,$ 1.540,,$ 1.540,
+35,Average Common Shares Outstanding,241.5,,238.8,,220.4,
+36,Union Electric Company [Member],,,,,,
+37,Operating Revenues:,,,,,,
+38,Electric,3222,,3030,,2700,
+39,Gas,156,,166,,170,
+40,Other,5,,1,,4,
+41,Total operating revenues,3383,,3197,,2874,
+42,Operating Expenses:,,,,,,
+43,Fuel,866,,635,,593,
+44,Purchased power,104,,162,,124,
+45,Gas purchased for resale,77,,91,,97,
+46,Other operations and maintenance,934,,931,,880,
+47,Loss from regulatory disallowance,89,,,,,
+48,Depreciation and amortization,408,,382,,357,
+49,Taxes other than income taxes,296,,285,,257,
+50,Total operating expenses,2774,,2486,,2308,
+51,Operating income (loss),609,,711,,566,
+52,Other Income and Expenses:,,,,,,
+53,Miscellaneous income,61,,83,,63,
+54,Miscellaneous expense,10,,13,,7,
+55,Total other income (expense),51,,70,,56,
+56,Interest Charges,209,,213,,229,
+57,Income (Loss) Before Income Taxes,451,,568,,393,
+58,Income tax (benefit),161,,199,,128,
+59,Net Income (Loss),290,,369,,265,
+60,Preferred Stock Dividends,3,,5,,6,
+61,Net Income Available to Common Stockholder,287,,364,,259,
+62,Ameren Illinois Company [Member],,,,,,
+63,Operating Revenues:,,,,,,
+64,Electric,1940,,2061,,1965,[5]
+65,Gas,846,,953,,1015,[5]
+66,Other,1,,,,4,[5]
+67,Total operating revenues,2787,,3014,,2984,[5]
+68,Operating Expenses:,,,,,,
+69,Purchased power,853,,965,,1048,[5]
+70,Gas purchased for resale,492,,578,,642,[5]
+71,Other operations and maintenance,640,,635,,590,[5]
+72,Depreciation and amortization,215,,210,,216,[5]
+73,Taxes other than income taxes,129,,128,,125,[5]
+74,Total operating expenses,2329,,2516,,2621,[5]
+75,Operating income (loss),458,,498,,363,[5]
+76,Other Income and Expenses:,,,,,,
+77,Miscellaneous income,7,,7,,12,[5]
+78,Miscellaneous expense,6,,13,,10,[5]
+79,Total other income (expense),1,,(6),,2,[5]
+80,Interest Charges,136,,143,,153,[5]
+81,Income (Loss) Before Income Taxes,323,,349,,212,[5]
+82,Income tax (benefit),127,,137,,79,[5]
+83,Income from Continuing Operations,196,,212,,133,[5]
+84,"Income from Discontinued Operations, net of tax",,,40,,114,"[5],[6]"
+85,Net Income (Loss),196,,252,,247,"[5],[6]"
+86,Preferred Stock Dividends,3,,4,,6,[5]
+87,Net Income Available to Common Stockholder,193,,248,,241,[5]
+88,Ameren Energy Generating Company [Member],,,,,,
+89,Operating Revenues:,,,,,,
+90,Total operating revenues,1066,,1126,,1148,[7]
+91,Operating Expenses:,,,,,,
+92,Fuel,541,,522,,415,[7]
+93,Purchased power,55,,61,,72,[7]
+94,Other operations and maintenance,179,,191,,226,[7]
+95,Goodwill and other impairment charges,35,,170,,6,[7]
+96,Depreciation and amortization,96,,98,,81,[7]
+97,Taxes other than income taxes,21,,22,,24,[7]
+98,Total operating expenses,927,,1064,,824,[7]
+99,Operating income (loss),139,,62,,324,[7]
+100,Other Income and Expenses:,,,,,,
+101,Miscellaneous income,1,,1,,1,[7]
+102,Miscellaneous expense,,,1,,1,[7]
+103,Total other income (expense),1,,,,,
+104,Interest Charges,63,,78,,61,[7]
+105,Income (Loss) Before Income Taxes,77,,(16),,263,[7]
+106,Income tax (benefit),32,,20,,101,[7]
+107,Net Income (Loss),45,,(36),,162,[7]
+108,Less: Net Income Attributable to Noncontrolling Interests,1,,3,,2,[7]
+109,Net Income Attributable to Ameren Corporation,$ 44,,$ (39),,$ 160,[7]
+110,,,,,,,
+111,[1]  Includes amounts for registrant and nonregistrant subsidiaries.  [2]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations  [3]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations. [4]  Represents net income (loss) available to common stockholders. [5]  Prior period has been adjusted to reflect the AIC Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [6]  Prior period has been adjusted to reflect the Ameren Illinois Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [7]  Prior period has been adjusted to include EEI as discussed in Note 1 - Summary of Significant Accounting Policies.,[1]  Includes amounts for registrant and nonregistrant subsidiaries.  [2]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations  [3]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations. [4]  Represents net income (loss) available to common stockholders. [5]  Prior period has been adjusted to reflect the AIC Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [6]  Prior period has been adjusted to reflect the Ameren Illinois Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [7]  Prior period has been adjusted to include EEI as discussed in Note 1 - Summary of Significant Accounting Policies.,[1]  Includes amounts for registrant and nonregistrant subsidiaries.  [2]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations  [3]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations. [4]  Represents net income (loss) available to common stockholders. [5]  Prior period has been adjusted to reflect the AIC Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [6]  Prior period has been adjusted to reflect the Ameren Illinois Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [7]  Prior period has been adjusted to include EEI as discussed in Note 1 - Summary of Significant Accounting Policies.,[1]  Includes amounts for registrant and nonregistrant subsidiaries.  [2]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations  [3]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations. [4]  Represents net income (loss) available to common stockholders. [5]  Prior period has been adjusted to reflect the AIC Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [6]  Prior period has been adjusted to reflect the Ameren Illinois Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [7]  Prior period has been adjusted to include EEI as discussed in Note 1 - Summary of Significant Accounting Policies.,[1]  Includes amounts for registrant and nonregistrant subsidiaries.  [2]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations  [3]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations. [4]  Represents net income (loss) available to common stockholders. [5]  Prior period has been adjusted to reflect the AIC Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [6]  Prior period has been adjusted to reflect the Ameren Illinois Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [7]  Prior period has been adjusted to include EEI as discussed in Note 1 - Summary of Significant Accounting Policies.,[1]  Includes amounts for registrant and nonregistrant subsidiaries.  [2]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations  [3]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations. [4]  Represents net income (loss) available to common stockholders. [5]  Prior period has been adjusted to reflect the AIC Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [6]  Prior period has been adjusted to reflect the Ameren Illinois Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [7]  Prior period has been adjusted to include EEI as discussed in Note 1 - Summary of Significant Accounting Policies.,[1]  Includes amounts for registrant and nonregistrant subsidiaries.  [2]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations  [3]  Includes amounts for Ameren registrant and nonregistrant subsidiaries and intercompany eliminations. [4]  Represents net income (loss) available to common stockholders. [5]  Prior period has been adjusted to reflect the AIC Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [6]  Prior period has been adjusted to reflect the Ameren Illinois Merger as discussed in Note 1 - Summary of Significant Accounting Policies. [7]  Prior period has been adjusted to include EEI as discussed in Note 1 - Summary of Significant Accounting Policies.

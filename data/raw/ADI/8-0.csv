@@ -1,0 +1,49 @@
+,0,1,2,3,4
+0,[1],Includes stock-based compensation expense as follows:,,,
+1,"Consolidated Statements of Income - USD ($)  shares in Thousands, $ in Thousands","Consolidated Statements of Income - USD ($)  shares in Thousands, $ in Thousands",12 Months Ended,12 Months Ended,12 Months Ended
+2,"Consolidated Statements of Income - USD ($)  shares in Thousands, $ in Thousands","Consolidated Statements of Income - USD ($)  shares in Thousands, $ in Thousands","Oct. 31, 2015","Nov. 01, 2014","Nov. 02, 2013"
+3,Revenue,,,,
+4,Revenue,,"$ 3,435,092","$ 2,864,773","$ 2,633,689"
+5,Costs and Expenses,,,,
+6,Cost of sales,[1],1175830,1034585,941278
+7,Gross margin,,2259262,1830188,1692411
+8,Operating expenses:,,,,
+9,Research and development,[1],637459,559686,513035
+10,"Selling, marketing, general and administrative",[1],478972,454676,396233
+11,Amortization of intangible Assets Operating Expenses,,88318,26020,220
+12,Special charges,,0,37322,29848
+13,"Other Selling, General and Administrative Expense",,223672,0,0
+14,Total operating expenses,,1428421,1077704,939336
+15,Operating income from continuing operations,,830841,752484,753075
+16,Nonoperating (income) expenses:,,,,
+17,Interest expense,,27030,34784,27102
+18,Interest income,,"(8,625)","(12,173)","(12,753)"
+19,"Other, net",,2322,528,"(76,597)"
+20,Total nonoperating (income) expense,,20727,23139,"(62,248)"
+21,Earnings,,,,
+22,Income from continuing operations before income taxes,,810114,729345,815323
+23,"Income Tax Expense (Benefit), Continuing Operations [Abstract]",,,,
+24,Provision for income taxes,,113236,100025,141836
+25,Deferred,,"(52,214)","(77,711)","(17,699)"
+26,Payable currently,,165450,177736,159535
+27,"Income from continuing operations, net of tax",,696878,629320,673487
+28,"Discontinued operations, net of tax:",,,,
+29,Net income,,"$ 696,878","$ 629,320","$ 673,487"
+30,Shares used to compute earnings per share - Basic (in shares),,312660,313195,307763
+31,Shares used to compute earnings per share - Diluted (in shares),,316872,318027,314041
+32,Earnings per share - Basic (in dollars per share),,,,
+33,"Income from continuing operations, net of tax",,$ 2.23,$ 2.01,$ 2.19
+34,Earnings per share - Diluted (in dollars per share),,,,
+35,"Income from continuing operations, net of tax",,2.20,1.98,2.14
+36,Dividends declared and paid per share,,$ 1.57,$ 1.45,$ 1.32
+37,Cost of sales [Member],,,,
+38,Includes stock-based compensation expense as follows:,,,,
+39,Stock-based compensation expense,,"$ 8,983","$ 7,069","$ 6,593"
+40,Research and development [Member],,,,
+41,Includes stock-based compensation expense as follows:,,,,
+42,Stock-based compensation expense,,26617,20707,21901
+43,"Selling, marketing, general and administrative [Member]",,,,
+44,Includes stock-based compensation expense as follows:,,,,
+45,Stock-based compensation expense,,"$ 33,319","$ 23,036","$ 28,392"
+46,,,,,
+47,[1] Includes stock-based compensation expense as follows:,[1] Includes stock-based compensation expense as follows:,[1] Includes stock-based compensation expense as follows:,[1] Includes stock-based compensation expense as follows:,[1] Includes stock-based compensation expense as follows:

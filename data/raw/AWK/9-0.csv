@@ -1,0 +1,53 @@
+,0,1,2,3,4,5,6
+0,[1],Amounts may not sum due to rounding,,,,,
+1,[2],"Earnings per share amounts are computed independently for income from continuing operations, loss from discontinued operations and net income. As a result, the sum of per-share amounts from continuing operations and discontinued operations may not equal the total per-share amount for net income.",,,,,
+2,"Consolidated Statements of Operations and Comprehensive Income (USD $) In Thousands, except Per Share data, unless otherwise specified",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+3,"Consolidated Statements of Operations and Comprehensive Income (USD $) In Thousands, except Per Share data, unless otherwise specified","Dec. 31, 2014","Dec. 31, 2014","Dec. 31, 2013","Dec. 31, 2013","Dec. 31, 2012","Dec. 31, 2012"
+4,Operating revenues,"$ 3,011,328",,"$ 2,878,936",,"$ 2,853,926",
+5,Operating expenses,,,,,,
+6,Operation and maintenance,1349864,,1289081,,1329500,
+7,Depreciation and amortization,424084,,406717,,380402,
+8,General taxes,236732,,234198,,220758,
+9,(Gain) loss on asset dispositions and purchases,"(1,928)",,624,,(838),
+10,"Total operating expenses, net",2008752,,1930620,,1929822,
+11,Operating income,1002576,,948316,,924104,
+12,Other income (expenses),,,,,,
+13,"Interest, net","(297,818)",,"(308,164)",,"(310,794)",
+14,Loss on extinguishment of debt,,,"(40,583)",,,
+15,Amortization of debt expense,"(7,026)",,"(6,603)",,"(5,358)",
+16,"Other, net","(3,196)",,"(4,045)",,(926),
+17,Total other income (expenses),"(292,762)",,"(340,379)",,"(293,715)",
+18,Income from continuing operations before income taxes,709814,,607937,,630389,
+19,Provision for income taxes,279973,,237093,,256787,
+20,Income from continuing operations,429841,,370844,,373602,
+21,"Loss from discontinued operations, net of tax","(6,733)",,"(1,580)",,"(15,532)",
+22,Net income,423108,,369264,,358070,
+23,"Other comprehensive income (loss), net of tax:",,,,,,
+24,"Change in employee benefit plan funded status, net of tax of $(29,487), $46,974 and $(16,894), respectively","(46,119)",,73472,,"(26,425)",
+25,Pension amortized to periodic benefit cost:,,,,,,
+26,"Prior service cost, net of tax of $106, $111 and $113, respectively",166,,174,,176,
+27,"Actuarial (gain) loss, net of tax of $(19), $5,697 and $4,668, respectively",(31),,8911,,7301,
+28,Foreign currency translation adjustment,(458),,"(1,001)",,434,
+29,"Unrealized loss on cash flow hedge, net of tax of $(428)",(791),,,,,
+30,Other comprehensive income (loss),"(47,233)",,81556,,"(18,514)",
+31,Comprehensive income,375875,,450820,,339556,
+32,Basic earnings per share:,,,,,,
+33,Income from continuing operations,$ 2.40,"[1],[2]",$ 2.08,"[1],[2]",$ 2.12,"[1],[2]"
+34,"Loss from discontinued operations, net of tax",$ (0.04),"[1],[2]",$ (0.01),"[1],[2]",$ (0.09),"[1],[2]"
+35,Net income,$ 2.36,"[1],[2]",$ 2.08,"[1],[2]",$ 2.03,"[1],[2]"
+36,Diluted earnings per share:,,,,,,
+37,Income from continuing operations,$ 2.39,"[1],[2]",$ 2.07,"[1],[2]",$ 2.10,"[1],[2]"
+38,"Loss from discontinued operations, net of tax",$ (0.04),"[1],[2]",$ (0.01),"[1],[2]",$ (0.09),"[1],[2]"
+39,Net income,$ 2.35,"[1],[2]",$ 2.06,"[1],[2]",$ 2.01,"[1],[2]"
+40,Average common shares outstanding during the period,,,,,,
+41,Basic,178888,,177814,,176445,
+42,Diluted,179806,,179056,,177671,
+43,Dividends declared per common share,$ 1.24,,$ 1.12,,$ 0.98,
+44,Other Funds,,,,,,
+45,Other income (expenses),,,,,,
+46,Allowance for funds used during construction,9440,,12639,,15592,
+47,Borrowed Funds,,,,,,
+48,Other income (expenses),,,,,,
+49,Allowance for funds used during construction,"$ 5,838",,"$ 6,377",,"$ 7,771",
+50,,,,,,,
+51,"[1]  Amounts may not sum due to rounding  [2]  Earnings per share amounts are computed independently for income from continuing operations, loss from discontinued operations and net income. As a result, the sum of per-share amounts from continuing operations and discontinued operations may not equal the total per-share amount for net income.","[1]  Amounts may not sum due to rounding  [2]  Earnings per share amounts are computed independently for income from continuing operations, loss from discontinued operations and net income. As a result, the sum of per-share amounts from continuing operations and discontinued operations may not equal the total per-share amount for net income.","[1]  Amounts may not sum due to rounding  [2]  Earnings per share amounts are computed independently for income from continuing operations, loss from discontinued operations and net income. As a result, the sum of per-share amounts from continuing operations and discontinued operations may not equal the total per-share amount for net income.","[1]  Amounts may not sum due to rounding  [2]  Earnings per share amounts are computed independently for income from continuing operations, loss from discontinued operations and net income. As a result, the sum of per-share amounts from continuing operations and discontinued operations may not equal the total per-share amount for net income.","[1]  Amounts may not sum due to rounding  [2]  Earnings per share amounts are computed independently for income from continuing operations, loss from discontinued operations and net income. As a result, the sum of per-share amounts from continuing operations and discontinued operations may not equal the total per-share amount for net income.","[1]  Amounts may not sum due to rounding  [2]  Earnings per share amounts are computed independently for income from continuing operations, loss from discontinued operations and net income. As a result, the sum of per-share amounts from continuing operations and discontinued operations may not equal the total per-share amount for net income.","[1]  Amounts may not sum due to rounding  [2]  Earnings per share amounts are computed independently for income from continuing operations, loss from discontinued operations and net income. As a result, the sum of per-share amounts from continuing operations and discontinued operations may not equal the total per-share amount for net income."

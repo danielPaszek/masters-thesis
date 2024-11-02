@@ -1,1 +1,6 @@
-AKAM
+APD
+MO - tabelki z kwartalami
+AEP - 200 wierszy
+AXP - brak ostatnich 2 tabelek
+APA - no errors, just 3 10-K
+ARNC - no errors, just 3 10-K

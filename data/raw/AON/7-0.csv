@@ -1,0 +1,34 @@
+,"Consolidated Statements of Income - USD ($)  shares in Millions, $ in Millions",3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+,"Consolidated Statements of Income - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2017","Sep. 30, 2017","Jun. 30, 2017","Mar. 31, 2017","Dec. 31, 2016","Sep. 30, 2016","Jun. 30, 2016","Mar. 31, 2016","Dec. 31, 2017","Dec. 31, 2016","Dec. 31, 2015"
+0,Revenue,,,,,,,,,,,
+1,Total revenue,"$ 2,909","$ 2,340","$ 2,368","$ 2,381","$ 2,650","$ 2,201","$ 2,282","$ 2,276","$ 9,998","$ 9,409","$ 9,480"
+2,Expenses,,,,,,,,,,,
+3,Compensation and benefits,,,,,,,,,6089,5687,5605
+4,Information technology,,,,,,,,,419,386,389
+5,Premises,,,,,,,,,348,343,362
+6,Depreciation of fixed assets,,,,,,,,,187,162,164
+7,Amortization and impairment of intangible assets,,,,,,,,,704,157,173
+8,Other general expenses,,,,,,,,,1272,1036,1200
+9,Total operating expenses,,,,,,,,,9019,7771,7893
+10,Operating income,489,265,(118),343,463,368,387,420,979,1638,1587
+11,Interest income,,,,,,,,,27,9,14
+12,Interest expense,,,,,,,,,(282),(282),(273)
+13,Other income (expense),,,,,,,,,(39),36,100
+14,Income from continuing operations before income taxes,,,,,,,,,685,1401,1428
+15,Income taxes,,,,,,,,,250,148,175
+16,Net income from continuing operations,17,196,(43),265,384,284,273,312,435,1253,1253
+17,"Income from discontinued operations, net of tax",(29),(4),821,40,75,42,35,25,828,177,169
+18,Net income,(12),192,778,305,459,326,308,337,1263,1430,1422
+19,Less: Net income attributable to noncontrolling interests,7,7,9,14,7,7,8,12,37,34,37
+20,Net income attributable to Aon shareholders,$ (19),$ 185,$ 769,$ 291,$ 452,$ 319,$ 300,$ 325,"$ 1,226","$ 1,396","$ 1,385"
+21,Basic net income per share attributable to Aon shareholders,,,,,,,,,,,
+22,"Basic net income per share attributable to Aon shareholders, continuing operations (in dollars per share)",$ 0.04,$ 0.74,$ (0.20),$ 0.95,$ 1.42,$ 1.03,$ 0.99,$ 1.11,$ 1.54,$ 4.55,$ 4.33
+23,"Basic net income per share attributable to Aon shareholders, discontinued operations (in dollars per share)",(0.12),(0.02),3.13,0.15,0.28,0.16,0.13,0.09,3.20,0.66,0.60
+24,Basic net income per share attributable to Aon shareholders (in dollars per share),(0.08),0.72,2.93,1.10,1.70,1.19,1.12,1.20,4.74,5.21,4.93
+25,Diluted net income per share attributable to Aon shareholders,,,,,,,,,,,
+26,"Diluted net income per share attributable to Aon shareholders, continuing operations (in dollars per share)",0.04,0.73,(0.20),0.94,1.40,1.03,0.98,1.10,1.53,4.51,4.28
+27,"Diluted net income per share attributable to Aon shareholders, discontinued operations (in dollars per share)",(0.11),(0.01),3.13,0.15,0.28,0.15,0.13,0.09,3.17,0.65,0.60
+28,Diluted net income per share attributable to Aon shareholders (in dollars per share),$ (0.07),$ 0.72,$ 2.93,$ 1.09,$ 1.68,$ 1.18,$ 1.11,$ 1.19,4.70,5.16,4.88
+29,Cash dividends per share paid on ordinary shares (in dollars per share),,,,,,,,,$ 1.41,$ 1.29,$ 1.15
+30,Weighted average ordinary shares outstanding - basic (in shares),,,,,,,,,258.5,268.1,280.8
+31,Weighted average ordinary shares outstanding - diluted (in shares),,,,,,,,,260.7,270.3,283.8

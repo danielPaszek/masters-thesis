@@ -1,0 +1,303 @@
+,0,1,2,3,4,5
+0,[1],Amounts include affiliated and nonaffiliated revenues.,,,,
+1,[2],Amounts include affiliated and nonaffiliated revenues.,,,,
+2,[3],The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information.,,,,
+3,[4],"(a)Reflects the revisions made to AEPTCo’s previously issued financial statements. For additional details on the revisions to AEPTCo’s financial statements, see “Revisions to Previously Issued Financial Statements” below.",,,,
+4,[5],The amount presented reflects the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information.,,,,
+5,[6],The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information.,,,,
+6,Consolidated Statements of Income - USD ($)  $ in Millions,Consolidated Statements of Income - USD ($)  $ in Millions,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+7,Consolidated Statements of Income - USD ($)  $ in Millions,Consolidated Statements of Income - USD ($)  $ in Millions,"Dec. 31, 2018","Dec. 31, 2017","Dec. 31, 2017","Dec. 31, 2016"
+8,Revenues,,,,,
+9,Revenue from Contracts with Customers,,"$ 16,195.7","$ 15,424.9",,"$ 16,380.1"
+10,Sales to AEP Affiliates,,0.0,0.0,,0.0
+11,TOTAL REVENUES,,16195.7,15424.9,,16380.1
+12,Expenses,,,,,
+13,Other Operation,,2979.2,2525.2,,2996.1
+14,Maintenance,,1247.4,1145.6,,1241.7
+15,Asset Impairments and Other Related Charges,,70.6,87.1,,2267.8
+16,Gain on Sale of Merchant Generation Assets,,0.0,(226.4),,0.0
+17,Depreciation and Amortization,,2286.6,1997.2,,1962.3
+18,Taxes Other Than Income Taxes,,1142.7,1059.4,,1018.0
+19,TOTAL EXPENSES,,13513.0,11899.9,,15216.2
+20,OPERATING INCOME (LOSS),,2682.7,3525.0,,1163.9
+21,Other Income (Expense):,,,,,
+22,Interest and Investment Income,,11.6,16.0,,16.3
+23,Carrying Costs Income,,6.6,18.6,,16.2
+24,Allowance for Equity Funds Used During Construction,,132.5,93.7,,113.2
+25,Non-Service Cost Components of Net Periodic Benefit Cost,,124.5,45.5,,43.2
+26,Gain on Sale of Equity Investment,,0.0,12.4,,0.0
+27,Interest Expense,,(984.4),(895.0),,(877.2)
+28,INCOME BEFORE INCOME TAX EXPENSE (BENEFIT) AND EQUITY EARNINGS (LOSS),,1973.5,2816.2,,475.6
+29,Income Tax Expense (Benefit),,115.3,969.7,,(73.7)
+30,Equity Earnings (Loss) of Unconsolidated Subsidiaries,,73.1,82.4,,71.2
+31,Income (Loss) from Continuing Operations,,1931.3,1928.9,,620.5
+32,"Income (Loss) from Discontinued Operations, Net of Tax",,0.0,0.0,,(2.5)
+33,NET INCOME (LOSS),,1931.3,1928.9,,618.0
+34,Net Income Attributable to Noncontrolling Interests,,7.5,16.3,,7.1
+35,EARNINGS ATTRIBUTABLE TO COMMON SHAREHOLDERS,,"$ 1,923.8","$ 1,912.6",,$ 610.9
+36,Earnings Per Share,,,,,
+37,WEIGHTED AVERAGE NUMBER OF BASIC AEP COMMON SHARES OUTSTANDING,,492774600,491814651,,491495458
+38,BASIC EARNINGS PER SHARE ATTRIBUTABLE TO AEP COMMON SHAREHOLDERS FROM CONTINUING OPERATIONS,,$ 3.90,$ 3.89,,$ 1.25
+39,BASIC EARNINGS PER SHARE ATTRIBUTABLE TO AEP COMMON SHAREHOLDERS FROM DISCONTINUED OPERATIONS,,0.00,0.00,,(0.01)
+40,TOTAL BASIC EARNINGS PER SHARE ATTRIBUTABLE TO AEP COMMON SHAREHOLDERS,,$ 3.90,$ 3.89,,$ 1.24
+41,WEIGHTED AVERAGE NUMBER OF DILUTED AEP COMMON SHARES OUTSTANDING,,493758277,492611067,,491662007
+42,DILUTED EARNINGS PER SHARE ATTRIBUTABLE TO AEP COMMON SHAREHOLDERS FROM CONTINUING OPERATIONS,,$ 3.90,$ 3.88,,$ 1.25
+43,DILUTED EARNINGS PER SHARE ATTRIBUTABLE TO AEP COMMON SHAREHOLDERS FROM DISCONTINUED OPERATIONS,,0.00,0.00,,(0.01)
+44,TOTAL DILUTED EARNINGS PER SHARE ATTRIBUTABLE TO AEP COMMON SHAREHOLDERS,,$ 3.90,$ 3.88,,$ 1.24
+45,Vertically Integrated Utilities [Member],,,,,
+46,Revenues,,,,,
+47,Revenue from Contracts with Customers,,"$ 9,556.7","$ 9,095.1",,"$ 9,012.4"
+48,Transmission and Distribution Utilities [Member],,,,,
+49,Revenues,,,,,
+50,Revenue from Contracts with Customers,,4552.3,4328.9,,4328.3
+51,Generation and Marketing Revenues [Member],,,,,
+52,Revenues,,,,,
+53,Revenue from Contracts with Customers,,1818.1,1771.4,,2858.7
+54,Other Revenues [Member],,,,,
+55,Revenues,,,,,
+56,Revenue from Contracts with Customers,,268.6,229.5,,180.7
+57,TOTAL REVENUES,[1],123.0,,,
+58,Fuel and Other Consumables Used for Electric Generation [Member],,,,,
+59,Expenses,,,,,
+60,Cost of Goods and Services Sold,,2359.4,2346.5,,2908.9
+61,Purchased Electricity for Resale [Member],,,,,
+62,Expenses,,,,,
+63,Cost of Goods and Services Sold,,3427.1,2965.3,,2821.4
+64,AEP Texas Inc. [Member],,,,,
+65,Revenues,,,,,
+66,Revenue from Contracts with Customers,,1493.0,,,
+67,Sales to AEP Affiliates,,105.2,65.7,,75.7
+68,TOTAL REVENUES,,1595.3,1538.4,,1461.4
+69,Expenses,,,,,
+70,Other Operation,,488.9,453.1,,457.8
+71,Maintenance,,89.4,75.9,,73.7
+72,Asset Impairments and Other Related Charges,,,,,72.7
+73,Depreciation and Amortization,,499.6,450.1,,413.9
+74,Taxes Other Than Income Taxes,,132.6,122.3,,107.6
+75,TOTAL EXPENSES,,1249.0,1122.3,,1085.1
+76,OPERATING INCOME (LOSS),,346.3,416.1,,376.3
+77,Other Income (Expense):,,,,,
+78,Interest Income,,0.8,2.9,,10.9
+79,Allowance for Equity Funds Used During Construction,,20.0,6.8,,9.2
+80,Non-Service Cost Components of Net Periodic Benefit Cost,,12.3,3.6,,3.3
+81,Interest Expense,,(147.3),(142.3),,(144.4)
+82,INCOME BEFORE INCOME TAX EXPENSE (BENEFIT) AND EQUITY EARNINGS (LOSS),,232.1,287.1,,255.3
+83,Income Tax Expense (Benefit),,20.8,(23.4),,59.9
+84,Income (Loss) from Continuing Operations,,211.3,310.5,,195.4
+85,"Income (Loss) from Discontinued Operations, Net of Tax",,0.0,0.0,,(48.8)
+86,NET INCOME (LOSS),,211.3,310.5,,146.6
+87,AEP Texas Inc. [Member] | Transmission and Distribution Utilities [Member],,,,,
+88,Revenues,,,,,
+89,Revenue from Contracts with Customers,,1486.3,1470.3,,1383.2
+90,AEP Texas Inc. [Member] | Other Revenues [Member],,,,,
+91,Revenues,,,,,
+92,Revenue from Contracts with Customers,,3.8,2.4,,2.5
+93,TOTAL REVENUES,[2],103.6,,,
+94,AEP Texas Inc. [Member] | Fuel and Other Consumables Used for Electric Generation [Member],,,,,
+95,Expenses,,,,,
+96,Cost of Goods and Services Sold,,38.5,20.9,,32.1
+97,AEP Transmission Co [Member],,,,,
+98,Revenues,,,,,
+99,Revenue from Contracts with Customers,,832.0,,,
+100,Sales to AEP Affiliates,,598.9,568.1,[3],367.5
+101,TOTAL REVENUES,,776.1,706.9,[3],478.0
+102,Expenses,,,,,
+103,Other Operation,,83.8,60.1,,37.0
+104,Maintenance,,10.5,8.5,,6.7
+105,Depreciation and Amortization,,133.9,95.7,"[3],[4]",65.9
+106,Taxes Other Than Income Taxes,,137.8,109.7,,88.3
+107,TOTAL EXPENSES,,366.0,274.0,,197.9
+108,OPERATING INCOME (LOSS),,410.1,432.9,,280.1
+109,Other Income (Expense):,,,,,
+110,Interest Income,,2.5,1.2,[3],0.4
+111,Allowance for Equity Funds Used During Construction,,70.6,49.0,"[3],[5]",52.3
+112,Interest Expense,,(83.2),(70.2),[3],(46.0)
+113,INCOME BEFORE INCOME TAX EXPENSE (BENEFIT) AND EQUITY EARNINGS (LOSS),,400.0,412.9,,286.8
+114,Income Tax Expense (Benefit),,84.1,142.2,"[3],[6]",94.1
+115,NET INCOME (LOSS),,315.9,270.7,"[3],[6]",192.7
+116,AEP Transmission Co [Member] | Transmission [Member],,,,,
+117,Revenues,,,,,
+118,Revenue from Contracts with Customers,,177.0,138.0,[3],110.4
+119,AEP Transmission Co [Member] | Other Revenues [Member],,,,,
+120,Revenues,,,,,
+121,Revenue from Contracts with Customers,,0.2,0.8,[3],0.1
+122,TOTAL REVENUES,[2],0.0,,,
+123,Appalachian Power Co [Member],,,,,
+124,Revenues,,,,,
+125,Revenue from Contracts with Customers,,2993.2,,,
+126,Sales to AEP Affiliates,,181.4,172.0,,142.1
+127,TOTAL REVENUES,,2967.5,2934.2,,3001.2
+128,Expenses,,,,,
+129,Other Operation,,511.6,503.1,,491.7
+130,Maintenance,,316.9,251.6,,275.0
+131,Depreciation and Amortization,,428.4,407.9,,388.5
+132,Taxes Other Than Income Taxes,,134.7,126.4,,123.5
+133,TOTAL EXPENSES,,2484.0,2243.9,,2262.9
+134,OPERATING INCOME (LOSS),,483.5,690.3,,738.3
+135,Other Income (Expense):,,,,,
+136,Interest Income,,1.8,1.4,,1.3
+137,Carrying Costs Income,,1.3,1.4,,0.4
+138,Allowance for Equity Funds Used During Construction,,13.2,9.2,,11.7
+139,Non-Service Cost Components of Net Periodic Benefit Cost,,17.9,5.2,,5.0
+140,Interest Expense,,(194.8),(190.9),,(188.5)
+141,INCOME BEFORE INCOME TAX EXPENSE (BENEFIT) AND EQUITY EARNINGS (LOSS),,322.9,516.6,,568.2
+142,Income Tax Expense (Benefit),,(44.9),185.3,,199.1
+143,NET INCOME (LOSS),,367.8,331.3,,369.1
+144,Appalachian Power Co [Member] | Vertically Integrated Utilities [Member],,,,,
+145,Revenues,,,,,
+146,Revenue from Contracts with Customers,,2777.1,2749.0,,2847.4
+147,Appalachian Power Co [Member] | Other Revenues [Member],,,,,
+148,Revenues,,,,,
+149,Revenue from Contracts with Customers,,9.0,13.2,,11.7
+150,TOTAL REVENUES,[2],(1.9),,,
+151,Appalachian Power Co [Member] | Fuel and Other Consumables Used for Electric Generation [Member],,,,,
+152,Expenses,,,,,
+153,Cost of Goods and Services Sold,,588.9,597.3,,654.9
+154,Appalachian Power Co [Member] | Purchased Electricity for Resale [Member],,,,,
+155,Expenses,,,,,
+156,Cost of Goods and Services Sold,,503.5,357.6,,329.3
+157,Indiana Michigan Power Co [Member],,,,,
+158,Revenues,,,,,
+159,Revenue from Contracts with Customers,,2381.0,,,
+160,Sales to AEP Affiliates,,22.1,1.8,,26.2
+161,Other Revenues - Affiliated,,63.4,62.6,,62.1
+162,TOTAL REVENUES,,2370.7,2121.2,,2167.6
+163,Expenses,,,,,
+164,Purchased Electricity from AEP Affiliates,,237.9,223.9,,228.6
+165,Other Operation,,585.4,591.3,,579.3
+166,Maintenance,,238.1,208.4,,205.6
+167,Asset Impairments and Other Related Charges,,0.0,0.0,,10.5
+168,Depreciation and Amortization,,293.1,210.9,,191.7
+169,Taxes Other Than Income Taxes,,98.9,92.2,,94.8
+170,TOTAL EXPENSES,,1993.5,1774.0,,1793.3
+171,OPERATING INCOME (LOSS),,377.2,347.2,,374.3
+172,Other Income (Expense):,,,,,
+173,Interest Income,,3.4,1.8,,1.2
+174,Carrying Costs Income,,3.9,12.7,,10.1
+175,Allowance for Equity Funds Used During Construction,,11.9,11.1,,15.3
+176,Non-Service Cost Components of Net Periodic Benefit Cost,,18.1,6.1,,7.3
+177,Interest Expense,,(124.1),(110.8),,(100.8)
+178,INCOME BEFORE INCOME TAX EXPENSE (BENEFIT) AND EQUITY EARNINGS (LOSS),,290.4,268.1,,307.4
+179,Income Tax Expense (Benefit),,29.1,81.4,,67.5
+180,NET INCOME (LOSS),,261.3,186.7,,239.9
+181,Indiana Michigan Power Co [Member] | Vertically Integrated Utilities [Member],,,,,
+182,Revenues,,,,,
+183,Revenue from Contracts with Customers,,2272.6,2042.5,,2062.3
+184,Indiana Michigan Power Co [Member] | Other Revenues [Member],,,,,
+185,Revenues,,,,,
+186,Revenue from Contracts with Customers,,12.6,14.3,,17.0
+187,Sales to AEP Affiliates,,70.0,,,
+188,TOTAL REVENUES,[2],(8.2),,,
+189,Indiana Michigan Power Co [Member] | Fuel and Other Consumables Used for Electric Generation [Member],,,,,
+190,Expenses,,,,,
+191,Cost of Goods and Services Sold,,318.3,295.1,,284.1
+192,Indiana Michigan Power Co [Member] | Purchased Electricity for Resale [Member],,,,,
+193,Expenses,,,,,
+194,Cost of Goods and Services Sold,,221.8,152.2,,198.7
+195,Ohio Power Co [Member],,,,,
+196,Revenues,,,,,
+197,Revenue from Contracts with Customers,,3079.9,,,
+198,Sales to AEP Affiliates,,21.0,24.4,,17.3
+199,TOTAL REVENUES,,3063.4,2883.9,,2953.9
+200,Expenses,,,,,
+201,Purchased Electricity from AEP Affiliates,,135.3,108.5,,141.9
+202,Generation Deferrals,,0.0,0.0,,(82.7)
+203,Amortization of Generation Deferrals,,223.9,229.2,,242.9
+204,Other Operation,,771.3,516.0,,711.2
+205,Maintenance,,156.0,141.2,,148.0
+206,Depreciation and Amortization,,259.7,225.9,,238.6
+207,Taxes Other Than Income Taxes,,412.8,391.5,,386.8
+208,TOTAL EXPENSES,,2643.6,2318.2,,2449.8
+209,OPERATING INCOME (LOSS),,419.8,565.7,,504.1
+210,Other Income (Expense):,,,,,
+211,Interest Income,,3.4,4.9,,3.8
+212,Carrying Costs Income,,1.7,3.6,,19.9
+213,Allowance for Equity Funds Used During Construction,,9.8,6.4,,6.0
+214,Non-Service Cost Components of Net Periodic Benefit Cost,,15.5,4.5,,4.4
+215,Interest Expense,,(100.7),(101.9),,(112.2)
+216,INCOME BEFORE INCOME TAX EXPENSE (BENEFIT) AND EQUITY EARNINGS (LOSS),,349.5,483.2,,426.0
+217,Income Tax Expense (Benefit),,24.0,159.3,,143.8
+218,NET INCOME (LOSS),,325.5,323.9,,282.2
+219,Ohio Power Co [Member] | Transmission and Distribution Utilities [Member],,,,,
+220,Revenues,,,,,
+221,Revenue from Contracts with Customers,,3033.8,2853.5,,2930.1
+222,Ohio Power Co [Member] | Other Revenues [Member],,,,,
+223,Revenues,,,,,
+224,Revenue from Contracts with Customers,,8.6,6.0,,6.5
+225,TOTAL REVENUES,[2],4.3,,,
+226,Ohio Power Co [Member] | Purchased Electricity for Resale [Member],,,,,
+227,Expenses,,,,,
+228,Cost of Goods and Services Sold,,684.6,705.9,,663.1
+229,Public Service Co Of Oklahoma [Member],,,,,
+230,Revenues,,,,,
+231,Revenue from Contracts with Customers,,1536.4,,,
+232,Sales to AEP Affiliates,,5.4,4.3,,2.6
+233,TOTAL REVENUES,,1547.3,1427.2,,1249.8
+234,Expenses,,,,,
+235,Purchased Electricity from AEP Affiliates,,0.0,0.0,,3.7
+236,Other Operation,,372.8,315.1,,291.6
+237,Maintenance,,104.8,120.3,,106.9
+238,Depreciation and Amortization,,164.0,130.4,,130.2
+239,Taxes Other Than Income Taxes,,42.8,40.5,,35.8
+240,TOTAL EXPENSES,,1404.8,1255.7,,1054.2
+241,OPERATING INCOME (LOSS),,142.5,171.5,,195.6
+242,Other Income (Expense):,,,,,
+243,Interest Income,,0.1,0.1,,0.7
+244,Allowance for Equity Funds Used During Construction,,0.4,0.5,,6.2
+245,Non-Service Cost Components of Net Periodic Benefit Cost,,8.7,3.4,,3.1
+246,Interest Expense,,(63.5),(53.4),,(51.2)
+247,INCOME BEFORE INCOME TAX EXPENSE (BENEFIT) AND EQUITY EARNINGS (LOSS),,88.2,122.1,,154.4
+248,Income Tax Expense (Benefit),,5.0,50.1,,54.4
+249,NET INCOME (LOSS),,83.2,72.0,,100.0
+250,Public Service Co Of Oklahoma [Member] | Vertically Integrated Utilities [Member],,,,,
+251,Revenues,,,,,
+252,Revenue from Contracts with Customers,,1537.6,1417.5,,1242.8
+253,Public Service Co Of Oklahoma [Member] | Other Revenues [Member],,,,,
+254,Revenues,,,,,
+255,Revenue from Contracts with Customers,,4.3,5.4,,4.4
+256,TOTAL REVENUES,[2],0.0,,,
+257,Public Service Co Of Oklahoma [Member] | Fuel and Other Consumables Used for Electric Generation [Member],,,,,
+258,Expenses,,,,,
+259,Cost of Goods and Services Sold,,240.5,134.5,,44.8
+260,Public Service Co Of Oklahoma [Member] | Purchased Electricity for Resale [Member],,,,,
+261,Expenses,,,,,
+262,Cost of Goods and Services Sold,,479.9,514.9,,441.2
+263,Southwestern Electric Power Co [Member],,,,,
+264,Revenues,,,,,
+265,Revenue from Contracts with Customers,,1817.0,,,
+266,Sales to AEP Affiliates,,28.4,25.9,,24.5
+267,TOTAL REVENUES,,1821.9,1779.9,,1748.0
+268,Expenses,,,,,
+269,Other Operation,,384.2,318.3,,335.4
+270,Maintenance,,141.5,143.5,,149.7
+271,Asset Impairments and Other Related Charges,,0.0,33.6,,0.0
+272,Depreciation and Amortization,,239.5,217.4,,196.5
+273,Taxes Other Than Income Taxes,,99.6,98.3,,88.8
+274,TOTAL EXPENSES,,1544.2,1475.9,,1430.6
+275,OPERATING INCOME (LOSS),,277.7,304.0,,317.4
+276,Other Income (Expense):,,,,,
+277,Interest Income,,5.4,2.7,,1.5
+278,Allowance for Equity Funds Used During Construction,,6.0,2.4,,11.0
+279,Non-Service Cost Components of Net Periodic Benefit Cost,,8.7,3.7,,3.7
+280,Interest Expense,,(127.9),(123.4),,(119.7)
+281,INCOME BEFORE INCOME TAX EXPENSE (BENEFIT) AND EQUITY EARNINGS (LOSS),,169.9,189.4,,213.9
+282,Income Tax Expense (Benefit),,20.4,48.1,,52.1
+283,Equity Earnings (Loss) of Unconsolidated Subsidiaries,,2.7,(3.8),,7.9
+284,NET INCOME (LOSS),,152.2,137.5,,169.7
+285,Net Income Attributable to Noncontrolling Interests,,5.0,12.8,,4.1
+286,EARNINGS ATTRIBUTABLE TO COMMON SHAREHOLDERS,,147.2,124.7,,165.6
+287,Southwestern Electric Power Co [Member] | Vertically Integrated Utilities [Member],,,,,
+288,Revenues,,,,,
+289,Revenue from Contracts with Customers,,1791.9,1752.1,,1721.5
+290,Southwestern Electric Power Co [Member] | Other Revenues [Member],,,,,
+291,Revenues,,,,,
+292,Revenue from Contracts with Customers,,1.6,1.9,,2.0
+293,TOTAL REVENUES,[2],0.0,,,
+294,Southwestern Electric Power Co [Member] | Fuel and Other Consumables Used for Electric Generation [Member],,,,,
+295,Expenses,,,,,
+296,Cost of Goods and Services Sold,,502.3,496.1,,517.8
+297,Southwestern Electric Power Co [Member] | Purchased Electricity for Resale [Member],,,,,
+298,Expenses,,,,,
+299,Cost of Goods and Services Sold,,$ 177.1,$ 168.7,,$ 142.4
+300,,,,,,
+301,"[1] Amounts include affiliated and nonaffiliated revenues. [2] Amounts include affiliated and nonaffiliated revenues. [3] The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information. [4] (a)Reflects the revisions made to AEPTCo’s previously issued financial statements. For additional details on the revisions to AEPTCo’s financial statements, see “Revisions to Previously Issued Financial Statements” below. [5] The amount presented reflects the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information. [6] The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information.","[1] Amounts include affiliated and nonaffiliated revenues. [2] Amounts include affiliated and nonaffiliated revenues. [3] The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information. [4] (a)Reflects the revisions made to AEPTCo’s previously issued financial statements. For additional details on the revisions to AEPTCo’s financial statements, see “Revisions to Previously Issued Financial Statements” below. [5] The amount presented reflects the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information. [6] The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information.","[1] Amounts include affiliated and nonaffiliated revenues. [2] Amounts include affiliated and nonaffiliated revenues. [3] The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information. [4] (a)Reflects the revisions made to AEPTCo’s previously issued financial statements. For additional details on the revisions to AEPTCo’s financial statements, see “Revisions to Previously Issued Financial Statements” below. [5] The amount presented reflects the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information. [6] The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information.","[1] Amounts include affiliated and nonaffiliated revenues. [2] Amounts include affiliated and nonaffiliated revenues. [3] The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information. [4] (a)Reflects the revisions made to AEPTCo’s previously issued financial statements. For additional details on the revisions to AEPTCo’s financial statements, see “Revisions to Previously Issued Financial Statements” below. [5] The amount presented reflects the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information. [6] The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information.","[1] Amounts include affiliated and nonaffiliated revenues. [2] Amounts include affiliated and nonaffiliated revenues. [3] The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information. [4] (a)Reflects the revisions made to AEPTCo’s previously issued financial statements. For additional details on the revisions to AEPTCo’s financial statements, see “Revisions to Previously Issued Financial Statements” below. [5] The amount presented reflects the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information. [6] The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information.","[1] Amounts include affiliated and nonaffiliated revenues. [2] Amounts include affiliated and nonaffiliated revenues. [3] The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information. [4] (a)Reflects the revisions made to AEPTCo’s previously issued financial statements. For additional details on the revisions to AEPTCo’s financial statements, see “Revisions to Previously Issued Financial Statements” below. [5] The amount presented reflects the revisions made to AEPTCo’s previously issued financial statements. See the “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information. [6] The amounts presented reflect the revisions made to AEPTCo’s previously issued financial statements. See “Revisions to Previously Issued Financial Statements” section of Note 1 for additional information."

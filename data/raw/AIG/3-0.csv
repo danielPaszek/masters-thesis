@@ -1,0 +1,56 @@
+,0,1,2,3,4
+0,[1],"Represents activity subsequent to the deconsolidation of Fortitude Reinsurance Company Ltd. on June 2, 2020.",,,
+1,Consolidated Statements of Income (Loss) - USD ($)  $ in Millions,Consolidated Statements of Income (Loss) - USD ($)  $ in Millions,12 Months Ended,12 Months Ended,12 Months Ended
+2,Consolidated Statements of Income (Loss) - USD ($)  $ in Millions,Consolidated Statements of Income (Loss) - USD ($)  $ in Millions,"Dec. 31, 2020","Dec. 31, 2019","Dec. 31, 2018"
+3,Revenues:,,,,
+4,Premiums,,"$ 28,523","$ 30,561","$ 30,614"
+5,Policy fees,,2917,3015,2791
+6,Net investment income,,13631,14619,13086
+7,Net realized capital gains (losses),,"(2,238)",632,(51)
+8,Other income,,903,919,949
+9,Total revenues,,43736,49746,47389
+10,"Benefits, losses and expenses:",,,,
+11,Policyholder benefits and losses incurred,,24806,25402,27412
+12,Interest credited to policyholder account balances,,3622,3832,3754
+13,Amortization of deferred policy acquisition costs,,4211,5164,5386
+14,General operating and other expenses,,8396,8537,9302
+15,Interest expense,,1457,1417,1309
+16,Loss on extinguishment of debt,,12,32,7
+17,Net (gain) loss on sale of divested businesses,,8525,75,(38)
+18,"Total benefits, losses and expenses",,51029,44459,47132
+19,Income (loss) from continuing operations before income tax expense (benefit),,"(7,293)",5287,257
+20,Current,,217,545,336
+21,Deferred,,"(1,677)",621,(182)
+22,Income tax expense (benefit),,"(1,460)",1166,154
+23,Income (loss) from continuing operations,,"(5,833)",4121,103
+24,"Income (loss) from discontinued operations, net of income taxes",,4,48,(42)
+25,Net income (loss),,"(5,829)",4169,61
+26,Less:,,,,
+27,Net income from continuing operations attributable to noncontrolling interests,,115,821,67
+28,Net income (loss) attributable to AIG,,"(5,944)",3348,(6)
+29,Less: Dividends on peferred stock,,29,22,0
+30,Net income (loss) attributable to AIG common shareholders,,"$ (5,973)","$ 3,326",$ (6)
+31,Basic:,,,,
+32,Income (loss) from continuing operations,,$ (6.88),$ 3.74,$ 0.04
+33,Income (loss) from discontinued operations,,0,0.05,(0.05)
+34,Net income (loss) attributable to AIG common shareholders,,(6.88),3.79,(0.01)
+35,Diluted:,,,,
+36,Income (loss) from continuing operations,,(6.88),3.69,0.04
+37,Income from discontinued operations,,0,0.05,(0.05)
+38,Net income (loss) attributable to AIG common shareholders,,$ (6.88),$ 3.74,$ (0.01)
+39,Weighted average shares outstanding:,,,,
+40,Basic,,869309458,876750264,898405537
+41,Diluted,,869309458,889511946,910141242
+42,Excluding Fortitude Re funds withheld assets,,,,
+43,Revenues:,,,,
+44,Net investment income,,"$ 12,578","$ 14,619","$ 13,086"
+45,Net realized capital gains (losses),,(56),632,(51)
+46,Fortitude Re funds withheld assets,,,,
+47,Revenues:,,,,
+48,Net investment income,[1],1053,0,0
+49,Net realized capital gains (losses),[1],463,0,0
+50,Fortitude Re funds withheld embedded derivative,,,,
+51,Revenues:,,,,
+52,Net realized capital gains (losses),[1],"$ (2,645)",$ 0,$ 0
+53,,,,,
+54,"[1] Represents activity subsequent to the deconsolidation of Fortitude Reinsurance Company Ltd. on June 2, 2020.","[1] Represents activity subsequent to the deconsolidation of Fortitude Reinsurance Company Ltd. on June 2, 2020.","[1] Represents activity subsequent to the deconsolidation of Fortitude Reinsurance Company Ltd. on June 2, 2020.","[1] Represents activity subsequent to the deconsolidation of Fortitude Reinsurance Company Ltd. on June 2, 2020.",

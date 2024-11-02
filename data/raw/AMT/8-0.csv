@@ -1,0 +1,43 @@
+,0,1,2,3,4
+0,[1],"Represents Operating expenses, exclusive of Depreciation, amortization and accretion, Selling, general, administrative and development expense, and Other operating expenses.",,,
+1,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Thousands, $ in Thousands",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Thousands, $ in Thousands","Dec. 31, 2015","Dec. 31, 2015","Dec. 31, 2014","Dec. 31, 2013"
+3,REVENUES:,,,,
+4,Property,"$ 4,680,388",,"$ 4,006,854","$ 3,287,090"
+5,Services,91128,,93194,74317
+6,Total operating revenues,4771516,,4100048,3361407
+7,OPERATING EXPENSES:,,,,
+8,"Property (including stock-based compensation expense of $1,614, $1,397 and $977, respectively)",1275436,,1056177,828742
+9,"Services (including stock-based compensation expense of $439, $440 and $567, respectively)",33432,,38088,31131
+10,"Depreciation, amortization and accretion",1285328,,1003802,800145
+11,"Selling, general, administrative and development expense (including stock-based compensation expense of $88,484, $78,316 and $66,594, respectively)",497835,,446542,415545
+12,Other operating expenses,66696,,68517,71539
+13,Total operating expenses,3158727,[1],2613126,2147102
+14,OPERATING INCOME,1612789,,1486922,1214305
+15,OTHER INCOME (EXPENSE):,,,,
+16,Loss on retirement of long-term obligations,"(79,606)",,"(3,473)","(38,701)"
+17,"Other expense (including unrealized foreign currency losses of $71,473, $49,319 and $211,722, respectively)","(134,960)",,"(62,060)","(207,500)"
+18,Total other expense,"(782,827)",,"(621,218)","(672,556)"
+19,INCOME FROM CONTINUING OPERATIONS BEFORE INCOME TAXES,829962,,865704,541749
+20,Income tax provision,"(157,955)",,"(62,505)","(59,541)"
+21,NET INCOME,672007,,803199,482208
+22,Net loss attributable to noncontrolling interest,13067,,21711,69125
+23,NET INCOME ATTRIBUTABLE TO AMERICAN TOWER CORPORATION STOCKHOLDERS,685074,,824910,551333
+24,Dividends on preferred stock,"(90,163)",,"(23,888)",0
+25,NET INCOME ATTRIBUTABLE TO AMERICAN TOWER CORPORATION COMMON STOCKHOLDERS,"$ 594,911",,"$ 801,022","$ 551,333"
+26,NET INCOME PER COMMON SHARE AMOUNTS:,,,,
+27,Basic net income attributable to American Tower Corporation common stockholders (in dollars per share),$ 1.42,,$ 2.02,$ 1.40
+28,Diluted net income attributable to American Tower Corporation common stockholders (in dollars per share),$ 1.41,,$ 2.00,$ 1.38
+29,WEIGHTED AVERAGE COMMON SHARES OUTSTANDING:,,,,
+30,BASIC (in shares),418907,,395958,395040
+31,DILUTED (in shares),423015,,400086,399146
+32,TV Azteca,,,,
+33,OTHER INCOME (EXPENSE):,,,,
+34,"Interest income, TV Azteca, net of interest expense of $820, $1,482 and $1,483, respectively","$ 11,209",,"$ 10,547","$ 22,235"
+35,Interest expense,(820),,"(1,482)","(1,483)"
+36,Excluding TV Azteca,,,,
+37,OTHER INCOME (EXPENSE):,,,,
+38,Interest income,16479,,14002,9706
+39,Interest expense,"$ (595,949)",,"$ (580,234)","$ (458,296)"
+40,,,,,
+41,"[1] Represents Operating expenses, exclusive of Depreciation, amortization and accretion, Selling, general, administrative and development expense, and Other operating expenses.","[1] Represents Operating expenses, exclusive of Depreciation, amortization and accretion, Selling, general, administrative and development expense, and Other operating expenses.","[1] Represents Operating expenses, exclusive of Depreciation, amortization and accretion, Selling, general, administrative and development expense, and Other operating expenses.","[1] Represents Operating expenses, exclusive of Depreciation, amortization and accretion, Selling, general, administrative and development expense, and Other operating expenses.","[1] Represents Operating expenses, exclusive of Depreciation, amortization and accretion, Selling, general, administrative and development expense, and Other operating expenses."

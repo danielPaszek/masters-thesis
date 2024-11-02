@@ -1,0 +1,40 @@
+,0,1,2,3,4
+0,[1],"Earnings per share (""EPS"") is calculated independently for each component and may not sum to total EPS due to rounding.",,,
+1,"Consolidated Income Statements - USD ($)  shares in Millions, $ in Millions","Consolidated Income Statements - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+2,"Consolidated Income Statements - USD ($)  shares in Millions, $ in Millions","Consolidated Income Statements - USD ($)  shares in Millions, $ in Millions","Sep. 30, 2023","Sep. 30, 2022","Sep. 30, 2021"
+3,Income Statement [Abstract],,,,
+4,Sales,,"$ 12,600.0","$ 12,698.6","$ 10,323.0"
+5,Cost of sales,,8833.0,9338.5,7186.1
+6,Facility closure,,0.0,0.0,23.2
+7,Selling and administrative expense,,957.0,900.6,828.4
+8,Research and development expense,,105.6,102.9,93.5
+9,Business and asset actions,,244.6,73.7,0.0
+10,Gain on exchange with joint venture partner,,0.0,0.0,36.8
+11,"Other income (expense), net",,34.8,55.9,52.8
+12,Operating Income,,2494.6,2338.8,2281.4
+13,Equity affiliates' income,,604.3,481.5,294.1
+14,Interest expense,,177.5,128.0,141.8
+15,"Other non-operating income (expense), net",,(39.0),62.4,73.7
+16,Income From Continuing Operations Before Taxes,,2882.4,2754.7,2507.4
+17,Income tax provision,,551.2,500.8,462.8
+18,Income From Continuing Operations,,2331.2,2253.9,2044.6
+19,"Income from discontinued operations, net of tax",,7.4,12.6,70.3
+20,Net Income,,2338.6,2266.5,2114.9
+21,Net income attributable to noncontrolling interests of continuing operations,,38.4,10.4,15.8
+22,Net Income Attributable to Air Products,,2300.2,2256.1,2099.1
+23,Net Income Attributable to Air Products,,,,
+24,Net income from continuing operations,,2292.8,2243.5,2028.8
+25,Net income from discontinued operations,,7.4,12.6,70.3
+26,Net Income Attributable to Air Products,,"$ 2,300.2","$ 2,256.1","$ 2,099.1"
+27,Per Share Data,,,,
+28,Basic EPS from continuing operations,[1],$ 10.31,$ 10.11,$ 9.16
+29,Basic EPS from discontinued operations,[1],0.03,0.06,0.32
+30,Basic EPS attributable to Air Products (in dollars per share),[1],10.35,10.16,9.47
+31,Diluted EPS from continuing operations,[1],10.30,10.08,9.12
+32,Diluted EPS from discontinued operations,[1],0.03,0.06,0.32
+33,Diluted EPS attributable to Air Products (in dollars per share),[1],$ 10.33,$ 10.14,$ 9.43
+34,Weighted Average Common Shares (in millions),,,,
+35,Basic,,222.3,222.0,221.6
+36,Diluted,,222.7,222.5,222.5
+37,,,,,
+38,"[1] Earnings per share (""EPS"") is calculated independently for each component and may not sum to total EPS due to rounding.","[1] Earnings per share (""EPS"") is calculated independently for each component and may not sum to total EPS due to rounding.","[1] Earnings per share (""EPS"") is calculated independently for each component and may not sum to total EPS due to rounding.","[1] Earnings per share (""EPS"") is calculated independently for each component and may not sum to total EPS due to rounding.",
