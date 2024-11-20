@@ -1,0 +1,31 @@
+,"Consolidated Statements of Income - USD ($)  shares in Millions, $ in Millions",3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,6 Months Ended,6 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+,"Consolidated Statements of Income - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2019","Sep. 30, 2019","Jun. 30, 2019","Mar. 31, 2019","Dec. 31, 2018","Sep. 30, 2018","Jun. 30, 2018","Mar. 31, 2018","Jun. 30, 2019","Jun. 30, 2018","Dec. 31, 2019","Dec. 31, 2018","Dec. 31, 2017"
+0,Income Statement [Abstract],,,,,,,,,,,,,
+1,Net sales,"$ 3,039","$ 2,851","$ 2,834","$ 2,638","$ 2,833","$ 2,761","$ 2,813","$ 2,692","$ 5,472","$ 5,505","$ 11,362","$ 11,099","$ 10,584"
+2,Cost of sales,,,1681,1558,1650,,1590,1571,3239,3161,6601,6340,6110
+3,Gross margin,1298,1230,1153,1080,1183,1232,1223,1121,2233,2344,4761,4759,4474
+4,"Selling, general and administrative expenses",,,641,601,627,,676,633,1242,1309,2535,2620,2627
+5,Research and development expenses,,,166,129,175,,172,141,295,313,595,654,615
+6,"Other operating income (expense), net",,,,,,,,,,,141,99,56
+7,Operating income,,,350,383,391,,377,434,733,811,1772,1584,1288
+8,"Interest expense, net",,,20,18,11,,11,12,38,23,71,45,55
+9,"Other (income) expense, net",,,4,(21),(33),,(38),(6),(17),(44),731,(78),133
+10,Income from continuing operations before income taxes,,,326,386,413,,404,428,712,832,970,1617,1100
+11,Income tax expense (benefit),,,(13),(44),(102),,(63),(46),(57),(109),41,(65),(491)
+12,Income from continuing operations,,,313,342,311,,341,382,655,723,1011,1552,609
+13,"Loss from discontinued operations, net of tax",,,,,(6),0,0,0,,0,0,(6),(7)
+14,Net income,,,313,342,305,,341,382,655,723,1011,1546,602
+15,Less: Net income attributable to noncontrolling interests,,,,,,,,,,,10,0,0
+16,Net income attributable to Baxter stockholders,$ (23),$ 369,$ 313,$ 342,$ 305,$ 518,$ 341,$ 382,$ 655,$ 723,"$ 1,001","$ 1,546",$ 602
+17,Earnings per share from continuing operations,,,,,,,,,,,,,
+18,Basic (in dollars per share),,,,,$ 0.59,$ 0.97,$ 0.64,$ 0.71,,$ 1.35,$ 1.97,$ 2.91,$ 1.12
+19,Diluted (in dollars per share),,,,,0.58,0.95,0.62,0.69,,1.32,1.93,2.84,1.10
+20,Loss per share from discontinued operations,,,,,,,,,,,,,
+21,Basic (in dollars per share),,,,,(0.01),0,0,0,,0,0,(0.01),(0.01)
+22,Diluted (in dollars per share),,,,,(0.01),0,0,0,,0,0,(0.01),(0.02)
+23,Earnings per share,,,,,,,,,,,,,
+24,Basic (in dollars per share),$ (0.05),$ 0.72,$ 0.61,$ 0.67,0.58,0.97,0.64,0.71,$ 1.28,1.35,1.97,2.90,1.11
+25,Diluted (in dollars per share),$ (0.05),$ 0.71,$ 0.60,$ 0.66,$ 0.57,$ 0.95,$ 0.62,$ 0.69,$ 1.26,$ 1.32,$ 1.93,$ 2.83,$ 1.08
+26,Weighted-average number of shares outstanding,,,,,,,,,,,,,
+27,Basic (in shares),,,510,512,528,,535,539,511,537,509,534,543
+28,Diluted (in shares),,,519,522,538,,547,551,520,549,519,546,555

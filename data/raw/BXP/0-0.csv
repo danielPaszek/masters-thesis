@@ -1,0 +1,106 @@
+,0,1,2,3,4
+0,[1],"Rental Revenue is equal to Total Revenue per the Company’s Consolidated Statements of Operations, less Development and Management Services Revenue and Direct Reimbursements of Payroll and Related Costs from Management Services Contracts Revenue per the Consolidated Statements of Operations.",,,
+1,"Consolidated Statements Of Operations - USD ($)  shares in Thousands, $ in Thousands","Consolidated Statements Of Operations - USD ($)  shares in Thousands, $ in Thousands",12 Months Ended,12 Months Ended,12 Months Ended
+2,"Consolidated Statements Of Operations - USD ($)  shares in Thousands, $ in Thousands","Consolidated Statements Of Operations - USD ($)  shares in Thousands, $ in Thousands","Dec. 31, 2023","Dec. 31, 2022","Dec. 31, 2021"
+3,Revenue,,,,
+4,Lease,,"$ 3,054,673","$ 2,918,368","$ 2,753,014"
+5,Total revenue,,3273569,3108581,2888621
+6,Expenses,,,,
+7,Rental,,1183947,1108070,1021151
+8,General and administrative,,170158,146378,151573
+9,Transaction costs,,4313,2905,5036
+10,Depreciation and amortization,,830813,749775,717336
+11,Total expenses,,2239227,2050056,1920581
+12,Other income (expense),,,,
+13,Loss from unconsolidated joint ventures,,"(239,543)","(59,840)","(2,570)"
+14,Gains on sales of real estate,,517,437019,123660
+15,Gain on sales-type lease,,0,10058,0
+16,Interest and other income (loss),,69964,11940,5704
+17,Other Income - assignment fee,,0,6624,0
+18,Gains (losses) from investments in securities,,5556,"(6,453)",5626
+19,Losses from interest rate contracts,,(79),0,0
+20,Unrealized Gain (Loss) on Investments,,239,(150),0
+21,Losses from early extinguishment of debt,,0,0,"(45,182)"
+22,Interest expense,,"(579,572)","(437,139)","(423,346)"
+23,Net Income (loss),,291424,1020584,631932
+24,Net income attributable to noncontrolling interests,,,,
+25,Noncontrolling interests in property partnerships,,"(78,661)","(74,857)","(70,806)"
+26,Noncontrolling interest - common units of the Operating Partnership,,"(22,548)","(96,780)","(55,931)"
+27,"Net income attributable to Boston Properties, Inc.",,190215,848947,505195
+28,Preferred dividends / distributions,,0,0,"(2,560)"
+29,Preferred Stock Redemption Charge,,0,0,"(6,412)"
+30,Net income attributable to the Company common shareholders / unitholders,,"$ 190,215","$ 848,947","$ 496,223"
+31,Basic earnings per common share / unit attributable to the Company common shareholders / unitholders,,,,
+32,Earnings Per Share After Allocation of Undistributed Earnings to Participating Securities Basic (dollars per share),,$ 1.21,$ 5.41,$ 3.18
+33,Weighted average number of common shares / units outstanding (in shares / units),,156863,156726,156116
+34,Diluted earnings per common share / unit attributable to the Company common shareholders / unitholders,,,,
+35,"Diluted Earnings: Net income, Per Share Amount (in dollars per share / unit)",,$ 1.21,$ 5.40,$ 3.17
+36,Weighted average number of common and common equivalent shares / units outstanding (in shares / units),,157201,157137,156376
+37,Boston Properties Limited Partnership,,,,
+38,Revenue,,,,
+39,Lease,,"$ 3,054,673","$ 2,918,368","$ 2,753,014"
+40,Total revenue,,3273569,3108581,2888621
+41,Expenses,,,,
+42,Rental,,1183947,1108070,1021151
+43,General and administrative,,170158,146378,151573
+44,Transaction costs,,4313,2905,5036
+45,Depreciation and amortization,,823805,742293,
+46,Total expenses,,2232219,2042574,1912280
+47,Other income (expense),,,,
+48,Loss from unconsolidated joint ventures,,"(239,543)","(59,840)","(2,570)"
+49,Gains on sales of real estate,,517,441075,125198
+50,Gain on sales-type lease,,0,10058,0
+51,Interest and other income (loss),,69964,11940,5704
+52,Other Income - assignment fee,,0,6624,0
+53,Gains (losses) from investments in securities,,5556,"(6,453)",5626
+54,Losses from interest rate contracts,,(79),0,0
+55,Unrealized Gain (Loss) on Investments,,239,(150),0
+56,Losses from early extinguishment of debt,,0,0,"(45,182)"
+57,Interest expense,,"(579,572)","(437,139)","(423,346)"
+58,Net Income (loss),,298432,1032122,641771
+59,Net income attributable to noncontrolling interests,,,,
+60,Noncontrolling interests in property partnerships,,"(78,661)","(74,857)","(70,806)"
+61,"Net income attributable to Boston Properties, Inc.",,219771,957265,570965
+62,Preferred dividends / distributions,,0,0,"(2,560)"
+63,Preferred Stock Redemption Charge,,0,0,"(6,412)"
+64,Net income attributable to the Company common shareholders / unitholders,,"$ 219,771","$ 957,265","$ 561,993"
+65,Basic earnings per common share / unit attributable to the Company common shareholders / unitholders,,,,
+66,Earnings Per Share After Allocation of Undistributed Earnings to Participating Securities Basic (dollars per share),,$ 1.26,$ 5.48,$ 3.25
+67,Weighted average number of common shares / units outstanding (in shares / units),,174796,174360,173150
+68,Diluted earnings per common share / unit attributable to the Company common shareholders / unitholders,,,,
+69,"Diluted Earnings: Net income, Per Share Amount (in dollars per share / unit)",,$ 1.25,$ 5.47,$ 3.24
+70,Weighted average number of common and common equivalent shares / units outstanding (in shares / units),,175134,174771,173410
+71,Parking and Other [Member],,,,
+72,Revenue,,,,
+73,Other revenue,,"$ 112,918","$ 107,225","$ 81,814"
+74,Parking and Other [Member] | Boston Properties Limited Partnership,,,,
+75,Revenue,,,,
+76,Other revenue,,112918,107225,81814
+77,Hotel [Member],,,,
+78,Revenue,,,,
+79,Other revenue,[1],47357,39482,13609
+80,Expenses,,,,
+81,Operating expense,,32225,27478,12998
+82,Hotel [Member] | Boston Properties Limited Partnership,,,,
+83,Revenue,,,,
+84,Other revenue,,47357,39482,13609
+85,Expenses,,,,
+86,Operating expense,,32225,27478,12998
+87,Management Service [Member],,,,
+88,Revenue,,,,
+89,Other revenue,,40850,28056,27697
+90,Management Service [Member] | Boston Properties Limited Partnership,,,,
+91,Revenue,,,,
+92,Other revenue,,40850,28056,27697
+93,"Real Estate, Other [Member]",,,,
+94,Revenue,,,,
+95,Other revenue,,17771,15450,12487
+96,Expenses,,,,
+97,Operating expense,,17771,15450,12487
+98,"Real Estate, Other [Member] | Boston Properties Limited Partnership",,,,
+99,Revenue,,,,
+100,Other revenue,,17771,15450,12487
+101,Expenses,,,,
+102,Operating expense,,"$ 17,771","$ 15,450","$ 12,487"
+103,,,,,
+104,"[1] Rental Revenue is equal to Total Revenue per the Company’s Consolidated Statements of Operations, less Development and Management Services Revenue and Direct Reimbursements of Payroll and Related Costs from Management Services Contracts Revenue per the Consolidated Statements of Operations.","[1] Rental Revenue is equal to Total Revenue per the Company’s Consolidated Statements of Operations, less Development and Management Services Revenue and Direct Reimbursements of Payroll and Related Costs from Management Services Contracts Revenue per the Consolidated Statements of Operations.","[1] Rental Revenue is equal to Total Revenue per the Company’s Consolidated Statements of Operations, less Development and Management Services Revenue and Direct Reimbursements of Payroll and Related Costs from Management Services Contracts Revenue per the Consolidated Statements of Operations.","[1] Rental Revenue is equal to Total Revenue per the Company’s Consolidated Statements of Operations, less Development and Management Services Revenue and Direct Reimbursements of Payroll and Related Costs from Management Services Contracts Revenue per the Consolidated Statements of Operations.",

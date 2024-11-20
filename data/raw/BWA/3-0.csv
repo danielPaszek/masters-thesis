@@ -1,0 +1,29 @@
+,0,1,2,3,4
+0,[1],Net of income taxes.,,,
+1,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2020","Dec. 31, 2019","Dec. 31, 2018"
+3,Income Statement [Abstract],,,,
+4,Net sales,,"$ 10,165","$ 10,168","$ 10,530"
+5,Cost of sales,,8255,8067,8300
+6,Gross profit,,1910,2101,2230
+7,"Selling, general and administrative expenses",,951,873,946
+8,"Other operating expense (income), net",,341,(75),94
+9,Operating income,,618,1303,1190
+10,"Equity in affiliates’ earnings, net of tax",,(18),(32),(49)
+11,Unrealized gain on equity securities,,(382),0,0
+12,Interest income,,(12),(12),(6)
+13,Interest expense,,73,55,59
+14,Other postretirement (income) expense,,(7),27,(10)
+15,Earnings before income taxes and noncontrolling interest,,964,1265,1196
+16,Provision for income taxes,,397,468,211
+17,Net earnings,,567,797,985
+18,"Net earnings attributable to the noncontrolling interest, net of tax",[1],67,51,54
+19,Net earnings attributable to BorgWarner Inc.,,$ 500,$ 746,$ 931
+20,Earnings Per Share,,,,
+21,Basic (in dollars per share),,$ 2.35,$ 3.63,$ 4.47
+22,Diluted (in dollars per share),,$ 2.34,$ 3.61,$ 4.44
+23,Weighted average shares outstanding:,,,,
+24,Basic (shares),,213.0,205.7,208.2
+25,Diluted (shares),,214.0,206.8,209.5
+26,,,,,
+27,[1] Net of income taxes.,[1] Net of income taxes.,[1] Net of income taxes.,[1] Net of income taxes.,

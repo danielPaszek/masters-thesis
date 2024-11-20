@@ -1,0 +1,102 @@
+,0,1,2,3,4
+0,[1],"Rental Revenue is equal to Total Revenue per the Company’s Consolidated Statements of Operations, less Development and Management Services Revenue and Direct Reimbursements of Payroll and Related Costs from Management Services Contracts Revenue per the Consolidated Statements of Operations.",,,
+1,"Consolidated Statements Of Operations - USD ($)  shares in Thousands, $ in Thousands","Consolidated Statements Of Operations - USD ($)  shares in Thousands, $ in Thousands",12 Months Ended,12 Months Ended,12 Months Ended
+2,"Consolidated Statements Of Operations - USD ($)  shares in Thousands, $ in Thousands","Consolidated Statements Of Operations - USD ($)  shares in Thousands, $ in Thousands","Dec. 31, 2019","Dec. 31, 2018","Dec. 31, 2017"
+3,Revenue,,,,
+4,Lease,,"$ 2,758,014",,
+5,Base rent,,,"$ 2,103,723","$ 2,049,368"
+6,Recoveries from tenants,,,402066,367500
+7,Total revenue,,2960562,2717076,2602076
+8,Expenses,,,,
+9,Rental,,1050010,979151,929977
+10,Transaction costs,,1984,1604,668
+11,General and administrative,,140777,121722,113715
+12,Depreciation and amortization,,677764,645649,617547
+13,Total expenses,,1914925,1791579,1693966
+14,Other income (expense),,,,
+15,Income from unconsolidated joint ventures,,46592,2222,11232
+16,Gains on sales of real estate,,709,182356,7663
+17,Interest and other income,,18939,10823,5783
+18,Gains (losses) from investments in securities,,6417,"(1,865)",3678
+19,Impairment losses,,"(24,038)","(11,812)",0
+20,Interest expense,,"(412,717)","(378,168)","(374,481)"
+21,(Losses) gains from early extinguishments of debt,,"(29,540)","(16,490)",496
+22,Net income,,651999,712563,562481
+23,Net income attributable to noncontrolling interests,,,,
+24,Noncontrolling interests in property partnerships,,"(71,120)","(62,909)","(47,832)"
+25,Noncontrolling interest - common units of the Operating Partnership,,"(59,345)","(66,807)","(52,210)"
+26,Net income attributable to the Company,,521534,582847,462439
+27,Preferred dividends / distributions,,"(10,500)","(10,500)","(10,500)"
+28,Net income attributable to the Company's common shareholders / unitholders,,"$ 511,034","$ 572,347","$ 451,939"
+29,Basic earnings per common share / unit attributable to the Company,,,,
+30,Net income (in dollars per share / unit),,$ 3.31,$ 3.71,$ 2.93
+31,Weighted average number of common shares / units outstanding (in shares / units),,154582,154427,154190
+32,Diluted earnings per common share / unit attributable to the Company,,,,
+33,"Diluted Earnings: Net income, Per Share Amount (in dollars per share / unit)",,$ 3.30,$ 3.70,$ 2.93
+34,Weighted average number of common and common equivalent shares / units outstanding (in shares / units),,154883,154682,154390
+35,Boston Properties Limited Partnership,,,,
+36,Revenue,,,,
+37,Lease,,"$ 2,758,014",,
+38,Base rent,,,"$ 2,103,723","$ 2,049,368"
+39,Recoveries from tenants,,,402066,367500
+40,Total revenue,,2960562,2717076,2602076
+41,Expenses,,,,
+42,Rental,,1050010,979151,929977
+43,Transaction costs,,1984,1604,668
+44,General and administrative,,140777,121722,113715
+45,Depreciation and amortization,,669956,637891,
+46,Total expenses,,1907117,1783821,1685826
+47,Other income (expense),,,,
+48,Income from unconsolidated joint ventures,,46592,2222,11232
+49,Gains on sales of real estate,,858,190716,8240
+50,Interest and other income,,18939,10823,5783
+51,Gains (losses) from investments in securities,,6417,"(1,865)",3678
+52,Impairment losses,,"(22,272)","(10,181)",0
+53,Interest expense,,"(412,717)","(378,168)","(374,481)"
+54,(Losses) gains from early extinguishments of debt,,"(29,540)","(16,490)",496
+55,Net income,,661722,730312,571198
+56,Net income attributable to noncontrolling interests,,,,
+57,Noncontrolling interests in property partnerships,,"(71,120)","(62,909)","(47,832)"
+58,Net income attributable to the Company,,590602,667403,523366
+59,Preferred dividends / distributions,,"(10,500)","(10,500)","(10,500)"
+60,Net income attributable to the Company's common shareholders / unitholders,,"$ 580,102","$ 656,903","$ 512,866"
+61,Basic earnings per common share / unit attributable to the Company,,,,
+62,Net income (in dollars per share / unit),,$ 3.37,$ 3.82,$ 2.99
+63,Weighted average number of common shares / units outstanding (in shares / units),,172200,171912,171661
+64,Diluted earnings per common share / unit attributable to the Company,,,,
+65,"Diluted Earnings: Net income, Per Share Amount (in dollars per share / unit)",,$ 3.36,$ 3.81,$ 2.98
+66,Weighted average number of common and common equivalent shares / units outstanding (in shares / units),,172501,172167,171861
+67,Parking and Other [Member],,,,
+68,Revenue,,,,
+69,Other revenue,,"$ 103,534","$ 107,421","$ 105,000"
+70,Parking and Other [Member] | Boston Properties Limited Partnership,,,,
+71,Revenue,,,,
+72,Other revenue,,103534,107421,105000
+73,Hotel [Member],,,,
+74,Revenue,,,,
+75,Other revenue,[1],48589,49118,45603
+76,Expenses,,,,
+77,Operating expense,,34004,33863,32059
+78,Hotel [Member] | Boston Properties Limited Partnership,,,,
+79,Revenue,,,,
+80,Other revenue,,48589,49118,45603
+81,Expenses,,,,
+82,Operating expense,,34004,33863,32059
+83,"Real Estate, Other [Member]",,,,
+84,Revenue,,,,
+85,Other revenue,,10386,9590,0
+86,"Real Estate, Other [Member] | Boston Properties Limited Partnership",,,,
+87,Revenue,,,,
+88,Other revenue,,10386,9590,0
+89,Management Service [Member],,,,
+90,Revenue,,,,
+91,Other revenue,,40039,45158,34605
+92,Expenses,,,,
+93,Operating expense,,10386,9590,0
+94,Management Service [Member] | Boston Properties Limited Partnership,,,,
+95,Revenue,,,,
+96,Other revenue,,40039,45158,34605
+97,Expenses,,,,
+98,Operating expense,,"$ 10,386","$ 9,590",$ 0
+99,,,,,
+100,"[1] Rental Revenue is equal to Total Revenue per the Company’s Consolidated Statements of Operations, less Development and Management Services Revenue and Direct Reimbursements of Payroll and Related Costs from Management Services Contracts Revenue per the Consolidated Statements of Operations.","[1] Rental Revenue is equal to Total Revenue per the Company’s Consolidated Statements of Operations, less Development and Management Services Revenue and Direct Reimbursements of Payroll and Related Costs from Management Services Contracts Revenue per the Consolidated Statements of Operations.","[1] Rental Revenue is equal to Total Revenue per the Company’s Consolidated Statements of Operations, less Development and Management Services Revenue and Direct Reimbursements of Payroll and Related Costs from Management Services Contracts Revenue per the Consolidated Statements of Operations.","[1] Rental Revenue is equal to Total Revenue per the Company’s Consolidated Statements of Operations, less Development and Management Services Revenue and Direct Reimbursements of Payroll and Related Costs from Management Services Contracts Revenue per the Consolidated Statements of Operations.",

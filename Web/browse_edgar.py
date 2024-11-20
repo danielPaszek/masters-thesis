@@ -36,15 +36,21 @@ def open_sections(driver):
             continue
     if clicked != 0:
         return True
-    raise ValueError("No financial statements found")
+    print("No financial statements found")
+    return False
 
 def open_income_statement(driver) -> WebElement | None:
     section = None
     table = None
-    for text in ['consolidated statements of income', 'consolidated statements of operations', 'statement of income',
-                 'income statements', 'consolidated statements of earnings', 'INCOME STATEMENTS',
-                 'consolidated statement of earnings', 'consolidated statement of operations',
-                 'consolidated statement of income', 'statement of consolidated operations'
+    for text in [
+        'consolidated statements of operations and comprehensive income (loss)',
+        'consolidated statements of income', 'consolidated statements of operations',
+        'consolidated statement of earnings', 'consolidated statement of operations',
+        'consolidated statement of income', 'statement of consolidated operations',
+        'statements of consolidated earnings',
+        'income statements', 'consolidated statements of earnings',
+        'INCOME STATEMENTS', 'statement of income',
+        'consolidated results of operations',
                  ]:
         try:
             section = driver.find_element(By.XPATH,
@@ -69,13 +75,18 @@ def open_income_statement(driver) -> WebElement | None:
         'Revenue', 'Net income', 'Net income (loss)', 'Operating income', 'Operating income (loss)',
         'Revenues', 'Revenues:', 'Total Revenue', 'Total Revenues', 'Total revenue', 'Total revenues',
         'Total sales', 'Total Sales', 'Total sales:', 'Total Sales:'
-        'Net revenue', 'Net revenues', 'Net Revenues',
+        'Net revenue', 'Net revenues', 'Net Revenues', 'Net Revenues:',
         'Net Revenue', 'Net sales', 'Net sales:', 'Net Sales',
         'Cost of Sales', 'Cost of sales', 'Cost of Sales:', 'Cost of sales:',
         'Operating Revenues', 'Operating Revenues:', 'Operating revenues', 'Operating revenues:',
         'Net Sales:', 'Gross profit', 'Gross Profit', 'Total non-interest revenues', 'Total non-interest Revenues',
         'Earnings per Common Share', 'Earnings per common share', 'Earnings per common Share',
-        'REVENUES', 'REVENUES:', 'REVENUE', 'REVENUE:'
+        'REVENUES', 'REVENUES:', 'REVENUE', 'REVENUE:',
+        'Net earnings', 'net earnings', 'Net earnings:', 'net earnings:',
+        'NET EARNINGS', 'NET EARNINGS ', 'SALES AND OPERATING REVENUES:',
+        'TOTAL COST OF SALES', 'TOTAL COST OF SALES:',
+        'Sales and revenues:', 'Sales and revenues', 'Total net revenues', 'Total net revenues:',
+        'Revenues and Other Income', 'Costs and Other Deductions'
     ]:
         try:
             table = driver.find_element(By.XPATH,
