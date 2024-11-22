@@ -1,0 +1,50 @@
+,0,1,2,3,4
+0,[1],"Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.",,,
+1,"CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2019","Dec. 31, 2018","Dec. 31, 2017"
+3,Revenues,,,,
+4,Interest revenue,,"$ 76,510","$ 70,828","$ 61,579"
+5,Interest expense,,29163,24266,16518
+6,Net interest revenue,,47347,46562,45061
+7,Commissions and fees,,11746,11857,12707
+8,Principal transactions,,8892,8905,8940
+9,Administration and other fiduciary fees,,3411,3580,3584
+10,"Realized gains on sales of investments, net",,1474,421,778
+11,Net impairment losses recognized in earnings,,(32),(132),(63)
+12,Other revenue,,1448,1661,1437
+13,Total non-interest revenues,,26939,26292,27383
+14,"Total revenues, net of interest expense",,74286,72854,72444
+15,Provisions for credit losses and for benefits and claims,,,,
+16,Provision for loan losses,,8218,7354,7503
+17,Policyholder benefits and claims,,73,101,109
+18,Provision (release) for unfunded lending commitments,,92,113,(161)
+19,Total provisions for credit losses and for benefits and claims,,8383,7568,7451
+20,Operating expenses,,,,
+21,Compensation and benefits,,21433,21154,21181
+22,Premises and equipment,,2328,2324,2453
+23,Technology/communication,,7077,7193,6909
+24,Advertising and marketing,,1516,1545,1608
+25,Other operating,,9648,9625,10081
+26,Total operating expenses,,42002,41841,42232
+27,Income (loss) from continuing operations before income taxes,,23901,23445,22761
+28,Provision for income taxes,,4430,5357,29388
+29,Income (loss) from continuing operations,,19471,18088,"(6,627)"
+30,Discontinued operations,,,,
+31,Loss from discontinued operations,,(31),(26),(104)
+32,Provision (benefit) for income taxes,,(27),(18),7
+33,"Loss from discontinued operations, net of taxes",,(4),(8),(111)
+34,Net income (loss) before attribution of noncontrolling interests,,19467,18080,"(6,738)"
+35,Noncontrolling interests,,66,35,60
+36,Citigroup’s net income (loss),,"$ 19,401","$ 18,045","$ (6,798)"
+37,Basic earnings per share,,,,
+38,Income (loss) from continuing operations (in dollars per share),[1],$ 8.08,$ 6.69,$ (2.94)
+39,"Loss from discontinued operations, net of taxes (in dollars per share)",[1],0,0,(0.04)
+40,Net income (loss) (in dollars per share),[1],$ 8.08,$ 6.69,$ (2.98)
+41,Weighted average common shares outstanding (in shares),,2249.2,2493.3,2698.5
+42,Diluted earnings per share,,,,
+43,Income (loss) from continuing operations (in dollars per share),,$ 8.04,$ 6.69,$ (2.94)
+44,"Income (loss) from discontinued operations, net of taxes (in dollars per share)",,0,0,(0.04)
+45,Net income (loss) (in dollars per share),,$ 8.04,$ 6.68,$ (2.98)
+46,Adjusted weighted average common shares outstanding (in shares),,2265.3,2494.8,2698.5
+47,,,,,
+48,"[1] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.","[1] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.","[1] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.","[1] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.",

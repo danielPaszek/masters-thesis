@@ -1,0 +1,54 @@
+,0,1,2,3,4
+0,[1],Certain prior-period revenue and expense lines and totals were reclassified to conform to the current period’s presentation. See Note 3 to the Consolidated Financial Statements.,,,
+1,[2],"Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.",,,
+2,"CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+3,"CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2017","Dec. 31, 2016","Dec. 31, 2015"
+4,Revenues,,,,
+5,Interest revenue,[1],"$ 61,204","$ 57,615","$ 58,551"
+6,Interest expense,[1],16517,12511,11921
+7,Net interest revenue,[1],44687,45104,46630
+8,Commissions and fees,[1],12939,11938,14485
+9,Principal transactions,[1],9168,7585,6008
+10,Administration and other fiduciary fees,[1],3079,2783,2856
+11,"Realized gains on sales of investments, net",[1],778,948,682
+12,Other-than-temporary impairment losses on investments,,,,
+13,Gross impairment losses,[1],(63),(620),(265)
+14,Less: Impairments recognized in AOCI,[1],0,0,0
+15,Net impairment losses recognized in earnings,[1],(63),(620),(265)
+16,Other revenue,[1],861,2137,5958
+17,Total non-interest revenues,[1],26762,24771,29724
+18,"Total revenues, net of interest expense",[1],71449,69875,76354
+19,Provisions for credit losses and for benefits and claims,,,,
+20,Provision for loan losses,,7503,6749,7108
+21,Policyholder benefits and claims,,109,204,731
+22,Provision (release) for unfunded lending commitments,,(161),29,74
+23,Total provisions for credit losses and for benefits and claims,,7451,6982,7913
+24,Operating expenses,,,,
+25,Compensation and benefits,[1],21181,20970,21769
+26,Premises and equipment,[1],2453,2542,2878
+27,Technology/communication,[1],6891,6685,6581
+28,Advertising and marketing,[1],1608,1632,1547
+29,Other operating,[1],9104,9587,10840
+30,Total operating expenses,[1],41237,41416,43615
+31,Income (loss) from continuing operations before income taxes,,22761,21477,24826
+32,Provision for income taxes (benefits),,29388,6444,7440
+33,Income (loss) from continuing operations,,"(6,627)",15033,17386
+34,Discontinued operations,,,,
+35,Loss from discontinued operations,,(104),(80),(83)
+36,Provision (benefit) for income taxes,,7,(22),(29)
+37,"Loss from discontinued operations, net of taxes",,(111),(58),(54)
+38,Net income (loss) before attribution of noncontrolling interests,,"(6,738)",14975,17332
+39,Noncontrolling interests,,60,63,90
+40,Citigroup’s net income (loss),,"$ (6,798)","$ 14,912","$ 17,242"
+41,Basic earnings per share,,,,
+42,Income (loss) from continuing operations (in dollars per share),[2],$ (2.94),$ 4.74,$ 5.43
+43,"Loss from discontinued operations, net of taxes (in dollars per share)",[2],(0.04),(0.02),(0.02)
+44,Net income (loss) (in dollars per share),[2],$ (2.98),$ 4.72,$ 5.41
+45,Weighted average common shares outstanding (in shares),,2698.5,2888.1,3004.0
+46,Diluted earnings per share,,,,
+47,Income (loss) from continuing operations (in dollars per share),[2],$ (2.94),$ 4.74,$ 5.42
+48,"Income (loss) from discontinued operations, net of taxes (in dollars per share)",[2],(0.04),(0.02),(0.02)
+49,Net income (loss) (in dollars per share),[2],$ (2.98),$ 4.72,$ 5.40
+50,Adjusted weighted average common shares outstanding (in shares),,2698.5,2888.3,3007.7
+51,,,,,
+52,"[1] Certain prior-period revenue and expense lines and totals were reclassified to conform to the current period’s presentation. See Note 3 to the Consolidated Financial Statements. [2] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.","[1] Certain prior-period revenue and expense lines and totals were reclassified to conform to the current period’s presentation. See Note 3 to the Consolidated Financial Statements. [2] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.","[1] Certain prior-period revenue and expense lines and totals were reclassified to conform to the current period’s presentation. See Note 3 to the Consolidated Financial Statements. [2] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.","[1] Certain prior-period revenue and expense lines and totals were reclassified to conform to the current period’s presentation. See Note 3 to the Consolidated Financial Statements. [2] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.","[1] Certain prior-period revenue and expense lines and totals were reclassified to conform to the current period’s presentation. See Note 3 to the Consolidated Financial Statements. [2] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income."

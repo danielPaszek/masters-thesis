@@ -1,0 +1,56 @@
+,0,1,2,3,4
+0,[1],In accordance with ASC 326.,,,
+1,[2],"Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.",,,
+2,"CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+3,"CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2020","Dec. 31, 2019","Dec. 31, 2018"
+4,Revenues,,,,
+5,Interest revenue,,"$ 58,089","$ 76,510","$ 70,828"
+6,Interest expense,,14541,29163,24266
+7,Net interest revenue,,43548,47347,46562
+8,Commissions and fees,,11385,11746,11857
+9,Principal transactions,,13885,8892,8905
+10,Administration and other fiduciary fees,,3472,3411,3580
+11,"Realized gains on sales of investments, net",,1756,1474,421
+12,Impairment losses on investments:,,,,
+13,Impairment losses on investments and other assets,,(165),(32),(132)
+14,Provision for credit losses on AFS debt securities,[1],(3),0,0
+15,Net impairment losses recognized in earnings,,(168),(32),(132)
+16,Other revenue,,420,1448,1661
+17,Total non-interest revenues,,30750,26939,26292
+18,"Total revenues, net of interest expense",,74298,74286,72854
+19,Provisions for credit losses and for benefits and claims,,,,
+20,Provision for credit losses on loans,,15922,8218,7354
+21,Provision for credit losses on held-to-maturity (HTM) debt securities,,7,0,0
+22,Provision for credit losses on other assets,,7,0,0
+23,Policyholder benefits and claims,,113,73,101
+24,Provision for credit losses on unfunded lending commitments,,1446,92,113
+25,Total provisions for credit losses and for benefits and claims,,17495,8383,7568
+26,Operating expenses,,,,
+27,Compensation and benefits,,22214,21433,21154
+28,Premises and equipment,,2333,2328,2324
+29,Technology/communication,,7383,7077,7193
+30,Advertising and marketing,,1217,1516,1545
+31,Other operating,,10024,9648,9625
+32,Total operating expenses,,43171,42002,41841
+33,Income from continuing operations before income taxes,,13632,23901,23445
+34,Provision for income taxes,,2525,4430,5357
+35,Income from continuing operations,,11107,19471,18088
+36,Discontinued operations,,,,
+37,Loss from discontinued operations,,(20),(31),(26)
+38,Provision (benefit) for income taxes,,0,(27),(18)
+39,"Loss from discontinued operations, net of taxes",,(20),(4),(8)
+40,Net income before attribution of noncontrolling interests,,11087,19467,18080
+41,Noncontrolling interests,,40,66,35
+42,Citigroup’s net income,,"$ 11,047","$ 19,401","$ 18,045"
+43,Basic earnings per share,,,,
+44,Income from continuing operations (in dollars per share),[2],$ 4.75,$ 8.08,$ 6.69
+45,"Loss from discontinued operations, net of taxes (in dollars per share)",[2],(0.01),0,0
+46,Net income (in dollars per share),[2],$ 4.74,$ 8.08,$ 6.69
+47,Weighted average common shares outstanding (in shares),,2085.8,2249.2,2493.3
+48,Diluted earnings per share,,,,
+49,Income from continuing operations (in dollars per share),[2],$ 4.73,$ 8.04,$ 6.69
+50,"Income (loss) from discontinued operations, net of taxes (in dollars per share)",[2],(0.01),0,0
+51,Net income (in dollars per share),[2],$ 4.72,$ 8.04,$ 6.68
+52,Adjusted weighted average common shares outstanding (in shares),,2099.0,2265.3,2494.8
+53,,,,,
+54,"[1] In accordance with ASC 326. [2] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.","[1] In accordance with ASC 326. [2] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.","[1] In accordance with ASC 326. [2] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.","[1] In accordance with ASC 326. [2] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.",

@@ -1,0 +1,38 @@
+,0,1,2,3,4
+0,[1],Represents expenses presented to management on a consolidated basis only and not allocated to the operating segments,,,
+1,"Consolidated Statements of Income - USD ($)  shares in Thousands, $ in Thousands","Consolidated Statements of Income - USD ($)  shares in Thousands, $ in Thousands",12 Months Ended,12 Months Ended,12 Months Ended
+2,"Consolidated Statements of Income - USD ($)  shares in Thousands, $ in Thousands","Consolidated Statements of Income - USD ($)  shares in Thousands, $ in Thousands","Dec. 31, 2015","Dec. 31, 2014","Dec. 31, 2013"
+3,Revenues:,,,,
+4,Product and licenses,,"$ 875,807","$ 899,736","$ 891,630"
+5,Software as a service,,731292,651562,582872
+6,License updates and maintenance,,1521007,1416017,1305053
+7,Professional services,,147488,175541,138879
+8,Total net revenues,,3275594,3142856,2918434
+9,Cost of net revenues:,,,,
+10,Cost of product and license revenues,,118265,124110,114932
+11,Cost of services and maintenance revenues,,364916,349683,289990
+12,Amortization and impairment of product related intangible assets,,131183,146426,97873
+13,Total cost of net revenues,,614364,620219,502795
+14,Gross margin,,2661230,2522637,2415639
+15,Operating expenses:,,,,
+16,Research and development,,563975,553817,516338
+17,"Sales, marketing and services",,1195362,1280265,1216680
+18,General and administrative,,342665,319922,260236
+19,Amortization and impairment of other intangible assets,,108732,45898,41668
+20,Restructuring,[1],100411,20424,0
+21,Total operating expenses,,2311145,2220326,2034922
+22,Income from operations,,350085,302311,380717
+23,Interest income,,11675,9421,8194
+24,Interest expense,,44153,28332,128
+25,"Other expense, net",,"(5,730)","(7,694)",(893)
+26,Income before income taxes,,311877,275706,387890
+27,Income tax (benefit) expense,,"(7,484)",23983,48367
+28,Net income,,"$ 319,361","$ 251,723","$ 339,523"
+29,Earnings per share:,,,,
+30,Basic (USD per share),,$ 2.01,$ 1.48,$ 1.82
+31,Diluted (USD per share),,$ 1.99,$ 1.47,$ 1.80
+32,Weighted average shares outstanding:,,,,
+33,Basic (in shares),,158874,169879,186672
+34,Diluted (in shares),,160362,171270,188245
+35,,,,,
+36,[1] Represents expenses presented to management on a consolidated basis only and not allocated to the operating segments,[1] Represents expenses presented to management on a consolidated basis only and not allocated to the operating segments,[1] Represents expenses presented to management on a consolidated basis only and not allocated to the operating segments,[1] Represents expenses presented to management on a consolidated basis only and not allocated to the operating segments,

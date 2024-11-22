@@ -86,7 +86,10 @@ def open_income_statement(driver) -> WebElement | None:
         'NET EARNINGS', 'NET EARNINGS ', 'SALES AND OPERATING REVENUES:',
         'TOTAL COST OF SALES', 'TOTAL COST OF SALES:',
         'Sales and revenues:', 'Sales and revenues', 'Total net revenues', 'Total net revenues:',
-        'Revenues and Other Income', 'Costs and Other Deductions'
+        'Revenues and Other Income', 'Costs and Other Deductions',
+        'NET SALES:', 'NET SALES',
+        'NET INCOME', 'NET INCOME:',
+        'OPERATING INCOME', 'OPERATING INCOME:'
     ]:
         try:
             table = driver.find_element(By.XPATH,

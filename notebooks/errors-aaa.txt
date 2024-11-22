@@ -1,0 +1,2 @@
+Czy zrobić exclude bankow?
+Banki: CFG, CMA

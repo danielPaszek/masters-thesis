@@ -1,0 +1,57 @@
+,0,1,2,3,4
+0,[1],"This presentation is in accordance with ASC 326, which requires the provision for credit losses on AFS securities to be included in revenue.",,,
+1,[2],"This total excludes the provision for credit losses on AFS securities, which is disclosed separately above.",,,
+2,[3],"Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.",,,
+3,"CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+4,"CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2021","Dec. 31, 2020","Dec. 31, 2019"
+5,Revenues,,,,
+6,Interest revenue,,"$ 50,475","$ 58,089","$ 76,510"
+7,Interest expense,,7981,13338,28382
+8,Net interest income,,42494,44751,48128
+9,Commissions and fees,,13672,11385,11746
+10,Principal transactions,,10154,13885,8892
+11,Administration and other fiduciary fees,,3943,3472,3411
+12,"Realized gains on sales of investments, net",,665,1756,1474
+13,Impairment losses on investments:,,,,
+14,Impairment losses on investments and other assets,,(206),(165),(32)
+15,Provision for credit losses on AFS debt securities,[1],(3),(3),0
+16,Net impairment losses recognized in earnings,,(209),(168),(32)
+17,Other revenue,,1165,420,1448
+18,Total non-interest revenues,,29390,30750,26939
+19,"Total revenues, net of interest expense",,71884,75501,75067
+20,Provisions for credit losses and for benefits and claims,,,,
+21,Provision for credit losses on loans,,"(3,103)",15922,8218
+22,Provision for credit losses on held-to-maturity (HTM) debt securities,,(3),7,0
+23,Provision for credit losses on other assets,,0,7,0
+24,Policyholder benefits and claims,,116,113,73
+25,Provision for credit losses on unfunded lending commitments,,(788),1446,92
+26,Total provisions for credit losses and for benefits and claims,[2],"(3,778)",17495,8383
+27,Operating expenses,,,,
+28,Compensation and benefits,,25134,22214,21433
+29,Premises and equipment,,2314,2333,2328
+30,Technology/communication,,7828,7383,7077
+31,Advertising and marketing,,1490,1217,1516
+32,Other operating,,11427,11227,10429
+33,Total operating expenses,,48193,44374,42783
+34,Income from continuing operations before income taxes,,27469,13632,23901
+35,Provision for income taxes,,5451,2525,4430
+36,Income from continuing operations,,22018,11107,19471
+37,Discontinued operations,,,,
+38,Income (loss) from discontinued operations,,7,(20),(31)
+39,Benefit for income taxes,,0,0,(27)
+40,"Income (loss) from discontinued operations, net of taxes",,7,(20),(4)
+41,Net income before attribution of noncontrolling interests,,22025,11087,19467
+42,Noncontrolling interests,,73,40,66
+43,Citigroup’s net income,,"$ 21,952","$ 11,047","$ 19,401"
+44,Basic earnings per share,,,,
+45,Income from continuing operations (in dollars per share),[3],$ 10.21,$ 4.75,$ 8.08
+46,"Loss from discontinued operations, net of taxes (in dollars per share)",[3],0,(0.01),0
+47,Net income (in dollars per share),[3],$ 10.21,$ 4.74,$ 8.08
+48,Weighted average common shares outstanding (in shares),,2033.0,2085.8,2249.2
+49,Diluted earnings per share,,,,
+50,Income from continuing operations (in dollars per share),[3],$ 10.14,$ 4.73,$ 8.04
+51,"Loss from discontinued operations, net of taxes (in dollars per share)",[3],0,(0.01),0
+52,Net income (in dollars per share),[3],$ 10.14,$ 4.72,$ 8.04
+53,Adjusted weighted average common shares outstanding (in shares),,2049.4,2099.0,2265.3
+54,,,,,
+55,"[1] This presentation is in accordance with ASC 326, which requires the provision for credit losses on AFS securities to be included in revenue. [2] This total excludes the provision for credit losses on AFS securities, which is disclosed separately above. [3] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.","[1] This presentation is in accordance with ASC 326, which requires the provision for credit losses on AFS securities to be included in revenue. [2] This total excludes the provision for credit losses on AFS securities, which is disclosed separately above. [3] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.","[1] This presentation is in accordance with ASC 326, which requires the provision for credit losses on AFS securities to be included in revenue. [2] This total excludes the provision for credit losses on AFS securities, which is disclosed separately above. [3] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.","[1] This presentation is in accordance with ASC 326, which requires the provision for credit losses on AFS securities to be included in revenue. [2] This total excludes the provision for credit losses on AFS securities, which is disclosed separately above. [3] Due to rounding, earnings per share on continuing operations and discontinued operations may not sum to earnings per share on net income.",
