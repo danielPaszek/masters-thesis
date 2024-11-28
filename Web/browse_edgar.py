@@ -48,6 +48,8 @@ def open_income_statement(driver) -> WebElement | None:
         'consolidated statement of earnings', 'consolidated statement of operations',
         'consolidated statement of income', 'statement of consolidated operations',
         'statements of consolidated earnings',
+        'statements of consolidated income',
+        'statement of consolidated income',
         'income statements', 'consolidated statements of earnings',
         'INCOME STATEMENTS', 'statement of income',
         'consolidated results of operations',
@@ -61,12 +63,19 @@ def open_income_statement(driver) -> WebElement | None:
     if section is None:
         print('No section found')
         # Has to be last. AYI has statement under this, but most have some other stuff we don't want
-        fallback = 'consolidated statements of comprehensive income'
-        try:
-            section = driver.find_element(By.XPATH,
-                                          f"//a[text()[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'),'{fallback}')]]")
-            print("Using fallback. Check if it is correct data")
-        except:
+        fallbacks = [
+            'loss',
+            'consolidated statements of comprehensive income',
+        ]
+        for fallback in fallbacks:
+            try:
+                section = driver.find_element(By.XPATH,
+                                              f"//a[text()[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'),'{fallback}')] and not(contains(@class, 'xbrlviewer'))]")
+                print("Using fallback. Check if it is correct data")
+                break
+            except:
+                continue
+        if section is None:
             print("Fallback failed")
             return None
 
@@ -74,6 +83,7 @@ def open_income_statement(driver) -> WebElement | None:
     for text in [
         'Revenue', 'Net income', 'Net income (loss)', 'Operating income', 'Operating income (loss)',
         'Revenues', 'Revenues:', 'Total Revenue', 'Total Revenues', 'Total revenue', 'Total revenues',
+        'Sales', 'Sales:'
         'Total sales', 'Total Sales', 'Total sales:', 'Total Sales:'
         'Net revenue', 'Net revenues', 'Net Revenues', 'Net Revenues:',
         'Net Revenue', 'Net sales', 'Net sales:', 'Net Sales',
@@ -89,7 +99,9 @@ def open_income_statement(driver) -> WebElement | None:
         'Revenues and Other Income', 'Costs and Other Deductions',
         'NET SALES:', 'NET SALES',
         'NET INCOME', 'NET INCOME:',
-        'OPERATING INCOME', 'OPERATING INCOME:'
+        'OPERATING INCOME', 'OPERATING INCOME:',
+        'Operating Income', 'Operating Income:',
+        'Operating Revenue:', 'Operating Revenue'
     ]:
         try:
             table = driver.find_element(By.XPATH,

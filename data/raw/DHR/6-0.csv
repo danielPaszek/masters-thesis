@@ -1,0 +1,34 @@
+,0,1,2,3,4
+0,[1],*Net earnings per share amount does not add due to rounding.,,,
+1,"Consolidated Statements Of Earnings - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+2,"Consolidated Statements Of Earnings - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2017","Dec. 31, 2016","Dec. 31, 2016","Dec. 31, 2015"
+3,Income Statement [Abstract],,,,
+4,Sales,"$ 18,329.7","$ 16,882.4",,"$ 14,433.7"
+5,Cost of sales,"(8,137.2)","(7,547.8)",,"(6,662.6)"
+6,Gross profit,10192.5,9334.6,,7771.1
+7,Operating costs:,,,,
+8,"Selling, general and administrative expenses","(6,042.5)","(5,608.6)",,"(4,747.5)"
+9,Research and development expenses,"(1,128.8)",(975.1),,(861.4)
+10,Operating profit,3021.2,2750.9,,2162.2
+11,Nonoperating income (expense):,,,,
+12,Other income,72.8,223.4,,12.4
+13,Loss on early extinguishment of borrowings,0.0,(178.8),,0.0
+14,Interest expense,(162.7),(184.4),,(139.8)
+15,Interest income,7.5,0.2,,4.6
+16,Earnings from continuing operations before income taxes,2938.8,2611.3,,2039.4
+17,Income taxes,(469.0),(457.9),,(292.7)
+18,Net earnings from continuing operations,2469.8,2153.4,,1746.7
+19,"Earnings from discontinued operations, net of income taxes",22.3,400.3,,1610.7
+20,Net earnings,"$ 2,492.1","$ 2,553.7",,"$ 3,357.4"
+21,Net earnings per share:,,,,
+22,"Net earnings per share from continuing operations, basic",$ 3.55,$ 3.12,,$ 2.50
+23,"Net earnings per share from continuing operations, diluted",3.50,3.08,,2.47
+24,"Net earnings per share from discontinued operations, basic",0.03,0.58,,2.31
+25,"Net earnings per share from discontinued operations, diluted",0.03,0.57,,2.27
+26,"Net earnings per share, basic",3.58,3.69,[1],4.81
+27,"Net earnings per share, diluted",$ 3.53,$ 3.65,,$ 4.74
+28,Average common stock and common equivalent shares outstanding:,,,,
+29,Basic,695.8,691.2,,698.1
+30,Diluted,706.1,699.8,,708.5
+31,,,,,
+32,[1] *Net earnings per share amount does not add due to rounding.,[1] *Net earnings per share amount does not add due to rounding.,[1] *Net earnings per share amount does not add due to rounding.,[1] *Net earnings per share amount does not add due to rounding.,[1] *Net earnings per share amount does not add due to rounding.

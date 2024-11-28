@@ -1,0 +1,37 @@
+,0,1,2,3,4
+0,[1],* Net earnings per common share amount does not add due to rounding.,,,
+1,"Consolidated Statements of Earnings - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+2,"Consolidated Statements of Earnings - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2022","Dec. 31, 2021","Dec. 31, 2021","Dec. 31, 2020"
+3,Income Statement [Abstract],,,,
+4,Sales,"$ 31,471","$ 29,453",,"$ 22,284"
+5,Cost of sales,"(12,522)","(11,501)",,"(9,809)"
+6,Gross profit,18949,17952,,12475
+7,Operating costs:,,,,
+8,"Selling, general and administrative expenses","(8,516)","(8,198)",,"(6,896)"
+9,Research and development expenses,"(1,745)","(1,742)",,"(1,348)"
+10,Other operating expenses,0,(547),,0
+11,Operating profit,8688,7465,,4231
+12,Nonoperating income (expense):,,,,
+13,"Other income (expense), net",(226),456,,494
+14,Loss on early extinguishment of borrowings,0,(96),,(26)
+15,Interest expense,(211),(238),,(275)
+16,Interest income,41,11,,71
+17,Earnings from continuing operations before income taxes,8292,7598,,4495
+18,Income taxes,"(1,083)","(1,251)",,(849)
+19,Net earnings from continuing operations,7209,6347,,3646
+20,"Earnings from discontinued operations, net of income taxes",0,86,,0
+21,Net earnings,7209,6433,,3646
+22,Mandatory convertible preferred stock dividends,(106),(164),,(136)
+23,Net earnings attributable to common stockholders,"$ 7,103","$ 6,269",,"$ 3,510"
+24,Net earnings per common share:,,,,
+25,"Net earnings per common share from continuing operations, basic",$ 9.80,$ 8.65,,$ 4.97
+26,"Net earnings per common share from continuing operations, diluted",9.66,8.50,,4.89
+27,"Net earnings per common share from discontinued operations, basic",0,0.12,,0
+28,"Net earnings per common share from discontinued operations, diluted",0,0.12,,0
+29,"Net earnings per common share, basic",9.80,8.77,,4.97
+30,"Net earnings per common share, diluted",$ 9.66,$ 8.61,[1],$ 4.89
+31,Average common stock and common equivalent shares outstanding:,,,,
+32,Basic,725.1,714.6,,706.2
+33,Diluted,737.1,736.8,,718.7
+34,,,,,
+35,[1] * Net earnings per common share amount does not add due to rounding.,[1] * Net earnings per common share amount does not add due to rounding.,[1] * Net earnings per common share amount does not add due to rounding.,[1] * Net earnings per common share amount does not add due to rounding.,[1] * Net earnings per common share amount does not add due to rounding.

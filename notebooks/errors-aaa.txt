@@ -1,2 +1,8 @@
 Czy zrobić exclude bankow?
 Banki: CFG, CMA
+
+COP
+ED
+
+struktura raportow - CCI, DE
+

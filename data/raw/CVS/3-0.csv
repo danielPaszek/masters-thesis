@@ -1,0 +1,41 @@
+,Consolidated Statements of Operations - USD ($)  shares in Millions,12 Months Ended,12 Months Ended,12 Months Ended
+,Consolidated Statements of Operations - USD ($)  shares in Millions,"Dec. 31, 2020","Dec. 31, 2019","Dec. 31, 2018"
+0,Revenues:,,,
+1,Premiums,"$ 69,364,000,000","$ 63,122,000,000","$ 8,184,000,000"
+2,Net investment income,798000000,1011000000,660000000
+3,Total revenues,268706000000,256776000000,194579000000
+4,Operating costs:,,,
+5,Cost of products sold,163981000000,158719000000,156447000000
+6,Benefit costs,55679000000,52529000000,6594000000
+7,Goodwill impairments,0,0,6149000000
+8,Operating expenses,35135000000,33541000000,21368000000
+9,Total operating costs,254795000000,244789000000,190558000000
+10,Operating income,13911000000,11987000000,4021000000
+11,Interest expense,2907000000,3035000000,2619000000
+12,Loss on early extinguishment of debt,1440000000,79000000,0
+13,Other income,"(206,000,000)","(124,000,000)","(4,000,000)"
+14,Income before income tax provision,9770000000,8997000000,1406000000
+15,Income tax provision,2569000000,2366000000,2002000000
+16,Income (loss) from continuing operations,7201000000,6631000000,"(596,000,000)"
+17,"Loss from discontinued operations, net of tax","(9,000,000)",0,0
+18,Net income (loss),7192000000,6631000000,"(596,000,000)"
+19,Net (income) loss attributable to noncontrolling interests,"(13,000,000)",3000000,2000000
+20,Net income (loss) attributable to CVS Health,"$ 7,179,000,000","$ 6,634,000,000","$ (594,000,000)"
+21,Basic earnings (loss) per share:,,,
+22,Income (loss) from continuing operations attributable to CVS Health (in dollars per share),$ 5.49,$ 5.10,$ (0.57)
+23,Loss from discontinued operations attributable to CVS Health (in dollars per share),(0.01),0,0
+24,Net income (loss) attributable to CVS Health (in dollars per share),$ 5.48,$ 5.10,$ (0.57)
+25,Weighted average basic shares outstanding (in shares),1309,1301,1044
+26,Diluted earnings (loss) per share:,,,
+27,Income (loss) from continuing operations attributable to CVS Health (in dollars per share),$ 5.47,$ 5.08,$ (0.57)
+28,Loss from discontinued operations attributable to CVS Health (in dollars per share),(0.01),0,0
+29,Net income (loss) attributable to CVS Health (in dollars per share),$ 5.46,$ 5.08,$ (0.57)
+30,Weighted average diluted shares outstanding (in shares),1314,1305,1044
+31,Dividends declared per share (in dollars per share),$ 2.00,$ 2.00,$ 2.00
+32,"Cost, Product and Service [Extensible List]",us-gaap:ProductMember,us-gaap:ProductMember,us-gaap:ProductMember
+33,Products,,,
+34,Revenues:,,,
+35,Revenue from Products and Services,"$ 190,688,000,000","$ 185,236,000,000","$ 183,910,000,000"
+36,Services,,,
+37,Revenues:,,,
+38,Revenue from Products and Services,"$ 7,856,000,000","$ 7,407,000,000","$ 1,825,000,000"
