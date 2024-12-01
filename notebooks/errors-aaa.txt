@@ -1,8 +1,16 @@
 Czy zrobić exclude bankow?
 Banki: CFG, CMA
+DFS
 
 COP
 ED
 
-struktura raportow - CCI, DE
+struktura raportow - CCI, DE, EXC
 
+
+Errors:
+DVN
+ETR
+
+
+EXPE - osobne pliki go kosztów!!!!

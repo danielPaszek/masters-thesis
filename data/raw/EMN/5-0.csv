@@ -1,0 +1,48 @@
+,0,1,2,3,4
+0,[1],Earnings per share are calculated using whole dollars and shares.,,,
+1,[2],"Cash dividends includes cash dividends paid and dividends declared, but unpaid.",,,
+2,"CONSOLIDATED STATEMENTS OF EARNINGS, COMPREHENSIVE INCOME AND RETAINED EARNINGS - USD ($)  $ in Millions","CONSOLIDATED STATEMENTS OF EARNINGS, COMPREHENSIVE INCOME AND RETAINED EARNINGS - USD ($)  $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+3,"CONSOLIDATED STATEMENTS OF EARNINGS, COMPREHENSIVE INCOME AND RETAINED EARNINGS - USD ($)  $ in Millions","CONSOLIDATED STATEMENTS OF EARNINGS, COMPREHENSIVE INCOME AND RETAINED EARNINGS - USD ($)  $ in Millions","Dec. 31, 2018","Dec. 31, 2017","Dec. 31, 2016"
+4,Income Statement [Abstract],,,,
+5,Sales,,"$ 10,151","$ 9,549","$ 9,008"
+6,Cost of sales,,7672,7186,6651
+7,Gross profit,,2479,2363,2357
+8,"Selling, general and administrative expenses",,721,729,707
+9,Research and development expenses,,235,227,223
+10,"Asset impairments and restructuring charges, net",,45,8,45
+11,"Other components of post-employment (benefit) cost, net",,(21),(135),(3)
+12,"Other (income) charges, net",,(53),4,(4)
+13,Earnings before interest and taxes,,1552,1530,1389
+14,Net interest expense,,235,241,255
+15,Early debt extinguishment and other related costs,,7,0,85
+16,Earnings before income taxes,,1310,1289,1049
+17,Provision for (benefit from) income taxes,,226,(99),190
+18,Net earnings,,1084,1388,859
+19,Less: Net earnings attributable to noncontrolling interest,,4,4,5
+20,Net earnings attributable to Eastman,,"$ 1,080","$ 1,384",$ 854
+21,Basic earnings per share attributable to Eastman,,,,
+22,Basic earnings per share attributable to Eastman,[1],$ 7.65,$ 9.56,$ 5.80
+23,Diluted earnings per share attributable to Eastman,,,,
+24,Diluted earnings per share attributable to Eastman,[1],$ 7.56,$ 9.47,$ 5.75
+25,Comprehensive Income,,,,
+26,Net earnings including noncontrolling interest,,"$ 1,084","$ 1,388",$ 859
+27,"Other comprehensive income (loss), net of tax:",,,,
+28,Change in cumulative translation adjustment,,(13),85,(97)
+29,Defined benefit pension and other postretirement benefit plans [Abstract],,,,
+30,Prior service credit arising during the period,,0,0,64
+31,Amortization of unrecognized prior service credits included in net periodic costs,,(30),(27),(30)
+32,Derivatives and hedging [Abstract],,,,
+33,Unrealized gain (loss) during period,,22,7,93
+34,"Reclassification adjustment for (gains) losses included in net income, net",,(15),7,79
+35,"Total other comprehensive income (loss), net of tax",,(36),72,109
+36,Comprehensive income including noncontrolling interest,,1048,1460,968
+37,Less: Net earnings attributable to noncontrolling interest,,4,4,5
+38,Comprehensive income attributable to Eastman,,1044,1456,963
+39,Retained Earnings,,,,
+40,Retained earnings at beginning of period,,6802,5721,5146
+41,Cumulative effect adjustment resulting from adoption of new accounting standards,,16,0,0
+42,Net earnings attributable to Eastman,,1080,1384,854
+43,Cash dividends declared,[2],(325),(303),(279)
+44,Retained earnings at end of period,,"$ 7,573","$ 6,802","$ 5,721"
+45,,,,,
+46,"[1] Earnings per share are calculated using whole dollars and shares. [2] Cash dividends includes cash dividends paid and dividends declared, but unpaid.","[1] Earnings per share are calculated using whole dollars and shares. [2] Cash dividends includes cash dividends paid and dividends declared, but unpaid.","[1] Earnings per share are calculated using whole dollars and shares. [2] Cash dividends includes cash dividends paid and dividends declared, but unpaid.","[1] Earnings per share are calculated using whole dollars and shares. [2] Cash dividends includes cash dividends paid and dividends declared, but unpaid.","[1] Earnings per share are calculated using whole dollars and shares. [2] Cash dividends includes cash dividends paid and dividends declared, but unpaid."

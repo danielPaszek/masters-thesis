@@ -1,0 +1,117 @@
+,0,1,2,3,4,5
+0,[1],Quarterly EPS amounts are meant to be stand-alone calculations and are not always additive to full-year amount due to rounding.,,,,
+1,[2],"Net of $2 tax expense in 2010, 2009 and 2008.",,,,
+2,"Consolidated Statements of Operations (USD $) In Millions, except Per Share data",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+3,"Consolidated Statements of Operations (USD $) In Millions, except Per Share data","Dec. 31, 2010","Dec. 31, 2010","Dec. 31, 2009","Dec. 31, 2009","Dec. 31, 2008"
+4,Operating Revenues,,,,,
+5,Regulated electric,"$ 10,723",,"$ 10,033",,"$ 9,325"
+6,"Non-regulated electric, natural gas, and other",2930,,2050,,3092
+7,Regulated natural gas,619,,648,,790
+8,Total operating revenues,14272,,12731,,13207
+9,Operating Expenses,,,,,
+10,Fuel used in electric generation and purchased power regulated,3345,,3246,,3007
+11,Fuel used in electric generation and purchased power non regulated,1199,,765,,1400
+12,Cost of natural gas and coal sold,381,,433,,613
+13,"Operation, maintenance and other",3825,,3313,,3351
+14,Depreciation and amortization,1786,,1656,,1670
+15,Property and other taxes,702,,685,,639
+16,Goodwill and other impairment charges,726,,420,,85
+17,Total operating expenses,11964,,10518,,10765
+18,"Gains (Loss) on Sales of Other Assets and Other, net",153,,36,,69
+19,Operating Income,2461,,2249,,2511
+20,Other Income and Expenses,,,,,
+21,Equity in earnings (losses) of unconsolidated affiliates,116,,70,,(102)
+22,Losses on sales and impairments of unconsolidated affiliates,103,,(21),,(9)
+23,"Other Income and Expenses, net",370,,284,,232
+24,Total other income and expenses,589,,333,,121
+25,Interest Expense,840,,751,,741
+26,Income (Loss) From Continuing Operations Before Income Taxes,2210,,1831,,1891
+27,Income Tax Expense from Continuing Operations,890,,758,,616
+28,Income From Continuing Operations,1320,,1073,,1275
+29,"Income From Discontinued Operations, net of tax",3,,12,,16
+30,Income Before Extraordinary Items,1323,,1085,,1291
+31,"Extraordinary Items, net of tax",,,,,67
+32,Net Income (Loss),1323,,1085,,1358
+33,Less: Net Income Attributable to Noncontrolling Interests,3,,10,,(4)
+34,Net Income Attributable to Duke Energy Corporation,1320,,1075,,1362
+35,Income from continuing operations attributable to Duke Energy Corporation common shareholders,,,,,
+36,Basic,$ 1,,$ 0.82,,$ 1.01
+37,Diluted,$ 1,,$ 0.82,,$ 1.01
+38,Income from discontinued operations attributable to Duke Energy Corporation common shareholders,,,,,
+39,Basic,,,$ 0.01,,$ 0.02
+40,Diluted,,,$ 0.01,,$ 0.01
+41,Earnings per share (before extraordinary items),,,,,
+42,Basic,$ 1,,$ 0.83,,$ 1.03
+43,Diluted,$ 1,,$ 0.83,,$ 1.02
+44,Earnings per share (from extraordinary items),,,,,
+45,Basic,,,,,$ 0.05
+46,Diluted,,,,,$ 0.05
+47,Net income attributable to Duke Energy Corporation common shareholders,,,,,
+48,Basic,$ 1,[1],$ 0.83,[1],$ 1.08
+49,Diluted,$ 1,[1],$ 0.83,[1],$ 1.07
+50,Dividends per share,$ 0.97,,$ 0.94,,$ 0.9
+51,Weighted-average shares outstanding,,,,,
+52,Basic,1318,,1293,,1265
+53,Diluted,1319,,1294,,1267
+54,Duke Energy Carolinas [Member],,,,,
+55,Operating Revenues,,,,,
+56,Regulated electric,6424,,5495,,5903
+57,Operating Expenses,,,,,
+58,Fuel used in electric generation and purchased power regulated,1944,,1597,,1844
+59,"Operation, maintenance and other",1907,,1609,,1721
+60,Depreciation and amortization,787,,692,,730
+61,Property and other taxes,348,,334,,316
+62,Total operating expenses,4986,,4232,,4611
+63,"Gains (Loss) on Sales of Other Assets and Other, net",7,,24,,3
+64,Operating Income,1445,,1287,,1295
+65,Other Income and Expenses,,,,,
+66,"Other Income and Expenses, net",212,,122,,98
+67,Interest Expense,362,,330,,331
+68,Income (Loss) From Continuing Operations Before Income Taxes,1295,,1079,,1062
+69,Income Tax Expense from Continuing Operations,457,,377,,372
+70,Net Income (Loss),838,[2],702,,690
+71,Duke Energy Ohio [Member],,,,,
+72,Operating Revenues,,,,,
+73,Regulated electric,1823,,2236,,988
+74,"Non-regulated electric, natural gas, and other",885,,502,,1646
+75,Regulated natural gas,621,,650,,790
+76,Total operating revenues,3329,,3388,,3424
+77,Operating Expenses,,,,,
+78,Fuel used in electric generation and purchased power regulated,490,,772,,157
+79,Fuel used in electric generation and purchased power non regulated,465,,274,,847
+80,Cost of natural gas and coal sold,269,,329,,486
+81,"Operation, maintenance and other",836,,744,,743
+82,Depreciation and amortization,400,,384,,409
+83,Property and other taxes,260,,262,,241
+84,Goodwill and other impairment charges,837,,769,,82
+85,Total operating expenses,3557,,3534,,2965
+86,"Gains (Loss) on Sales of Other Assets and Other, net",3,,12,,59
+87,Operating Income,(225),,(134),,518
+88,Other Income and Expenses,,,,,
+89,"Other Income and Expenses, net",25,,11,,34
+90,Interest Expense,109,,117,,94
+91,Income (Loss) From Continuing Operations Before Income Taxes,(309),,(240),,458
+92,Income Tax Expense from Continuing Operations,132,,186,,171
+93,Income Before Extraordinary Items,(441),,(426),,287
+94,"Extraordinary Items, net of tax",,,,,67
+95,Net Income (Loss),(441),,(426),,354
+96,Duke Energy Indiana [Member],,,,,
+97,Operating Revenues,,,,,
+98,Regulated electric,2520,,2353,,2483
+99,Operating Expenses,,,,,
+100,Fuel used in electric generation and purchased power regulated,912,,877,,1006
+101,"Operation, maintenance and other",611,,573,,592
+102,Depreciation and amortization,375,,403,,353
+103,Property and other taxes,70,,73,,74
+104,Goodwill and other impairment charges,44,,,,
+105,Total operating expenses,2012,,1926,,2025
+106,"Gains (Loss) on Sales of Other Assets and Other, net",(2),,(4),,3
+107,Operating Income,506,,423,,461
+108,Other Income and Expenses,,,,,
+109,"Other Income and Expenses, net",70,,38,,70
+110,Interest Expense,135,,144,,123
+111,Income (Loss) From Continuing Operations Before Income Taxes,441,,317,,408
+112,Income Tax Expense from Continuing Operations,156,,116,,150
+113,Net Income (Loss),$ 285,,$ 201,,$ 258
+114,,,,,,
+115,"[1] Quarterly EPS amounts are meant to be stand-alone calculations and are not always additive to full-year amount due to rounding. [2] Net of $2 tax expense in 2010, 2009 and 2008.","[1] Quarterly EPS amounts are meant to be stand-alone calculations and are not always additive to full-year amount due to rounding. [2] Net of $2 tax expense in 2010, 2009 and 2008.","[1] Quarterly EPS amounts are meant to be stand-alone calculations and are not always additive to full-year amount due to rounding. [2] Net of $2 tax expense in 2010, 2009 and 2008.","[1] Quarterly EPS amounts are meant to be stand-alone calculations and are not always additive to full-year amount due to rounding. [2] Net of $2 tax expense in 2010, 2009 and 2008.","[1] Quarterly EPS amounts are meant to be stand-alone calculations and are not always additive to full-year amount due to rounding. [2] Net of $2 tax expense in 2010, 2009 and 2008.","[1] Quarterly EPS amounts are meant to be stand-alone calculations and are not always additive to full-year amount due to rounding. [2] Net of $2 tax expense in 2010, 2009 and 2008."

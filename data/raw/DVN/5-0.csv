@@ -1,0 +1,53 @@
+,0,1,2,3,4,5
+0,[1],"Revenues from oil, gas and NGL sales and marketing revenues represent revenue from contracts with customers.",,,,
+1,[2],(1) Additional discussion regarding asset dispositions can be found in Note 2.,,,,
+2,(1),Additional discussion regarding asset dispositions can be found in Note 2.,,,,
+3,[3],(2) Includes asset impairments of approximately $150 million in the second quarter of 2018. Additional discussion regarding asset impairments can be found in Note 5.,,,,
+4,(2),Includes asset impairments of approximately $150 million in the second quarter of 2018. Additional discussion regarding asset impairments can be found in Note 5.,,,,
+5,[4],"(3) Includes a gain on sale associated with the divestment of Devon’s aggregate ownership interests in EnLink and the General Partner of approximately $2.2 billion (after-tax) in the third quarter of 2018, as discussed in Note 19.",,,,
+6,(3),"Includes a gain on sale associated with the divestment of Devon’s aggregate ownership interests in EnLink and the General Partner of approximately $2.2 billion (after-tax) in the third quarter of 2018, as discussed in Note 19.",,,,
+7,Consolidated Comprehensive Statements Of Earnings - USD ($)  $ in Millions,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+8,Consolidated Comprehensive Statements Of Earnings - USD ($)  $ in Millions,"Dec. 31, 2018","Dec. 31, 2018","Dec. 31, 2017","Dec. 31, 2017","Dec. 31, 2016"
+9,Income Statement [Abstract],,,,,
+10,Upstream revenues,"$ 6,285",,"$ 5,307",,"$ 3,981"
+11,Revenues,"$ 4,449",,"$ 3,571",,"$ 2,772"
+12,Type of Revenue [Extensible List],us-gaap:NaturalGasGatheringTransportationMarketingAndProcessingMember,,us-gaap:NaturalGasGatheringTransportationMarketingAndProcessingMember,,us-gaap:NaturalGasGatheringTransportationMarketingAndProcessingMember
+13,Total revenues,"$ 10,734",[1],"$ 8,878",,"$ 6,753"
+14,Production expenses,2225,,1823,,1805
+15,Exploration expenses,177,,380,,215
+16,Expenses,"$ 4,363",,"$ 3,619",,"$ 2,821"
+17,"Type of Cost, Good or Service [Extensible List]",us-gaap:NaturalGasGatheringTransportationMarketingAndProcessingMember,,us-gaap:NaturalGasGatheringTransportationMarketingAndProcessingMember,,us-gaap:NaturalGasGatheringTransportationMarketingAndProcessingMember
+18,"Depreciation, depletion and amortization","$ 1,658",,"$ 1,529",,"$ 1,592"
+19,Asset impairments,156,,,,437
+20,Asset dispositions,(263),[2],(217),[2],"(1,496)"
+21,General and administrative expenses,650,,737,,733
+22,"Financing costs, net",594,,317,,717
+23,Restructuring and transaction costs,114,,,,261
+24,Other expenses,140,,(83),,101
+25,Total expenses,9814,,8105,,7186
+26,Earnings (loss) from continuing operations before income taxes,920,[3],773,,(433)
+27,Income tax expense,156,,15,,141
+28,Net earnings (loss) from continuing operations,764,,758,,(574)
+29,"Net earnings (loss) from discontinued operations, net of income tax expense",2460,[4],320,,(884)
+30,Net earnings (loss),3224,,1078,,"(1,458)"
+31,Net earnings (loss) attributable to noncontrolling interests,160,,180,,(402)
+32,Net earnings (loss) attributable to Devon,"$ 3,064",,$ 898,,"$ (1,056)"
+33,Basic net earnings (loss) per share:,,,,,
+34,Basic earnings (loss) from continuing operations per share,$ 1.53,,$ 1.44,,$ (1.14)
+35,Basic earnings (loss) from discontinued operations per share,4.61,,0.27,,(0.95)
+36,Basic net earnings (loss) per share,6.14,,1.71,,(2.09)
+37,Diluted net earnings (loss) per share:,,,,,
+38,Diluted earnings (loss) from continuing operations per share,1.52,,1.43,,(1.14)
+39,Diluted earnings (loss) from discontinued operations per share,4.58,,0.27,,(0.95)
+40,Diluted net earnings (loss) per share,$ 6.10,,$ 1.70,,$ (2.09)
+41,Comprehensive earnings (loss):,,,,,
+42,Net earnings (loss),"$ 3,224",,"$ 1,078",,"$ (1,458)"
+43,"Other comprehensive earnings (loss), net of tax:",,,,,
+44,Foreign currency translation,(152),,83,,11
+45,Pension and postretirement plans,44,,29,,22
+46,"Other comprehensive earnings (loss), net of tax",(108),,112,,33
+47,Comprehensive earnings (loss),3116,,1190,,"(1,425)"
+48,Comprehensive earnings (loss) attributable to noncontrolling interests,160,,180,,(402)
+49,Comprehensive earnings (loss) attributable to Devon,"$ 2,956",,"$ 1,010",,"$ (1,023)"
+50,,,,,,
+51,"[1] Revenues from oil, gas and NGL sales and marketing revenues represent revenue from contracts with customers. [2] (1) Additional discussion regarding asset dispositions can be found in Note 2. [3] (2) Includes asset impairments of approximately $150 million in the second quarter of 2018. Additional discussion regarding asset impairments can be found in Note 5.  [4] (3) Includes a gain on sale associated with the divestment of Devon’s aggregate ownership interests in EnLink and the General Partner of approximately $2.2 billion (after-tax) in the third quarter of 2018, as discussed in Note 19.","[1] Revenues from oil, gas and NGL sales and marketing revenues represent revenue from contracts with customers. [2] (1) Additional discussion regarding asset dispositions can be found in Note 2. [3] (2) Includes asset impairments of approximately $150 million in the second quarter of 2018. Additional discussion regarding asset impairments can be found in Note 5.  [4] (3) Includes a gain on sale associated with the divestment of Devon’s aggregate ownership interests in EnLink and the General Partner of approximately $2.2 billion (after-tax) in the third quarter of 2018, as discussed in Note 19.","[1] Revenues from oil, gas and NGL sales and marketing revenues represent revenue from contracts with customers. [2] (1) Additional discussion regarding asset dispositions can be found in Note 2. [3] (2) Includes asset impairments of approximately $150 million in the second quarter of 2018. Additional discussion regarding asset impairments can be found in Note 5.  [4] (3) Includes a gain on sale associated with the divestment of Devon’s aggregate ownership interests in EnLink and the General Partner of approximately $2.2 billion (after-tax) in the third quarter of 2018, as discussed in Note 19.","[1] Revenues from oil, gas and NGL sales and marketing revenues represent revenue from contracts with customers. [2] (1) Additional discussion regarding asset dispositions can be found in Note 2. [3] (2) Includes asset impairments of approximately $150 million in the second quarter of 2018. Additional discussion regarding asset impairments can be found in Note 5.  [4] (3) Includes a gain on sale associated with the divestment of Devon’s aggregate ownership interests in EnLink and the General Partner of approximately $2.2 billion (after-tax) in the third quarter of 2018, as discussed in Note 19.","[1] Revenues from oil, gas and NGL sales and marketing revenues represent revenue from contracts with customers. [2] (1) Additional discussion regarding asset dispositions can be found in Note 2. [3] (2) Includes asset impairments of approximately $150 million in the second quarter of 2018. Additional discussion regarding asset impairments can be found in Note 5.  [4] (3) Includes a gain on sale associated with the divestment of Devon’s aggregate ownership interests in EnLink and the General Partner of approximately $2.2 billion (after-tax) in the third quarter of 2018, as discussed in Note 19.","[1] Revenues from oil, gas and NGL sales and marketing revenues represent revenue from contracts with customers. [2] (1) Additional discussion regarding asset dispositions can be found in Note 2. [3] (2) Includes asset impairments of approximately $150 million in the second quarter of 2018. Additional discussion regarding asset impairments can be found in Note 5.  [4] (3) Includes a gain on sale associated with the divestment of Devon’s aggregate ownership interests in EnLink and the General Partner of approximately $2.2 billion (after-tax) in the third quarter of 2018, as discussed in Note 19."

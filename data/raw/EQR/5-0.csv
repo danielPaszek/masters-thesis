@@ -1,0 +1,43 @@
+,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Thousands, $ in Thousands",12 Months Ended,12 Months Ended,12 Months Ended
+,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Thousands, $ in Thousands","Dec. 31, 2018","Dec. 31, 2017","Dec. 31, 2016"
+0,REVENUES,,,
+1,Rental income,"$ 2,577,681","$ 2,470,689","$ 2,422,233"
+2,Fee and asset management,$ 753,$ 717,"$ 3,567"
+3,Type of Revenue [Extensible List],us-gaap:ManagementServiceMember,us-gaap:ManagementServiceMember,us-gaap:ManagementServiceMember
+4,Total revenues,"$ 2,578,434","$ 2,471,406","$ 2,425,800"
+5,EXPENSES,,,
+6,Property and maintenance,429335,405281,406823
+7,Real estate taxes and insurance,357814,335495,317387
+8,Property management,92485,85493,82015
+9,General and administrative,53813,52224,57840
+10,Depreciation,785725,743749,705649
+11,Impairment,702,1693,0
+12,Total expenses,1719874,1623935,1569714
+13,Operating income,858560,847471,856086
+14,Interest and other income,15317,6136,65773
+15,Other expenses,"(17,267)","(5,186)","(10,368)"
+16,Interest:,,,
+17,"Expense incurred, net","(413,360)","(383,890)","(482,246)"
+18,Amortization of deferred financing costs,"(11,310)","(8,526)","(12,633)"
+19,"Income before income and other taxes, income (loss) from investments in unconsolidated entities, net gain (loss) on sales of real estate properties and land parcels and discontinued operations",431940,456005,416612
+20,Income and other tax (expense) benefit,(878),(478),"(1,613)"
+21,Income (loss) from investments in unconsolidated entities,"(3,667)","(3,370)",4801
+22,Net gain (loss) on sales of real estate properties,256810,157057,4044055
+23,Net gain (loss) on sales of land parcels,987,19167,15731
+24,Income from continuing operations,685192,628381,4479586
+25,"Discontinued operations, net",0,0,518
+26,Net income,685192,628381,4480104
+27,Net (income) loss attributable to Noncontrolling Interests:,,,
+28,Operating Partnership,"(24,939)","(22,604)","(171,511)"
+29,Partially Owned Properties,"(2,718)","(2,323)","(16,430)"
+30,Net income attributable to controlling interests,657535,603454,4292163
+31,Preferred distributions,"(3,090)","(3,091)","(3,091)"
+32,Net income available to Common Shares,"$ 654,445","$ 600,363","$ 4,289,072"
+33,Earnings per share – basic:,,,
+34,Income from continuing operations available to Common Shares,$ 1.78,$ 1.64,$ 11.75
+35,Net income available to Common Shares,$ 1.78,$ 1.64,$ 11.75
+36,Weighted average Common Shares outstanding,368052,366968,365002
+37,Earnings per share – diluted:,,,
+38,Income from continuing operations available to Common Shares,$ 1.77,$ 1.63,$ 11.68
+39,Net income available to Common Shares,$ 1.77,$ 1.63,$ 11.68
+40,Weighted average Common Shares outstanding,383695,382678,381992

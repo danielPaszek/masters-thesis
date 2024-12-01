@@ -1,0 +1,336 @@
+,0,1,2,3,4,5,6
+0,[1],All amounts are net of tax and noncontrolling interests. Amounts in parenthesis represent a decrease in accumulated other comprehensive income.,,,,,
+1,"Consolidated Statements of Operations and Comprehensive Income (Unaudited) - USD ($)  shares in Millions, $ in Millions",3 Months Ended,9 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+2,"Consolidated Statements of Operations and Comprehensive Income (Unaudited) - USD ($)  shares in Millions, $ in Millions","Mar. 23, 2016","Dec. 31, 2016","Dec. 31, 2016","Dec. 31, 2015","Dec. 31, 2015","Dec. 31, 2014"
+3,Operating revenues [Abstract],,,,,,
+4,Operating revenues,,,"$ 16,324","$ 18,395",,"$ 16,637"
+5,Rate-regulated utility revenues,,,15036,11052,,10792
+6,Electric operating revenues,,,13869,9876,,9467
+7,Natural gas operating revenues,,,1166,1176,,1325
+8,Operating revenues from affiliates,,,10,9,,23
+9,Total operating revenues,,,31360,29447,,27429
+10,Operating expenses,,,,,,
+11,Competitive businesses purchased power and fuel,,,8817,10007,,9369
+12,Purchased power and fuel,,,3823,3077,,3103
+13,"Related Party Transaction, Purchases from Related Party",,,0,0,,531
+14,Purchased power,,,0,0,,531
+15,Operating and maintenance,,,10048,8322,,8568
+16,Depreciation and amortization,,,3936,2450,,2314
+17,Taxes other than income,,,1576,1200,,1154
+18,Total operating expenses,,,28200,25056,,25039
+19,Equity in losses of unconsolidated affiliates,,,(24),(7),,0
+20,Gain (Loss) on Disposition of Other Assets,,,(48),18,,437
+21,Gain on consolidation and acquisition of businesses,,,0,0,,289
+22,Operating Income (Loss),,,3112,4409,,3096
+23,Other income and (deductions),,,,,,
+24,Interest Expense,,,"(1,495)",(992),,"(1,024)"
+25,Interest expense to affiliates,,,(41),(41),,(41)
+26,"Other, net",,,413,(46),,455
+27,Total other income and (deductions),,,"(1,123)","(1,079)",,(610)
+28,Income before income taxes,,,1989,3330,,2486
+29,Income before income taxes,,,1989,3330,,2486
+30,Income taxes,,,761,1073,,666
+31,Net Income (Loss) Attributable to Noncontrolling Interest,,,70,(19),,197
+32,Net Income,,,1204,2250,,1820
+33,Net income attributable to common shareholders,,,1134,2269,,1623
+34,Pension and non-pension postretirement benefit plans:,,,,,,
+35,"Income (Loss) from Equity Method Investments, Net of Dividends or Distributions",,,0,0,,(20)
+36,"Prior service benefit reclassified to periodic benefit cost, net of tax",,,(48),(46),,(30)
+37,"Actuarial loss reclassified to periodic cost, net of tax",,,184,220,,147
+38,"Other Comprehensive (Income) Loss, Pension and Other Postretirement Benefit Plans, Adjustment, Net of Tax",,,181,99,,497
+39,"Unrealized gain (loss) on cash flow hedges, net of taxes",$ 0,,(2),(9),,148
+40,"Unrealized gain (loss) on marketable securities, net of taxes",,,(4),(3),,8
+41,"Unrealized gain (loss) on foreign currency translation, net of taxes",,,10,(21),,(9)
+42,"Other Comprehensive Income (Loss), Available-for-sale Securities Adjustment, Net of Tax",,,1,0,,1
+43,OtherComprehensiveIncomeLossNetOfTaxPeriodDecrease,,,0,0,,(116)
+44,Other comprehensive income (loss),,,(36),60,[1],(644)
+45,"Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest",,,1168,2310,,1176
+46,"Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest",,,70,(19),,197
+47,Comprehensive income,,,"$ 1,098","$ 2,329",,$ 979
+48,Average shares of common stock outstanding:,,,,,,
+49,Basic,,,924,890,,860
+50,Diluted,,,927,893,,864
+51,Earnings per average common share:,,,,,,
+52,Basic (in usd per share),,,$ 1.23,$ 2.55,,$ 1.89
+53,Diluted (in usd per share),,,1.22,2.54,,1.88
+54,Dividends per common share (in usd per share),,,$ 1.264,$ 1.24,,$ 1.24
+55,Predecessor [Member],,,,,,
+56,Operating expenses,,,,,,
+57,Gain (Loss) on Disposition of Other Assets,0,,,,,$ 0
+58,Exelon Generation Co L L C [Member],,,,,,
+59,Operating revenues [Abstract],,,,,,
+60,Operating revenues,,,"$ 16,312","$ 18,386",,16614
+61,Operating revenues from affiliates,,,1439,749,,779
+62,Total operating revenues,,,17751,19135,,17393
+63,Operating expenses,,,,,,
+64,Purchased power and fuel,,,8818,10007,,9368
+65,"Related Party Transaction, Purchases from Related Party",,,12,14,,557
+66,Purchased power,,,12,14,,557
+67,Operating and maintenance,,,4978,4688,,4943
+68,Operating and maintenance from affiliates,,,663,620,,623
+69,Depreciation and amortization,,,1879,1054,,967
+70,Taxes other than income,,,506,489,,465
+71,Total operating expenses,,,16856,16872,,16923
+72,Equity in losses of unconsolidated affiliates,,,0,0,,(20)
+73,Gain (Loss) on Disposition of Other Assets,,,(59),12,,437
+74,Gain on consolidation and acquisition of businesses,,,0,0,,289
+75,Operating Income (Loss),,,836,2275,,1176
+76,Other income and (deductions),,,,,,
+77,Interest Expense,,,(325),(322),,(303)
+78,Interest expense to affiliates,,,(39),(43),,(53)
+79,"Other, net",,,401,(60),,406
+80,Total other income and (deductions),,,37,(425),,50
+81,Income (Loss) Attributable to Noncontrolling Interest,,,62,(32),,184
+82,Income before income taxes,,,873,1850,,1226
+83,Income taxes,,,290,502,,207
+84,Net Income,,,558,1340,,1019
+85,Net income attributable to membership interest,,,496,1372,,835
+86,Pension and non-pension postretirement benefit plans:,,,,,,
+87,"Income (Loss) from Equity Method Investments, Net of Dividends or Distributions",,,(25),(8),,0
+88,"Unrealized gain (loss) on cash flow hedges, net of taxes",,,(2),3,,132
+89,"Unrealized gain (loss) on marketable securities, net of taxes",,,(4),(3),,8
+90,"Unrealized gain (loss) on foreign currency translation, net of taxes",,,10,(21),,(9)
+91,"Other Comprehensive Income (Loss), Available-for-sale Securities Adjustment, Net of Tax",,,1,0,,(1)
+92,OtherComprehensiveIncomeLossNetOfTaxPeriodDecrease,,,0,0,,
+93,Other comprehensive income (loss),,,9,(27),[1],(250)
+94,"Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest",,,567,1313,,769
+95,"Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest",,,62,(32),,184
+96,Comprehensive income,,,505,1345,,585
+97,Commonwealth Edison Co [Member],,,,,,
+98,Operating revenues [Abstract],,,,,,
+99,Electric operating revenues,,,5239,4901,,4560
+100,Operating revenues from affiliates,,,15,4,,4
+101,Total operating revenues,,,5254,4905,,4564
+102,Operating expenses,,,,,,
+103,"Related Party Transaction, Purchases from Related Party",,,47,18,,176
+104,Purchased power,,,1411,1301,,1001
+105,Operating and maintenance,,,1303,1372,,1263
+106,Operating and maintenance from affiliates,,,227,195,,166
+107,Depreciation and amortization,,,775,707,,687
+108,Taxes other than income,,,293,296,,293
+109,Total operating expenses,,,4056,3889,,3586
+110,Equity in losses of unconsolidated affiliates,,,0,0,,
+111,Gain (Loss) on Disposition of Other Assets,,,7,1,,2
+112,Operating Income (Loss),,,1205,1017,,980
+113,Other income and (deductions),,,,,,
+114,Interest Expense,,,(448),(319),,(308)
+115,Interest expense to affiliates,,,(13),(13),,(13)
+116,"Other, net",,,(65),21,,17
+117,Total other income and (deductions),,,(526),(311),,(304)
+118,Income before income taxes,,,679,706,,676
+119,Income taxes,,,301,280,,268
+120,Net Income,,,378,426,,408
+121,Pension and non-pension postretirement benefit plans:,,,,,,
+122,Comprehensive income,,,378,426,,408
+123,PECO Energy Co [Member],,,,,,
+124,Operating revenues [Abstract],,,,,,
+125,Electric operating revenues,,,2524,2485,,2446
+126,Natural gas operating revenues,,,462,545,,646
+127,Operating revenues from affiliates,,,8,2,,2
+128,Total operating revenues,,,2994,3032,,3094
+129,Operating expenses,,,,,,
+130,"Related Party Transaction, Purchases from Related Party",,,287,220,,194
+131,Purchased power,,,598,735,,740
+132,Purchased fuel,,,162,235,,327
+133,Operating and maintenance,,,665,684,,767
+134,Operating and maintenance from affiliates,,,146,110,,99
+135,Depreciation and amortization,,,270,260,,236
+136,Taxes other than income,,,164,160,,159
+137,Total operating expenses,,,2292,2404,,2522
+138,Equity in losses of unconsolidated affiliates,,,0,0,,
+139,Gain (Loss) on Disposition of Other Assets,,,0,2,,0
+140,Operating Income (Loss),,,702,630,,572
+141,Other income and (deductions),,,,,,
+142,Interest Expense,,,(111),(102),,(101)
+143,Interest expense to affiliates,,,(12),(12),,(12)
+144,"Other, net",,,8,5,,7
+145,Total other income and (deductions),,,(115),(109),,(106)
+146,Income before income taxes,,,587,521,,466
+147,Income taxes,,,149,143,,114
+148,Net Income,,,438,378,,352
+149,Net income attributable to common shareholders,,,438,378,,352
+150,Pension and non-pension postretirement benefit plans:,,,,,,
+151,Comprehensive income,,,438,378,,352
+152,Baltimore Gas and Electric Company [Member],,,,,,
+153,Operating revenues [Abstract],,,,,,
+154,Electric operating revenues,,,2603,2490,,2460
+155,Natural gas operating revenues,,,609,631,,680
+156,Operating revenues from affiliates,,,21,14,,25
+157,Total operating revenues,,,3233,3135,,3165
+158,Operating expenses,,,,,,
+159,"Related Party Transaction, Purchases from Related Party",,,604,498,,382
+160,Purchased power,,,528,602,,733
+161,Purchased fuel,,,162,205,,302
+162,Operating and maintenance,,,605,565,,614
+163,Operating and maintenance from affiliates,,,132,118,,103
+164,Depreciation and amortization,,,423,366,,371
+165,Taxes other than income,,,229,224,,221
+166,Total operating expenses,,,2683,2578,,2726
+167,Equity in losses of unconsolidated affiliates,,,0,0,,
+168,Gain (Loss) on Disposition of Other Assets,,,0,1,,0
+169,Operating Income (Loss),,,550,558,,439
+170,Other income and (deductions),,,,,,
+171,Interest Expense,,,(87),(83),,(90)
+172,Interest expense to affiliates,,,(16),(16),,(16)
+173,"Other, net",,,21,18,,18
+174,Total other income and (deductions),,,(82),(81),,(88)
+175,Income before income taxes,,,468,477,,351
+176,Income taxes,,,174,189,,140
+177,Net Income,,,294,288,,211
+178,"Dividends, Preferred Stock",,,8,13,,13
+179,Net income attributable to common shareholders,,,286,275,,198
+180,Pension and non-pension postretirement benefit plans:,,,,,,
+181,"Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest",,,294,288,,211
+182,"Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest",,,8,13,,13
+183,Comprehensive income,,,286,275,,198
+184,Pepco Holdings LLC [Member],,,,,,
+185,Operating expenses,,,,,,
+186,"Related Party Transaction, Purchases from Related Party",0,,,0,,0
+187,Pepco Holdings LLC [Member] | Predecessor [Member],,,,,,
+188,Operating revenues [Abstract],,,,,,
+189,Electric operating revenues,1096,,,4770,,4614
+190,Natural gas operating revenues,57,,,165,,194
+191,Operating revenues from affiliates,0,,,0,,0
+192,Total operating revenues,1153,,,4935,,4808
+193,Operating expenses,,,,,,
+194,Purchased power,471,,,1986,,1940
+195,Purchased fuel,26,,,87,,117
+196,Operating and maintenance,294,,,1156,,1183
+197,Operating and maintenance from affiliates,0,,,0,,0
+198,Depreciation and amortization,152,,,624,,526
+199,Taxes other than income,105,,,455,,437
+200,Total operating expenses,1048,,,4308,,4203
+201,Equity in losses of unconsolidated affiliates,0,,,0,,
+202,Gain (Loss) on Disposition of Other Assets,,,,46,,
+203,Operating Income (Loss),105,,,673,,605
+204,Other income and (deductions),,,,,,
+205,Interest Expense,(65),,,(280),,(269)
+206,"Other, net",(4),,,88,,44
+207,Total other income and (deductions),(69),,,(192),,(225)
+208,Income before income taxes,36,,,481,,380
+209,Income taxes,17,,,163,,138
+210,"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Noncontrolling Interest",0,,,9,,0
+211,"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",19,,,318,,242
+212,Net Income,19,,,327,,242
+213,Net income attributable to membership interest,19,,,327,,242
+214,Pension and non-pension postretirement benefit plans:,,,,,,
+215,"Actuarial loss reclassified to periodic cost, net of tax",1,,,9,,(12)
+216,"Unrealized gain (loss) on cash flow hedges, net of taxes",,,,(1),,0
+217,Other comprehensive income (loss),1,,,10,[1],(12)
+218,Comprehensive income,20,,,337,,230
+219,Pepco Holdings LLC [Member] | Successor [Member],,,,,,
+220,Operating revenues [Abstract],,,,,,
+221,Electric operating revenues,,"$ 3,506",,,,
+222,Natural gas operating revenues,,92,,,,
+223,Operating revenues from affiliates,,45,,,,
+224,Total operating revenues,,3643,,,,
+225,Operating expenses,,,,,,
+226,"Related Party Transaction, Purchases from Related Party",,486,,,,
+227,Purchased power,,925,,,,
+228,Purchased fuel,,36,,,,
+229,Operating and maintenance,,1144,,,,
+230,Operating and maintenance from affiliates,,89,,,,
+231,Depreciation and amortization,,515,,,,
+232,Taxes other than income,,354,,,,
+233,Total operating expenses,,3549,,,,
+234,Equity in losses of unconsolidated affiliates,,0,,,,
+235,Gain (Loss) on Disposition of Other Assets,,(1),,,,
+236,Operating Income (Loss),,93,,,,
+237,Other income and (deductions),,,,,,
+238,Interest Expense,,(195),,,,
+239,"Other, net",,44,,,,
+240,Total other income and (deductions),,(151),,,,
+241,Income before income taxes,,(58),,,,
+242,Income taxes,,3,,,,
+243,"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Noncontrolling Interest",$ 0,,,,,
+244,"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",,(61),,,,
+245,Net Income (Loss) Attributable to Noncontrolling Interest,,(61),,,,
+246,Net Income,,(61),,,,
+247,Net income attributable to membership interest,,(61),,,,
+248,Pension and non-pension postretirement benefit plans:,,,,,,
+249,"Actuarial loss reclassified to periodic cost, net of tax",,0,,,,
+250,"Unrealized gain (loss) on cash flow hedges, net of taxes",,0,,,,
+251,Other comprehensive income (loss),,0,,,,
+252,Comprehensive income,,$ (61),,,,
+253,Delmarva Power and Light Company [Member],,,,,,
+254,Operating revenues [Abstract],,,,,,
+255,Electric operating revenues,,,1122,1132,,1081
+256,Natural gas operating revenues,,,148,164,,194
+257,Operating revenues from affiliates,,,7,6,,7
+258,Total operating revenues,,,1277,1302,,1282
+259,Operating expenses,,,,,,
+260,"Related Party Transaction, Purchases from Related Party",,,154,0,,0
+261,Purchased power,,,369,555,,536
+262,Purchased fuel,,,60,79,,104
+263,Operating and maintenance,,,422,303,,266
+264,Operating and maintenance from affiliates,,,19,1,,1
+265,Depreciation and amortization,,,157,148,,122
+266,Taxes other than income,,,55,51,,46
+267,Total operating expenses,,,1236,1137,,1075
+268,Equity in losses of unconsolidated affiliates,,,0,0,,
+269,Gain (Loss) on Disposition of Other Assets,,,9,0,,0
+270,Operating Income (Loss),,,50,165,,207
+271,Other income and (deductions),,,,,,
+272,Interest Expense,,,(50),(50),,(48)
+273,"Other, net",,,13,10,,10
+274,Total other income and (deductions),,,(37),(40),,(38)
+275,Income before income taxes,,,13,125,,169
+276,Income taxes,,,22,49,,65
+277,Net Income,,,(9),76,,104
+278,Net income attributable to common shareholders,,,(9),76,,104
+279,Pension and non-pension postretirement benefit plans:,,,,,,
+280,Comprehensive income,,,(9),76,,104
+281,Potomac Electric Power Company [Member],,,,,,
+282,Operating revenues [Abstract],,,,,,
+283,Electric operating revenues,,,2181,2124,,2050
+284,Operating revenues from affiliates,,,5,5,,5
+285,Total operating revenues,,,2186,2129,,2055
+286,Operating expenses,,,,,,
+287,"Related Party Transaction, Purchases from Related Party",,,295,0,,0
+288,Purchased power,,,411,719,,735
+289,Operating and maintenance,,,607,435,,386
+290,Operating and maintenance from affiliates,,,35,4,,4
+291,Depreciation and amortization,,,295,256,,212
+292,Taxes other than income,,,377,376,,369
+293,Total operating expenses,,,2020,1790,,1706
+294,Equity in losses of unconsolidated affiliates,,,0,0,,
+295,Gain (Loss) on Disposition of Other Assets,,,8,46,,0
+296,Operating Income (Loss),,,174,385,,349
+297,Other income and (deductions),,,,,,
+298,Interest Expense,,,(127),(124),,(115)
+299,"Other, net",,,36,28,,30
+300,Total other income and (deductions),,,(91),(96),,(85)
+301,Income before income taxes,,,83,289,,264
+302,Income taxes,,,41,102,,93
+303,Net Income,,,42,187,,171
+304,Net income attributable to common shareholders,,,42,187,,171
+305,Pension and non-pension postretirement benefit plans:,,,,,,
+306,Comprehensive income,,,42,187,,171
+307,Atlantic City Electric Company [Member],,,,,,
+308,Operating revenues [Abstract],,,,,,
+309,Electric operating revenues,,,1254,1291,,1206
+310,Operating revenues from affiliates,,,3,4,,4
+311,Total operating revenues,,,1257,1295,,1210
+312,Operating expenses,,,,,,
+313,Purchased power,,,614,708,,664
+314,Cost Of Goods And Services Energy Commodities And Services From Affiliate,,,37,0,,0
+315,Operating and maintenance,,,410,268,,247
+316,Operating and maintenance from affiliates,,,18,3,,3
+317,Depreciation and amortization,,,165,175,,155
+318,Taxes other than income,,,7,7,,4
+319,Total operating expenses,,,1251,1161,,1073
+320,Equity in losses of unconsolidated affiliates,,,0,0,,
+321,Gain (Loss) on Disposition of Other Assets,,,1,0,,0
+322,Operating Income (Loss),,,7,134,,137
+323,Other income and (deductions),,,,,,
+324,Interest Expense,,,(62),(64),,(64)
+325,"Other, net",,,9,3,,3
+326,Total other income and (deductions),,,(53),(61),,(61)
+327,Income before income taxes,,,(46),73,,76
+328,Income taxes,,,(4),33,,30
+329,Net Income,,,(42),40,,46
+330,Net income attributable to common shareholders,,,(42),40,,46
+331,Pension and non-pension postretirement benefit plans:,,,,,,
+332,Comprehensive income,,,$ (42),$ 40,,$ 46
+333,,,,,,,
+334,[1] All amounts are net of tax and noncontrolling interests. Amounts in parenthesis represent a decrease in accumulated other comprehensive income.,[1] All amounts are net of tax and noncontrolling interests. Amounts in parenthesis represent a decrease in accumulated other comprehensive income.,[1] All amounts are net of tax and noncontrolling interests. Amounts in parenthesis represent a decrease in accumulated other comprehensive income.,[1] All amounts are net of tax and noncontrolling interests. Amounts in parenthesis represent a decrease in accumulated other comprehensive income.,[1] All amounts are net of tax and noncontrolling interests. Amounts in parenthesis represent a decrease in accumulated other comprehensive income.,[1] All amounts are net of tax and noncontrolling interests. Amounts in parenthesis represent a decrease in accumulated other comprehensive income.,[1] All amounts are net of tax and noncontrolling interests. Amounts in parenthesis represent a decrease in accumulated other comprehensive income.

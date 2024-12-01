@@ -44,15 +44,22 @@ def open_income_statement(driver) -> WebElement | None:
     table = None
     for text in [
         'consolidated statements of operations and comprehensive income (loss)',
-        'consolidated statements of income', 'consolidated statements of operations',
+        'consolidated statements of income',
+        'consolidated statements of (loss) income',
+        'consolidated statements of operations',
         'consolidated statement of earnings', 'consolidated statement of operations',
         'consolidated statement of income', 'statement of consolidated operations',
         'statements of consolidated earnings',
         'statements of consolidated income',
+        'statements of consolidated (loss) income',
         'statement of consolidated income',
         'income statements', 'consolidated statements of earnings',
         'INCOME STATEMENTS', 'statement of income',
         'consolidated results of operations',
+        'statements of consolidated operations',
+        'statement of consolidated operations',
+        'consolidated statements of comprehensive earnings',
+        'consolidated comprehensive statements of earnings'
                  ]:
         try:
             section = driver.find_element(By.XPATH,
@@ -99,9 +106,19 @@ def open_income_statement(driver) -> WebElement | None:
         'Revenues and Other Income', 'Costs and Other Deductions',
         'NET SALES:', 'NET SALES',
         'NET INCOME', 'NET INCOME:',
+        'Net Income', 'Net Income:'
         'OPERATING INCOME', 'OPERATING INCOME:',
         'Operating Income', 'Operating Income:',
-        'Operating Revenue:', 'Operating Revenue'
+        'Operating Revenue:', 'Operating Revenue',
+        'Operating Expense:', 'Operating Expense',
+        'Operating expense:', 'Operating expense',
+        'operating expense:', 'operating expense',
+        'Total operating revenues', 'Total operating revenues:',
+        'Total operating revenue', 'Total operating revenue:',
+        'Operating Revenues and Other', 'Operating Revenues and Other:',
+        'Net Operating Revenues and Other', 'Net Operating Revenues and Other:',
+        'Net Operating Revenues', 'Net Operating Revenues:',
+        'Operating revenue', 'Operating revenue:'
     ]:
         try:
             table = driver.find_element(By.XPATH,
