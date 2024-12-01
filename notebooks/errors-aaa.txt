@@ -1,5 +1,5 @@
 Czy zrobić exclude bankow?
-Banki: CFG, CMA
+Banki: CFG, CMA, FITB
 DFS
 
 COP

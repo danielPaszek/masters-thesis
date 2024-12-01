@@ -1,0 +1,38 @@
+,0,1,2,3,4
+0,[1],Amounts may not sum due to rounding.,,,
+1,Consolidated Statements of Earnings - USD ($)  shares in Millions,Consolidated Statements of Earnings - USD ($)  shares in Millions,12 Months Ended,12 Months Ended,12 Months Ended
+2,Consolidated Statements of Earnings - USD ($)  shares in Millions,Consolidated Statements of Earnings - USD ($)  shares in Millions,"Dec. 31, 2018","Dec. 31, 2017","Dec. 31, 2016"
+3,Income Statement [Abstract],,,,
+4,"Revenue (for related party activity, see Note 15)",,"$ 8,423,000,000","$ 8,668,000,000","$ 8,831,000,000"
+5,"Cost of revenue (for related party activity, see Note 15)",,5569000000,5794000000,5895000000
+6,Gross profit,,2854000000,2874000000,2936000000
+7,"Selling, general and administrative expenses (for related party activity, see Note 15)",,1301000000,1442000000,1707000000
+8,Asset impairments,,95000000,0,0
+9,Operating income,,1458000000,1432000000,1229000000
+10,Other income (expense):,,,,
+11,Interest income,,17000000,22000000,20000000
+12,Interest expense,,"(314,000,000)","(359,000,000)","(403,000,000)"
+13,"Other income (expense), net",,"(57,000,000)","(119,000,000)","(9,000,000)"
+14,"Total other income (expense), net",,"(354,000,000)","(456,000,000)","(392,000,000)"
+15,Earnings from continuing operations before income taxes and equity method investment earnings (loss),,1104000000,976000000,837000000
+16,Provision (benefit) for income taxes,,208000000,"(321,000,000)",291000000
+17,Equity method investment earnings (loss),,"(15,000,000)","(3,000,000)",0
+18,"Earnings from continuing operations, net of tax",,881000000,1294000000,546000000
+19,"Earnings (loss) from discontinued operations, net of tax",,0,0,1000000
+20,Net earnings,,881000000,1294000000,547000000
+21,Net (earnings) loss attributable to noncontrolling interest,,"(35,000,000)","(33,000,000)","(22,000,000)"
+22,Net earnings attributable to FIS common stockholders,,"$ 846,000,000","$ 1,261,000,000","$ 525,000,000"
+23,Net earnings per share — basic from continuing operations attributable to FIS common stockholders (in dollars per share),,$ 2.58,$ 3.82,$ 1.61
+24,Net earnings (loss) per share — basic from discontinued operations attributable to FIS common stockholders (in dollars per share),,0.00,0.00,0.00
+25,Net earnings per share — basic attributable to FIS common stockholders (in dollars per share),[1],$ 2.58,$ 3.82,$ 1.61
+26,Weighted average shares outstanding — basic (in shares),,328,330,326
+27,Net earnings per share — diluted from continuing operations attributable to FIS common stockholders (in dollars per share),,$ 2.55,$ 3.75,$ 1.59
+28,Net earnings (loss) per share — diluted from discontinued operations attributable to FIS common stockholders (in dollars per share),,0.00,0.00,0.00
+29,Net earnings per share — diluted attributable to FIS common stockholders (in dollars per share),[1],$ 2.55,$ 3.75,$ 1.59
+30,Weighted average shares outstanding — diluted (in shares),,332,336,330
+31,Amounts attributable to FIS common stockholders:,,,,
+32,"Earnings from continuing operations, net of tax",,"$ 846,000,000","$ 1,261,000,000","$ 524,000,000"
+33,"Earnings (loss) from discontinued operations, net of tax",,0,0,1000000
+34,Net earnings attributable to FIS common stockholders,,"$ 846,000,000","$ 1,261,000,000","$ 525,000,000"
+35,,,,,
+36,[1] Amounts may not sum due to rounding.,[1] Amounts may not sum due to rounding.,[1] Amounts may not sum due to rounding.,[1] Amounts may not sum due to rounding.,[1] Amounts may not sum due to rounding.

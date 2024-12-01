@@ -1,0 +1,35 @@
+,0,1,2,3,4,5
+0,[1],"Net income per share in each period is calculated using actual, unrounded amounts.",,,,
+1,"Consolidated Statements of Income (USD $) In Millions, except Per Share data, unless otherwise specified",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+2,"Consolidated Statements of Income (USD $) In Millions, except Per Share data, unless otherwise specified","Dec. 31, 2014","Dec. 31, 2014","Dec. 31, 2013","Dec. 31, 2013","Dec. 31, 2012"
+3,Revenue:,,,,,
+4,Processing and services,"$ 4,219",,"$ 4,035",,"$ 3,663"
+5,Product,847,,779,,773
+6,Total revenue,5066,,4814,,4436
+7,Expenses:,,,,,
+8,Cost of processing and services,2164,,2081,,1936
+9,Cost of product,717,,695,,628
+10,"Selling, general and administrative",975,,977,,824
+11,Total expenses,3856,,3753,,3388
+12,Operating income,1210,,1061,,1048
+13,Interest expense,(164),,(164),,(174)
+14,Interest and investment income,1,,1,,7
+15,Income (loss) from continuing operations before income taxes and income from investment in unconsolidated affiliate,1047,,898,,881
+16,Income tax provision,(384),,(328),,(300)
+17,Income from investment in unconsolidated affiliate,91,,80,,11
+18,Income from continuing operations,754,,650,,592
+19,"(Loss) income from discontinued operations, net of income taxes",,,(2),,19
+20,Net income,$ 754,,$ 648,,$ 611
+21,Net income (loss) per share - basic:,,,,,
+22,Continuing operations,$ 3.04,[1],$ 2.48,[1],$ 2.18
+23,Discontinued operations,,,$ (0.01),,$ 0.07
+24,Total,$ 3.03,,$ 2.47,,$ 2.25
+25,Net income (loss) per share - diluted:,,,,,
+26,Continuing operations,$ 2.99,[1],$ 2.44,[1],$ 2.15
+27,Discontinued operations,,,$ (0.01),,$ 0.07
+28,Total,$ 2.98,,$ 2.44,,$ 2.22
+29,Shares used in computing net income (loss) per share:,,,,,
+30,Basic,248.6,,262.4,,271.6
+31,Diluted,252.7,,266.1,,275.0
+32,,,,,,
+33,"[1]  Net income per share in each period is calculated using actual, unrounded amounts.","[1]  Net income per share in each period is calculated using actual, unrounded amounts.","[1]  Net income per share in each period is calculated using actual, unrounded amounts.","[1]  Net income per share in each period is calculated using actual, unrounded amounts.","[1]  Net income per share in each period is calculated using actual, unrounded amounts.","[1]  Net income per share in each period is calculated using actual, unrounded amounts."

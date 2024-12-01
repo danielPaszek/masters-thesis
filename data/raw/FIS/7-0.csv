@@ -1,0 +1,36 @@
+,0,1,2,3,4
+0,[1],Amounts may not sum due to rounding.,,,
+1,"Consolidated Statements of Earnings - USD ($)  shares in Millions, $ in Millions","Consolidated Statements of Earnings - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+2,"Consolidated Statements of Earnings - USD ($)  shares in Millions, $ in Millions","Consolidated Statements of Earnings - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2016","Dec. 31, 2015","Dec. 31, 2014"
+3,Income Statement [Abstract],,,,
+4,"Processing and services revenues (for related party activity, see note 17)",,"$ 9,241","$ 6,596","$ 6,413"
+5,"Cost of revenues (for related party activity, see note 17)",,6233,4395,4327
+6,Gross profit,,3008,2201,2086
+7,"Selling, general, and administrative expenses (for related party activity, see note17)",,1710,1102,815
+8,Operating income,,1298,1099,1271
+9,Other income (expense):,,,,
+10,Interest income,,20,16,15
+11,Interest expense,,(403),(199),(173)
+12,"Other income (expense), net",,(9),121,(60)
+13,Total other income (expense),,(392),(62),(218)
+14,Earnings from continuing operations before income taxes,,906,1037,1053
+15,Provision for income taxes,,317,379,335
+16,"Earnings from continuing operations, net of tax",,589,658,718
+17,"Earnings (loss) from discontinued operations, net of tax",,1,(7),(11)
+18,Net earnings,,590,651,707
+19,Net earnings attributable to noncontrolling interest,,(22),(19),(28)
+20,Net earnings attributable to FIS common stockholders,,$ 568,$ 632,$ 679
+21,Net earnings per share — basic from continuing operations attributable to FIS common stockholders (in dollars per share),,$ 1.74,$ 2.24,$ 2.42
+22,Net earnings (loss) per share — basic from discontinued operations attributable to FIS common stockholders (in dollars per share),,0.00,(0.03),(0.04)
+23,Net earnings per share — basic attributable to FIS common stockholders (in dollars per share),[1],$ 1.74,$ 2.22,$ 2.38
+24,Weighted average shares outstanding — basic (in shares),,326,285,285
+25,Net earnings per share — diluted from continuing operations attributable to FIS common stockholders (in dollars per share),,$ 1.72,$ 2.21,$ 2.39
+26,Net earnings (loss) per share — diluted from discontinued operations attributable to FIS common stockholders (in dollars per share),,0.00,(0.03),(0.04)
+27,Net earnings per share — diluted attributable to FIS common stockholders (in dollars per share),[1],$ 1.72,$ 2.19,$ 2.35
+28,Weighted average shares outstanding — diluted (in shares),,330,289,289
+29,Amounts attributable to FIS common stockholders:,,,,
+30,"Earnings from continuing operations, net of tax",,$ 567,$ 639,$ 690
+31,"Earnings (loss) from discontinued operations, net of tax",,1,(7),(11)
+32,Net earnings attributable to FIS common stockholders,,$ 568,$ 632,$ 679
+33,,,,,
+34,[1] Amounts may not sum due to rounding.,[1] Amounts may not sum due to rounding.,[1] Amounts may not sum due to rounding.,[1] Amounts may not sum due to rounding.,[1] Amounts may not sum due to rounding.

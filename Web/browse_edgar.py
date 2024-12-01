@@ -71,13 +71,13 @@ def open_income_statement(driver) -> WebElement | None:
         print('No section found')
         # Has to be last. AYI has statement under this, but most have some other stuff we don't want
         fallbacks = [
-            'loss',
+            # 'loss',
             'consolidated statements of comprehensive income',
         ]
         for fallback in fallbacks:
             try:
                 section = driver.find_element(By.XPATH,
-                                              f"//a[text()[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'),'{fallback}')] and not(contains(@class, 'xbrlviewer'))]")
+                                              f"//a[text()[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'),'{fallback}')]]")
                 print("Using fallback. Check if it is correct data")
                 break
             except:
@@ -118,7 +118,9 @@ def open_income_statement(driver) -> WebElement | None:
         'Operating Revenues and Other', 'Operating Revenues and Other:',
         'Net Operating Revenues and Other', 'Net Operating Revenues and Other:',
         'Net Operating Revenues', 'Net Operating Revenues:',
-        'Operating revenue', 'Operating revenue:'
+        'Operating revenue', 'Operating revenue:',
+        'Revenues and other income', 'Revenues and other income:',
+        'Interest Income', 'Interest Income:', 'Interest income:', 'Interest income',
     ]:
         try:
             table = driver.find_element(By.XPATH,
