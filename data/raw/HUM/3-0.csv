@@ -1,0 +1,23 @@
+,Consolidated Statements of Income - USD ($)  $ in Millions,12 Months Ended,12 Months Ended,12 Months Ended
+,Consolidated Statements of Income - USD ($)  $ in Millions,"Dec. 31, 2020","Dec. 31, 2019","Dec. 31, 2018"
+0,Revenues:,,,
+1,Premiums,"$ 74,186","$ 62,948","$ 54,941"
+2,Services,1815,1439,1457
+3,Investment income,1154,501,514
+4,Total revenues,77155,64888,56912
+5,Operating expenses:,,,
+6,Benefits,61628,53857,45882
+7,Operating costs,10052,7381,7525
+8,Depreciation and amortization,489,458,405
+9,Total operating expenses,72169,61696,53812
+10,Income from operations,4986,3192,3100
+11,Loss on sale of business,0,0,786
+12,Interest expense,283,242,218
+13,"Other expense (income), net",103,(506),33
+14,Income before income taxes and equity in net earnings,4600,3456,2063
+15,Provision for income taxes,1307,763,391
+16,Equity in net earnings,74,14,11
+17,Net income,"$ 3,367","$ 2,707","$ 1,683"
+18,Basic earnings per common share (in dollars per share),$ 25.47,$ 20.20,$ 12.24
+19,Diluted earnings per common share (in dollars per share),$ 25.31,$ 20.10,$ 12.16
+20,"Services revenue, type",us-gaap:HealthCareService,us-gaap:HealthCareService,us-gaap:HealthCareService

@@ -1,0 +1,57 @@
+,0,1,2,3,4,5,6,7
+0,[1],"Represents the original issuance costs associated with the Class E preferred OP units, which were redeemed during 2010.",,,,,,
+1,"CONSOLIDATED STATEMENTS OF OPERATIONS (USD $) In Millions, except Per Share data, unless otherwise specified",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENTS OF OPERATIONS (USD $) In Millions, except Per Share data, unless otherwise specified","Dec. 31, 2010 HOST HOTELS & RESORTS, INC.","Dec. 31, 2009 HOST HOTELS & RESORTS, INC.","Dec. 31, 2008 HOST HOTELS & RESORTS, INC.","Dec. 31, 2010 HOST HOTELS & RESORTS L.P.","Dec. 31, 2010 HOST HOTELS & RESORTS L.P.","Dec. 31, 2009 HOST HOTELS & RESORTS L.P.","Dec. 31, 2008 HOST HOTELS & RESORTS L.P."
+3,REVENUES,,,,,,,
+4,Rooms,"$ 2,668","$ 2,490","$ 3,106","$ 2,668",,"$ 2,490","$ 3,106"
+5,Food and beverage,1293,1236,1547,1293,,1236,1547
+6,Other,277,311,347,277,,311,347
+7,Total revenues for owned hotels,4238,4037,5000,4238,,4037,5000
+8,Other revenues,199,107,119,199,,107,119
+9,Total revenues,4437.0,4144.0,5119.0,4437.0,,4144.0,5119.0
+10,EXPENSES,,,,,,,
+11,Rooms,736,683,762,736,,683,762
+12,Food and beverage,967,935,1132,967,,935,1132
+13,Other departmental and support expenses,1154,1102,1252,1154,,1102,1252
+14,Management fees,171,158,241,171,,158,241
+15,Other property-level expenses,489,386,384,489,,386,384
+16,Depreciation and amortization,592,615,555,592,,615,555
+17,Corporate and other expenses,108,116,58,108,,116,58
+18,Gain on insurance settlement,(3),,(7),(3),,,(7)
+19,Total operating costs and expenses,4214,3995,4377,4214,,3995,4377
+20,OPERATING PROFIT,223,149,742,223,,149,742
+21,Interest income,8.0,7.0,20.0,8.0,,7.0,20.0
+22,Interest expense,(384),(379),(375),(384),,(379),(375)
+23,Net gains on property transactions and other,1,14,2,1,,14,2
+24,Gain (loss) on foreign currency transactions and derivatives,(6),5,1,(6),,5,1
+25,Equity in losses of affiliates,(1),(32),(10),(1),,(32),(10)
+26,Income (loss) before income taxes,(159),(236),380,(159),,(236),380
+27,Benefit (provision) for income taxes,31,39,3,31,,39,3
+28,INCOME (LOSS) FROM CONTINUING OPERATIONS,(128),(197),383,(128),,(197),383
+29,"Income (loss) from discontinued operations, net of tax",(4),(61),31,(4),,(61),31
+30,Net income (loss),(132),(258),414,(132),,(258),414
+31,Less: Net (income) loss attributable to non-controlling interests,2,6,(19),,,1,(3)
+32,"NET INCOME (LOSS) ATTRIBUTABLE TO HOST HOTELS & RESORTS, INC.",(130.0),(252.0),395.0,(132.0),,(257.0),411.0
+33,Dividends on preferred stock,(4),(9),(9),,,,
+34,Issuance costs of redeemed preferred OP units,(4),,,(4),[1],,
+35,Earnings (loss) available to common stockholders,(138),(261),386,,,,
+36,Basic earnings (loss) per common share:,,,,,,,
+37,Continuing operations,$ (0.20),$ (0.34),$ 0.68,,,,
+38,Discontinued operations,$ (0.01),$ (0.11),$ 0.06,,,,
+39,Basic earnings (loss) per common share,$ (0.21),$ (0.45),$ 0.74,,,,
+40,Diluted earnings (loss) per common share:,,,,,,,
+41,Continuing operations,$ (0.20),$ (0.34),$ 0.66,,,,
+42,Discontinued operations,$ (0.01),$ (0.11),$ 0.06,,,,
+43,Diluted earnings (loss) per common share,$ (0.21),$ (0.45),$ 0.72,,,,
+44,Distributions on preferred OP units,,,,(4),,(9),(9)
+45,Earnings (loss) available to common unitholders,,,,$ (140),,$ (266),$ 402
+46,Basic earnings (loss) per common unit:,,,,,,,
+47,Continuing operations,,,,(0.21),,(0.34),0.68
+48,Discontinued operations,,,,,,(0.10),0.06
+49,Basic earnings (loss) per common unit,,,,(0.21),,(0.44),0.74
+50,Diluted earnings (loss) per common unit:,,,,,,,
+51,Continuing operations,,,,(0.21),,(0.35),0.66
+52,Discontinued operations,,,,,,(0.10),0.06
+53,Diluted earnings (loss) per common unit,,,,(0.21),,(0.45),0.72
+54,,,,,,,,
+55,"[1] Represents the original issuance costs associated with the Class E preferred OP units, which were redeemed during 2010.","[1] Represents the original issuance costs associated with the Class E preferred OP units, which were redeemed during 2010.","[1] Represents the original issuance costs associated with the Class E preferred OP units, which were redeemed during 2010.","[1] Represents the original issuance costs associated with the Class E preferred OP units, which were redeemed during 2010.","[1] Represents the original issuance costs associated with the Class E preferred OP units, which were redeemed during 2010.","[1] Represents the original issuance costs associated with the Class E preferred OP units, which were redeemed during 2010.","[1] Represents the original issuance costs associated with the Class E preferred OP units, which were redeemed during 2010.","[1] Represents the original issuance costs associated with the Class E preferred OP units, which were redeemed during 2010."

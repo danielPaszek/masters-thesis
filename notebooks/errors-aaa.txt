@@ -1,5 +1,5 @@
 Czy zrobić exclude bankow?
-Banki: CFG, CMA, FITB
+Banki: CFG, CMA, FITB, HBAN, JPM
 DFS
 
 COP
@@ -11,6 +11,7 @@ struktura raportow - CCI, DE, EXC
 Errors:
 DVN
 ETR
+GD
 
 
 EXPE - osobne pliki go kosztów!!!!

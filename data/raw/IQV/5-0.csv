@@ -1,0 +1,30 @@
+,CONSOLIDATED STATEMENTS OF INCOME - USD ($)  shares in Millions,12 Months Ended,12 Months Ended,12 Months Ended
+,CONSOLIDATED STATEMENTS OF INCOME - USD ($)  shares in Millions,"Dec. 31, 2018","Dec. 31, 2017","Dec. 31, 2016"
+0,Income Statement [Abstract],,,
+1,Revenues,"$ 10,412,000,000","$ 9,702,000,000","$ 6,815,000,000"
+2,Type of Revenue [Extensible List],us-gaap:ServiceMember,us-gaap:ServiceMember,us-gaap:ServiceMember
+3,"Costs of revenue, exclusive of depreciation and amortization","$ 6,746,000,000","$ 6,301,000,000","$ 4,748,000,000"
+4,"Type of Cost, Good or Service [Extensible List]",us-gaap:ServiceMember,us-gaap:ServiceMember,us-gaap:ServiceMember
+5,"Selling, general and administrative expenses","$ 1,716,000,000","$ 1,622,000,000","$ 1,016,000,000"
+6,Depreciation and amortization,1141000000,1011000000,289000000
+7,Impairment charges,,40000000,28000000
+8,Restructuring costs,68000000,63000000,71000000
+9,Merger related costs,0,0,87000000
+10,Income from operations,741000000,665000000,576000000
+11,Interest income,"(8,000,000)","(7,000,000)","(4,000,000)"
+12,Interest expense,414000000,346000000,144000000
+13,Loss on extinguishment of debt,2000000,19000000,31000000
+14,"Other expense (income), net",5000000,13000000,"(11,000,000)"
+15,Income before income taxes and equity in earnings (losses) of unconsolidated affiliates,328000000,294000000,416000000
+16,Income tax expense (benefit),59000000,"(992,000,000)",325000000
+17,Income before equity in earnings (losses) of unconsolidated affiliates,269000000,1286000000,91000000
+18,Equity in earnings (losses) of unconsolidated affiliates,15000000,10000000,"(4,000,000)"
+19,Net income,284000000,1296000000,87000000
+20,Net income attributable to non-controlling interests,"(25,000,000)","(19,000,000)","(15,000,000)"
+21,Net income attributable to IQVIA Holdings Inc.,"$ 259,000,000","$ 1,277,000,000","$ 72,000,000"
+22,Earnings per share attributable to common stockholders:,,,
+23,Basic,$ 1.27,$ 5.86,$ 0.48
+24,Diluted,$ 1.24,$ 5.74,$ 0.47
+25,Weighted average common shares outstanding:,,,
+26,Basic,203.7,217.8,149.1
+27,Diluted,208.2,222.6,152.0

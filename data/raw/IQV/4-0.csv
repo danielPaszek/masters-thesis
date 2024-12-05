@@ -1,0 +1,29 @@
+,"CONSOLIDATED STATEMENTS OF INCOME - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+,"CONSOLIDATED STATEMENTS OF INCOME - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2019","Dec. 31, 2018","Dec. 31, 2017"
+0,Income Statement [Abstract],,,
+1,Revenues,"$ 11,088","$ 10,412","$ 9,702"
+2,Type of Revenue [Extensible List],us-gaap:ServiceMember,us-gaap:ServiceMember,us-gaap:ServiceMember
+3,"Costs of revenue, exclusive of depreciation and amortization","$ 7,300","$ 6,746","$ 6,301"
+4,"Type of Cost, Good or Service [Extensible List]",us-gaap:ServiceMember,us-gaap:ServiceMember,us-gaap:ServiceMember
+5,"Selling, general and administrative expenses","$ 1,734","$ 1,716","$ 1,622"
+6,Depreciation and amortization,1202,1141,1011
+7,Impairment charges,,0,40
+8,Restructuring costs,75,68,63
+9,Income from operations,777,741,665
+10,Interest income,(9),(8),(7)
+11,Interest expense,447,414,346
+12,Loss on extinguishment of debt,24,2,19
+13,"Other (income) expense, net",(37),5,13
+14,Income before income taxes and equity in earnings of unconsolidated affiliates,352,328,294
+15,Income tax expense (benefit),116,59,(992)
+16,Income before equity in earnings (losses) of unconsolidated affiliates,236,269,1286
+17,Equity in (losses) earnings of unconsolidated affiliates,(9),15,10
+18,Net income,227,284,1296
+19,Net income attributable to non-controlling interests,(36),(25),(19)
+20,Net income attributable to IQVIA Holdings Inc.,$ 191,$ 259,"$ 1,277"
+21,Earnings per share attributable to common stockholders:,,,
+22,Basic,$ 0.98,$ 1.27,$ 5.86
+23,Diluted,$ 0.96,$ 1.24,$ 5.74
+24,Weighted average common shares outstanding:,,,
+25,Basic,195.1,203.7,217.8
+26,Diluted,199.6,208.2,222.6

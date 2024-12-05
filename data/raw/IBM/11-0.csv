@@ -1,0 +1,33 @@
+,0,1,2,3,4,5
+0,[1],Amounts may not add due to rounding.,,,,
+1,"Consolidated Statement of Earnings (USD $) In Millions, except Share data, unless otherwise specified",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+2,"Consolidated Statement of Earnings (USD $) In Millions, except Share data, unless otherwise specified","Dec. 31, 2012","Dec. 31, 2012","Dec. 31, 2011","Dec. 31, 2010","Dec. 31, 2010"
+3,Revenue,,,,,
+4,Services,"$ 59,453",,"$ 60,721","$ 56,868",
+5,Sales,43014,,44063,40736,
+6,Financing,2040,,2132,2267,
+7,Total revenue,104507,,106916,99870,[1]
+8,Cost,,,,,
+9,Services,39166,,40740,38383,
+10,Sales,13956,,14973,14374,
+11,Financing,1087,,1065,1100,
+12,Total cost,54209,,56778,53857,
+13,Gross profit,50298,,50138,46014,[1]
+14,Expense and other income,,,,,
+15,"Selling, general and administrative",23553,,23594,21837,
+16,"Research, development and engineering (Note O)",6302,,6258,6026,
+17,Intellectual property and custom development income,"(1,074)",,"(1,108)","(1,154)",
+18,Other (income) and expense,(843),,(20),(787),
+19,Interest expense (Note D&J),459,,411,368,
+20,Total expense and other income,28396,[1],29135,26291,[1]
+21,Income before income taxes,21902,,21003,19723,
+22,Provision for income taxes (Note N),5298,,5148,4890,
+23,Net income,"$ 16,604",,"$ 15,855","$ 14,833",
+24,Earnings per share of common stock,,,,,
+25,Assuming dilution (in dollars per share) (Note P),$ 14.37,,$ 13.06,$ 11.52,
+26,Basic (in dollars per share) (Note P),$ 14.53,,$ 13.25,$ 11.69,
+27,Weighted-average number of common shares outstanding,,,,,
+28,Assuming dilution (in shares),1155449317,,1213767985,1287355388,
+29,Basic (in shares),1142508521,,1196951006,1268789202,
+30,,,,,,
+31,[1]  Amounts may not add due to rounding.,[1]  Amounts may not add due to rounding.,[1]  Amounts may not add due to rounding.,[1]  Amounts may not add due to rounding.,[1]  Amounts may not add due to rounding.,[1]  Amounts may not add due to rounding.

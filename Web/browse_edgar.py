@@ -1,4 +1,5 @@
 # open all sections in 10-K
+from selenium.common import ElementNotInteractableException
 from selenium.webdriver.common.by import By
 from time import sleep
 from selenium.webdriver.remote.webelement import WebElement
@@ -42,28 +43,42 @@ def open_sections(driver):
 def open_income_statement(driver) -> WebElement | None:
     section = None
     table = None
+    textKeyword = ''
     for text in [
+        'consolidated and sector income statement', 'consolidated and sector income statements',
+        'consolidated and sectors income statements', 'consolidated and sectors income statement',
+        'consolidated and sector statement of operations', 'consolidated and sector statement of operation',
+        'consolidated and combined statements of earnings', 'consolidated and combined statement of earnings',
         'consolidated statements of operations and comprehensive income (loss)',
-        'consolidated statements of income',
         'consolidated statements of (loss) income',
+        'consolidated statements of income',
         'consolidated statements of operations',
-        'consolidated statement of earnings', 'consolidated statement of operations',
-        'consolidated statement of income', 'statement of consolidated operations',
+        'consoldiated statements of operations', # yep, typo
+        'consolidated statements of earnings',
+        'consolidated statement of operations',
         'statements of consolidated earnings',
         'statements of consolidated income',
         'statements of consolidated (loss) income',
         'statement of consolidated income',
-        'income statements', 'consolidated statements of earnings',
+        'consolidated statement of income', 'statement of consolidated operations',
         'INCOME STATEMENTS', 'statement of income',
         'consolidated results of operations',
         'statements of consolidated operations',
         'statement of consolidated operations',
+        'statement of earnings (loss)',
+        'consolidated income statement',
+        'consolidated income statements',
+        'statement of earnings',
+        'statements of earnings',
         'consolidated statements of comprehensive earnings',
-        'consolidated comprehensive statements of earnings'
-                 ]:
+        'consolidated comprehensive statements of earnings',
+        'consolidated statement of earnings',
+        'income statements',
+    ]:
         try:
             section = driver.find_element(By.XPATH,
                                           f"//a[text()[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'),'{text}')]]")
+            textKeyword = text
             break
         except:
             continue
@@ -85,14 +100,18 @@ def open_income_statement(driver) -> WebElement | None:
         if section is None:
             print("Fallback failed")
             return None
+    try:
+        section.click()
+    except ElementNotInteractableException:
+        print('Element not interactable')
+        print(textKeyword)
 
-    section.click()
     for text in [
         'Revenue', 'Net income', 'Net income (loss)', 'Operating income', 'Operating income (loss)',
         'Revenues', 'Revenues:', 'Total Revenue', 'Total Revenues', 'Total revenue', 'Total revenues',
         'Sales', 'Sales:'
         'Total sales', 'Total Sales', 'Total sales:', 'Total Sales:'
-        'Net revenue', 'Net revenues', 'Net Revenues', 'Net Revenues:',
+        'Net revenue', 'Net revenues', 'Net Revenues', 'Net Revenues:', 'Net revenue:', 'Net Revenue:'
         'Net Revenue', 'Net sales', 'Net sales:', 'Net Sales',
         'Cost of Sales', 'Cost of sales', 'Cost of Sales:', 'Cost of sales:',
         'Operating Revenues', 'Operating Revenues:', 'Operating revenues', 'Operating revenues:',
@@ -121,6 +140,8 @@ def open_income_statement(driver) -> WebElement | None:
         'Operating revenue', 'Operating revenue:',
         'Revenues and other income', 'Revenues and other income:',
         'Interest Income', 'Interest Income:', 'Interest income:', 'Interest income',
+        'Net Income (Loss)', 'Net income (loss)', 'net income (loss)',
+        'Net Income (Loss):', 'Net income (loss):', 'net income (loss):',
     ]:
         try:
             table = driver.find_element(By.XPATH,

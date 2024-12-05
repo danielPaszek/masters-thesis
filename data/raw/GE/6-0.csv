@@ -1,0 +1,114 @@
+,0,1,2,3,4
+0,[1],"Represents the adding together of all affiliated companies except GE Capital, which is presented on a one-line basis. See Note 1.",,,
+1,STATEMENT OF EARNINGS (LOSS) - USD ($)  $ in Millions,STATEMENT OF EARNINGS (LOSS) - USD ($)  $ in Millions,12 Months Ended,12 Months Ended,12 Months Ended
+2,STATEMENT OF EARNINGS (LOSS) - USD ($)  $ in Millions,STATEMENT OF EARNINGS (LOSS) - USD ($)  $ in Millions,"Dec. 31, 2017","Dec. 31, 2016","Dec. 31, 2015"
+3,Revenues and other income,,,,
+4,Sales of goods,,"$ 75,641","$ 75,414","$ 74,510"
+5,Sales of services,,37551,34976,31298
+6,Other income (Note 17),,1625,4005,2227
+7,GE Capital earnings (loss) from continuing operations,,0,0,0
+8,GE Capital revenues from services,,7276,9297,9350
+9,Total revenues and other income,,122092,123693,117386
+10,Costs and expenses (Note 25),,,,
+11,Cost of goods sold,,64328,62440,59905
+12,Cost of services sold,,27606,25043,22788
+13,"Selling, general and administrative expenses",,18280,18377,17831
+14,Interest and other financial charges,,4869,5025,3463
+15,"Investment contracts, insurance losses and insurance annuity benefits",,12168,2797,2605
+16,Other costs and expenses,,3632,982,2608
+17,Total costs and expenses,,130883,114663,109200
+18,Earnings (loss) from continuing operations before income taxes,,"(8,791)",9030,8186
+19,Benefit (provision) for income taxes (Note 13),,3043,464,"(6,485)"
+20,Earnings (loss) from continuing operations,,"(5,748)",9494,1700
+21,"Earnings (loss) from discontinued operations, net of taxes (Note 2)",,(309),(954),"(7,495)"
+22,Net earnings (loss),,"(6,056)",8540,"(5,795)"
+23,Less net earnings (loss) attributable to noncontrolling interests,,(270),(291),332
+24,Net earnings (loss) attributable to the Company,,"(5,786)",8831,"(6,126)"
+25,Preferred stock dividends,,(436),(656),(18)
+26,Net earnings (loss) attributable to GE common shareowners,,"(6,222)",8176,"(6,145)"
+27,Amounts attributable to GE common shareowners:,,,,
+28,Earnings (loss) from continuing operations,,"(5,748)",9494,1700
+29,"Less net earnings (loss) attributable to noncontrolling interests, continuing operations",,(277),(290),19
+30,Earnings (loss) from continuing operations attributable to the Company,,"(5,471)",9784,1681
+31,Preferred stock dividends,,(436),(656),(18)
+32,Earnings (loss) from continuing operations attributable to GE common shareowners,,"(5,907)",9128,1663
+33,"Earnings (loss) from discontinued operations, net of taxes",,(309),(954),"(7,495)"
+34,"Less net earnings (loss) attributable to noncontrolling interests, discontinued operations",,6,(1),312
+35,Net earnings (loss) attributable to GE common shareowners,,"$ (6,222)","$ 8,176","$ (6,145)"
+36,Earnings (loss) from continuing operations,,,,
+37,Diluted earnings (loss) per share (in dollars per share),,$ (0.68),$ 1.00,$ 0.17
+38,Basic earnings (loss) per share (in dollars per share),,(0.68),1.01,0.17
+39,Net earnings (loss),,,,
+40,Diluted earnings (loss) per share (in dollars per share),,(0.72),0.89,(0.61)
+41,Basic earnings (loss) per share (in dollars per share),,(0.72),0.90,(0.62)
+42,Dividends declared per common share (in dollars per share),,$ 0.84,$ 0.93,$ 0.92
+43,GE,,,,
+44,Revenues and other income,,,,
+45,Sales of goods,[1],"$ 75,718","$ 75,580","$ 74,565"
+46,Sales of services,[1],37761,35255,31641
+47,Other income (Note 17),[1],1436,4092,2165
+48,GE Capital earnings (loss) from continuing operations,[1],"(6,765)","(1,251)","(7,672)"
+49,GE Capital revenues from services,[1],0,0,0
+50,Total revenues and other income,[1],108150,113676,100700
+51,Costs and expenses (Note 25),,,,
+52,Cost of goods sold,[1],64433,62628,59970
+53,Cost of services sold,[1],25619,23084,20858
+54,"Selling, general and administrative expenses",[1],17103,16123,14914
+55,Interest and other financial charges,[1],2753,2026,1706
+56,"Investment contracts, insurance losses and insurance annuity benefits",[1],0,0,0
+57,Other costs and expenses,[1],1165,0,0
+58,Total costs and expenses,[1],111072,103860,97447
+59,Earnings (loss) from continuing operations before income taxes,[1],"(2,922)",9815,3252
+60,Benefit (provision) for income taxes (Note 13),[1],"(3,259)",(967),"(1,506)"
+61,Earnings (loss) from continuing operations,[1],"(6,181)",8849,1746
+62,"Earnings (loss) from discontinued operations, net of taxes (Note 2)",[1],(315),(952),"(7,807)"
+63,Net earnings (loss),[1],"(6,496)",7896,"(6,061)"
+64,Less net earnings (loss) attributable to noncontrolling interests,[1],(274),(279),83
+65,Net earnings (loss) attributable to the Company,[1],"(6,222)",8176,"(6,145)"
+66,Preferred stock dividends,[1],0,0,0
+67,Net earnings (loss) attributable to GE common shareowners,[1],"(6,222)",8176,"(6,145)"
+68,Amounts attributable to GE common shareowners:,,,,
+69,Earnings (loss) from continuing operations,[1],"(6,181)",8849,1746
+70,"Less net earnings (loss) attributable to noncontrolling interests, continuing operations",[1],(274),(279),83
+71,Earnings (loss) from continuing operations attributable to the Company,[1],"(5,907)",9128,1663
+72,Preferred stock dividends,[1],0,0,0
+73,Earnings (loss) from continuing operations attributable to GE common shareowners,[1],"(5,907)",9128,1663
+74,"Earnings (loss) from discontinued operations, net of taxes",[1],(315),(952),"(7,807)"
+75,"Less net earnings (loss) attributable to noncontrolling interests, discontinued operations",[1],0,0,0
+76,Net earnings (loss) attributable to GE common shareowners,[1],"(6,222)",8176,"(6,145)"
+77,Financial Services (GE Capital),,,,
+78,Revenues and other income,,,,
+79,Sales of goods,,130,115,79
+80,Sales of services,,0,0,0
+81,Other income (Note 17),,0,0,0
+82,GE Capital earnings (loss) from continuing operations,,0,0,0
+83,GE Capital revenues from services,,8940,10790,10722
+84,Total revenues and other income,,9070,10905,10801
+85,Costs and expenses (Note 25),,,,
+86,Cost of goods sold,,102,93,69
+87,Cost of services sold,,2196,2238,2273
+88,"Selling, general and administrative expenses",,1676,2947,3512
+89,Interest and other financial charges,,3145,3790,2301
+90,"Investment contracts, insurance losses and insurance annuity benefits",,12213,2861,2737
+91,Other costs and expenses,,2371,1013,2647
+92,Total costs and expenses,,21703,12942,13539
+93,Earnings (loss) from continuing operations before income taxes,,"(12,633)","(2,037)","(2,739)"
+94,Benefit (provision) for income taxes (Note 13),,6302,1431,"(4,979)"
+95,Earnings (loss) from continuing operations,,"(6,331)",(606),"(7,718)"
+96,"Earnings (loss) from discontinued operations, net of taxes (Note 2)",,(312),(954),"(7,485)"
+97,Net earnings (loss),,"(6,643)","(1,560)","(15,202)"
+98,Less net earnings (loss) attributable to noncontrolling interests,,4,(12),248
+99,Net earnings (loss) attributable to the Company,,"(6,647)","(1,548)","(15,450)"
+100,Preferred stock dividends,,(436),(656),(330)
+101,Net earnings (loss) attributable to GE common shareowners,,"(7,083)","(2,204)","(15,780)"
+102,Amounts attributable to GE common shareowners:,,,,
+103,Earnings (loss) from continuing operations,,"(6,331)",(606),"(7,718)"
+104,"Less net earnings (loss) attributable to noncontrolling interests, continuing operations",,(3),(10),(64)
+105,Earnings (loss) from continuing operations attributable to the Company,,"(6,328)",(595),"(7,654)"
+106,Preferred stock dividends,,(436),(656),(330)
+107,Earnings (loss) from continuing operations attributable to GE common shareowners,,"(6,765)","(1,251)","(7,983)"
+108,"Earnings (loss) from discontinued operations, net of taxes",,(312),(954),"(7,485)"
+109,"Less net earnings (loss) attributable to noncontrolling interests, discontinued operations",,6,(1),312
+110,Net earnings (loss) attributable to GE common shareowners,,"$ (7,083)","$ (2,204)","$ (15,780)"
+111,,,,,
+112,"[1] Represents the adding together of all affiliated companies except GE Capital, which is presented on a one-line basis. See Note 1.","[1] Represents the adding together of all affiliated companies except GE Capital, which is presented on a one-line basis. See Note 1.","[1] Represents the adding together of all affiliated companies except GE Capital, which is presented on a one-line basis. See Note 1.","[1] Represents the adding together of all affiliated companies except GE Capital, which is presented on a one-line basis. See Note 1.","[1] Represents the adding together of all affiliated companies except GE Capital, which is presented on a one-line basis. See Note 1."

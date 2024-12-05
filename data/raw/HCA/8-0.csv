@@ -1,0 +1,28 @@
+,"Consolidated Income Statements - USD ($)  shares in Thousands, $ in Millions",Unnamed: 1_level_0,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+,"Consolidated Income Statements - USD ($)  shares in Thousands, $ in Millions","Dec. 09, 2015","Dec. 31, 2015","Sep. 30, 2015","Jun. 30, 2015","Mar. 31, 2015","Dec. 31, 2014","Sep. 30, 2014","Jun. 30, 2014","Mar. 31, 2014","Dec. 31, 2012","Dec. 31, 2015","Dec. 31, 2014","Dec. 31, 2013"
+0,Income Statement [Abstract],,,,,,,,,,,,,
+1,Revenues before the provision for doubtful accounts,,,,,,,,,,,"$ 43,591","$ 40,087","$ 38,040"
+2,Provision for doubtful accounts,,,,,,,,,,,3913,3169,3858
+3,Revenues,,"$ 10,249","$ 9,856","$ 9,897","$ 9,676","$ 9,636","$ 9,220","$ 9,230","$ 8,832",,39678,36918,34182
+4,Salaries and benefits,,,,,,,,,,,18115,16641,15646
+5,Supplies,,,,,,,,,,,6638,6262,5970
+6,Other operating expenses,,,,,,,,,,,7103,6755,6237
+7,Electronic health record incentive income,,,,,,,,,,,(47),(125),(216)
+8,Equity in earnings of affiliates,,,,,,,,,,,(46),(43),(29)
+9,Depreciation and amortization,,,,,,,,,,,1904,1820,1753
+10,Interest expense,,,,,,,,,,,1665,1743,1848
+11,Losses (gains) on sales of facilities,,4,2,3,(6),7,9,(7),(13),,5,(29),10
+12,Losses on retirement of debt,,7,,79,,68,,143,,,135,335,17
+13,Legal claim costs,$ 434,120,,,,,,,78,$ 175,249,78,
+14,Total expenses including equity in earnings of affiliates,,,,,,,,,,,35721,33437,31236
+15,Income before income taxes,,,,,,,,,,,3957,3481,2946
+16,Provision for income taxes,,,,,,,,,,,1261,1108,950
+17,Net income,,738,573,665,720,676,611,632,454,,2696,2373,1996
+18,Net income attributable to noncontrolling interests,,,,,,,,,,,567,498,440
+19,"Net income attributable to HCA Holdings, Inc.",,$ 582,$ 449,$ 507,$ 591,$ 527,$ 518,$ 483,$ 347,,"$ 2,129","$ 1,875","$ 1,556"
+20,Per share data:,,,,,,,,,,,,,
+21,Basic earnings per share,,$ 1.44,$ 1.08,$ 1.22,$ 1.41,$ 1.22,$ 1.20,$ 1.10,$ 0.78,,$ 5.14,$ 4.30,$ 3.50
+22,Diluted earnings per share,,$ 1.40,$ 1.05,$ 1.18,$ 1.36,$ 1.19,$ 1.16,$ 1.07,$ 0.76,,$ 4.99,$ 4.16,$ 3.37
+23,Shares used in earnings per share calculations (in millions):,,,,,,,,,,,,,
+24,Basic,,,,,,,,,,,414193,435668,445066
+25,Diluted,,,,,,,,,,,426721,450352,461913

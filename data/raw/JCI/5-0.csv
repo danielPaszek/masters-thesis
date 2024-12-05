@@ -1,0 +1,37 @@
+,0,1,2,3,4
+0,[1],Certain items do not sum due to rounding.,,,
+1,Consolidated Statements of Income - USD ($)  $ in Millions,Consolidated Statements of Income - USD ($)  $ in Millions,12 Months Ended,12 Months Ended,12 Months Ended
+2,Consolidated Statements of Income - USD ($)  $ in Millions,Consolidated Statements of Income - USD ($)  $ in Millions,"Sep. 30, 2019","Sep. 30, 2018","Sep. 30, 2017"
+3,Net sales,,"$ 23,968","$ 23,400","$ 22,835"
+4,Cost of sales,,16275,15733,15305
+5,Gross profit,,7693,7667,7530
+6,"Selling, general and administrative expenses",,"(6,244)","(5,642)","(5,723)"
+7,Restructuring and impairment costs,,(235),(255),(347)
+8,Net financing charges,,(350),(401),(466)
+9,Equity income,,192,177,157
+10,Income from continuing operations before income taxes,,1056,1546,1151
+11,Income tax provision (benefit),,(233),197,322
+12,Income from continuing operations,,1289,1349,829
+13,"Income from discontinued operations, net of tax (Note 3)",,4598,1034,990
+14,Net income,,5887,2383,1819
+15,Income from continuing operations attributable to noncontrolling interests,,189,174,157
+16,Income from discontinued operations attributable to noncontrolling interests,,24,47,51
+17,Net income attributable to Johnson Controls,,5674,2162,1611
+18,"Amounts attributable to Johnson Controls, Inc. common shareholders",,,,
+19,Income from continuing operations,,1100,1175,672
+20,Income from discontinued operations,,"$ 4,574",$ 987,$ 939
+21,Earnings per share,,,,
+22,Basic earnings per share from continuing operations,,$ 1.26,$ 1.27,$ 0.72
+23,Basic earnings per share from discontinued operations,,5.26,1.07,1.00
+24,Basic earnings per share,,6.52,2.34,1.72
+25,Diluted earnings per share from continuing operations,,1.26,1.26,0.71
+26,Diluted earnings per share from discontinued operations,,5.23,1.06,0.99
+27,Diluted earnings per share,[1],$ 6.49,$ 2.32,$ 1.71
+28,Products and Systems [Member],,,,
+29,Net sales,,"$ 17,711","$ 17,332","$ 16,762"
+30,Cost of sales,,12577,12315,11692
+31,Services [Member],,,,
+32,Net sales,,6257,6068,6073
+33,Cost of sales,,"$ 3,698","$ 3,418","$ 3,613"
+34,,,,,
+35,[1] Certain items do not sum due to rounding.,[1] Certain items do not sum due to rounding.,[1] Certain items do not sum due to rounding.,[1] Certain items do not sum due to rounding.,

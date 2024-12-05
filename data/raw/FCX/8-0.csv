@@ -1,0 +1,36 @@
+,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions",1 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","Feb. 29, 2012","Dec. 31, 2016","Sep. 30, 2016","Jun. 30, 2016","Mar. 31, 2016","Dec. 31, 2015","Sep. 30, 2015","Jun. 30, 2015","Mar. 31, 2015","Dec. 31, 2016","Dec. 31, 2015","Dec. 31, 2014"
+0,Income Statement [Abstract],,,,,,,,,,,,
+1,Revenues,,"$ 4,377","$ 3,877","$ 3,334","$ 3,242","$ 3,516","$ 3,382","$ 3,938","$ 3,771","$ 14,830","$ 14,607","$ 20,001"
+2,Cost of sales:,,,,,,,,,,,,
+3,Production and delivery,,,,,,,,,,10697,10693,11116
+4,"Depreciation, depletion and amortization",,,,,,,,,,2530,3240,3635
+5,Impairment of Oil and Gas Properties,,,239,291,3800,3700,3700,2700,3100,4317,13144,3737
+6,Metals inventory adjustments,,9,20,2,5,184,91,59,4,36,338,6
+7,Total cost of sales,,,,,,,,,,17580,27415,18494
+8,"Selling, general and administrative expenses",,,,,,,,,,607,558,580
+9,Mining exploration and research expenses,,,,,,,,,,64,107,106
+10,Environmental obligations and shutdown costs,,,,,,,,,,20,78,119
+11,Goodwill impairment,,,,,,,,,,0,0,1717
+12,Net gain on sales of assets,,113,,(13),(749),,,,(39),(649),(39),(717)
+13,Total costs and expenses,,,,,,,,,,17622,28119,20299
+14,Operating loss,,703,359,18,"(3,872)","(4,097)","(3,964)","(2,421)","(3,030)","(2,792)","(13,512)",(298)
+15,"Interest expense, net",,,,,,,,,,(755),(617),(606)
+16,Net gain on exchanges and early extinguishment of debt,,,,,,,,,,26,0,73
+17,"Other income, net",,,,,,,,,,49,1,31
+18,Loss from continuing operations before income taxes and equity in affiliated companies' net earnings (losses),,,,,,,,,,"(3,472)","(14,128)",(800)
+19,(Provision for) benefit from income taxes,,,,,,,,,,(371),1951,(225)
+20,Equity in affiliated companies’ net earnings (losses),,,,,,,,,,11,(3),3
+21,Net loss from continuing operations,,202,292,(229),"(4,097)","(4,090)","(3,815)","(1,828)","(2,447)","(3,832)","(12,180)","(1,022)"
+22,Net (loss) income from discontinued operations,,(2),(6),(181),(4),(4),25,29,41,(193),91,277
+23,Net loss,,200,286,(410),"(4,101)","(4,094)","(3,790)","(1,799)","(2,406)","(4,025)","(12,089)",(745)
+24,Net income attributable to noncontrolling interests: Continuing Operations,,,,,,,,,,(227),(27),(358)
+25,Net income attributable to noncontrolling interests: Discontinued Operations,,(19),(22),(12),(10),(11),(16),(26),(26),(63),(79),(165)
+26,Gain on redemption and preferred dividends attributable to redeemable noncontrolling interest,,,,,,,,,,161,(41),(40)
+27,Net loss attributable to common stockholders,,$ 292,$ 217,$ (479),"$ (4,184)","$ (4,081)","$ (3,830)","$ (1,851)","$ (2,474)","$ (4,154)","$ (12,236)","$ (1,308)"
+28,Basic and diluted net (loss) income per share attributable to common stockholders:,,,,,,,,,,,,
+29,Continuing operations (in dollars per share),,$ 0.22,$ 0.18,$ (0.23),$ (3.34),$ (3.46),$ (3.59),$ (1.78),$ (2.40),$ (2.96),$ (11.32),$ (1.37)
+30,Discontinued operations (in dollars per share),,(0.01),(0.02),(0.15),(0.01),(0.01),0.01,0.00,0.02,(0.20),0.01,0.11
+31,"Earnings per share, basic and diluted (in dollars per share)",,$ 0.21,$ 0.16,$ (0.38),$ (3.35),$ (3.47),$ (3.58),$ (1.78),(2.38),$ (3.16),$ (11.31),$ (1.26)
+32,Basic and diluted weighted-average shares of common stock outstanding (in shares),,,,,,,,,,1318,1082,1039
+33,Dividends declared per share of common stock (in dollars per share),$ 1.25,,,,,,,,$ 0.20,$ 0,$ 0.2605,$ 1.25
