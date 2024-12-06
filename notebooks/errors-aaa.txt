@@ -1,5 +1,6 @@
 Czy zrobić exclude bankow?
 Banki: CFG, CMA, FITB, HBAN, JPM
+KEY
 DFS
 
 COP
@@ -12,6 +13,7 @@ Errors:
 DVN
 ETR
 GD
+L
 
 
 EXPE - osobne pliki go kosztów!!!!

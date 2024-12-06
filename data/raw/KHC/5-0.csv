@@ -1,0 +1,23 @@
+,Consolidated Statements of Income - USD ($)  $ in Millions,Unnamed: 1_level_0,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,6 Months Ended,6 Months Ended,9 Months Ended,9 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+,Consolidated Statements of Income - USD ($)  $ in Millions,"Dec. 29, 2018","Dec. 29, 2018","Sep. 29, 2018","Jun. 30, 2018","Mar. 31, 2018","Dec. 30, 2017","Sep. 30, 2017","Jul. 01, 2017","Apr. 01, 2017","Jun. 30, 2018","Jul. 01, 2017","Sep. 29, 2018","Sep. 30, 2017","Dec. 29, 2018","Dec. 30, 2017","Dec. 31, 2016"
+0,Income Statement [Abstract],,,,,,,,,,,,,,,,
+1,Net sales,,"$ 6,891","$ 6,383","$ 6,690","$ 6,304","$ 6,841","$ 6,279","$ 6,634","$ 6,322","$ 12,994","$ 12,956","$ 19,377","$ 19,235","$ 26,268","$ 26,076","$ 26,300"
+2,Cost of products sold,,4675,4289,4343,4040,4554,4123,4227,4139,8383,8366,12672,12489,17347,17043,17154
+3,Gross profit,,2216,2094,2347,2264,2287,2156,2407,2183,4611,4590,6705,6746,8921,9033,9146
+4,"Selling, general and administrative expenses, excluding impairment losses",,867,803,771,764,778,664,720,765,1535,1485,2338,2149,3205,2927,3527
+5,Goodwill impairment losses,"$ 6,900",6875,0,133,0,0,0,0,0,133,0,133,0,7008,0,0
+6,Intangible asset impairment losses,,8610,217,101,0,0,1,48,0,101,48,318,49,8928,49,18
+7,"Selling, general and administrative expenses",,16352,1020,1005,764,778,665,768,765,1769,1533,2789,2198,19141,2976,3545
+8,Operating income/(loss),,"(14,136)",1074,1342,1500,1509,1491,1639,1418,2842,3057,3916,4548,"(10,220)",6057,5601
+9,Interest expense,,325,326,316,317,308,306,307,313,633,620,959,926,1284,1234,1134
+10,"Other expense/(income), net",,13,(71),(35),(90),(116),(127),(254),(130),(125),(384),(196),(511),(183),(627),(472)
+11,Income/(loss) before income taxes,,"(14,474)",819,1061,1273,1317,1312,1586,1235,2334,2821,3153,4133,"(11,321)",5450,4939
+12,Provision for/(benefit from) income taxes,,"(1,846)",201,308,270,"(6,665)",400,429,354,578,783,779,1183,"(1,067)","(5,482)",1333
+13,Net income/(loss),,"(12,628)",618,753,1003,7982,912,1157,881,1756,2038,2374,2950,"(10,254)",10932,3606
+14,Net income/(loss) attributable to noncontrolling interest,,(60),(1),(1),0,(7),(1),1,(2),(1),(1),(2),(2),(62),(9),10
+15,Net income/(loss) attributable to Kraft Heinz,,"(12,568)",619,754,1003,7989,913,1156,883,1757,2039,2376,2952,"(10,192)",10941,3596
+16,Preferred dividends,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,180
+17,Net income/(loss) attributable to common shareholders,,"$ (12,568)",$ 619,$ 754,"$ 1,003","$ 7,989",$ 913,"$ 1,156",$ 883,"$ 1,757","$ 2,039","$ 2,376","$ 2,952","$ (10,192)","$ 10,941","$ 3,416"
+18,Per share data applicable to common shareholders:,,,,,,,,,,,,,,,,
+19,Basic earnings/(loss) per share (in dollars per share),,$ (10.30),$ 0.51,$ 0.62,$ 0.82,$ 6.55,$ 0.75,$ 0.95,$ 0.73,$ 1.44,$ 1.67,$ 1.95,$ 2.42,$ (8.36),$ 8.98,$ 2.81
+20,Diluted earnings/(loss) per share (in dollars per share),,$ (10.30),$ 0.50,$ 0.62,$ 0.82,$ 6.50,$ 0.74,$ 0.94,$ 0.72,$ 1.43,$ 1.66,$ 1.94,$ 2.40,$ (8.36),$ 8.91,$ 2.78

@@ -1,0 +1,26 @@
+,0,1,2,3,4,5
+0,[1],Certain businesses do not agree to previously reported amounts due to changes in category classification.,,,,
+1,CONSOLIDATED STATEMENTS OF INCOME - USD ($)  $ in Millions,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+2,CONSOLIDATED STATEMENTS OF INCOME - USD ($)  $ in Millions,"Feb. 01, 2020","Feb. 02, 2019","Feb. 02, 2019","Feb. 03, 2018","Feb. 03, 2018"
+3,Total revenue,"$ 19,974","$ 20,229",,"$ 20,084",
+4,Cost of merchandise sold,"$ 12,140","$ 12,199",,"$ 12,176",
+5,"Type of Cost, Good or Service [Extensible List]",kss:MerchandiseMember,kss:MerchandiseMember,,kss:MerchandiseMember,
+6,Operating expenses:,,,,,
+7,"Selling, general and administrative","$ 5,705","$ 5,601",,"$ 5,501",
+8,Depreciation and amortization,917,964,,991,
+9,"Impairments, store closing and other costs",113,104,,,
+10,Operating income,1099,1361,,1416,
+11,"Interest expense, net",207,256,,299,
+12,(Gain) loss on extinguishment of debt,(9),63,,,
+13,Income before income taxes,901,1042,,1117,
+14,Provision for income taxes,210,241,,258,
+15,Net income,$ 691,$ 801,,$ 859,
+16,Net income per share:,,,,,
+17,Basic,$ 4.39,$ 4.88,,$ 5.14,
+18,Diluted,$ 4.37,$ 4.84,,$ 5.12,
+19,Net Sales [Member],,,,,
+20,Total revenue,"$ 18,885","$ 19,167",[1],"$ 19,036",[1]
+21,Other Revenue [Member],,,,,
+22,Total revenue,"$ 1,089","$ 1,062",,"$ 1,048",
+23,,,,,,
+24,[1] Certain businesses do not agree to previously reported amounts due to changes in category classification.,[1] Certain businesses do not agree to previously reported amounts due to changes in category classification.,[1] Certain businesses do not agree to previously reported amounts due to changes in category classification.,[1] Certain businesses do not agree to previously reported amounts due to changes in category classification.,[1] Certain businesses do not agree to previously reported amounts due to changes in category classification.,[1] Certain businesses do not agree to previously reported amounts due to changes in category classification.
