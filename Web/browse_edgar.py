@@ -59,6 +59,7 @@ def open_income_statement(driver) -> WebElement | None:
         'statements of consolidated earnings',
         'statements of consolidated income',
         'statements of consolidated (loss) income',
+        'consolidated statement of (loss) income',
         'statement of consolidated income',
         'consolidated statements of comprehensive earnings',
         'consolidated statements of condensed earnings',

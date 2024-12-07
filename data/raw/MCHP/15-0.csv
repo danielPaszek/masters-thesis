@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6
+0,[1],"Includes share-based compensation expense as follows: Cost of sales 7,054 Research and development 12,194 Selling, general and administrative 17,530",,,,,
+1,[2],"Includes share-based compensation expense as follows: Cost of sales 5,845 Research and development 10,866 Selling, general and administrative 15,770",,,,,
+2,[3],"Includes share-based compensation expense as follows: Cost of sales 6,191 Research and development 10,695 Selling, general and administrative 15,960",,,,,
+3,[4],"As adjusted due to the adoption of ASC Subtopic 470-20, Debt with conversion and Other Options - Cash Conversion",,,,,
+4,"CONSOLIDATED STATEMENTS OF INCOME (USD $) In Thousands, except Per Share data",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+5,"CONSOLIDATED STATEMENTS OF INCOME (USD $) In Thousands, except Per Share data","Mar. 31, 2010","Mar. 31, 2010","Mar. 31, 2009","Mar. 31, 2009","Mar. 31, 2008","Mar. 31, 2008"
+6,Income Statement [Abstract],,,,,,
+7,Net sales,"$ 947,729",,"$ 903,297",,"$ 1,035,737",
+8,Cost of sales,413487,[1],386793,[2],410799,[3]
+9,Gross profit,534242,,516504,,624938,
+10,Operating expenses:,,,,,,
+11,Research and development,120823,[1],115524,[2],120864,[3]
+12,"Selling, general and administrative",167222,[1],161218,[2],175646,[3]
+13,Special charges,1238,,6434,,26763,
+14,Total operating expenses,289283,,283176,,323273,
+15,Operating income,244959,,233328,,301665,
+16,Other income (expense):,,,,,,
+17,Interest income,15325,,32545,,54851,
+18,Interest expense,"(31,150)",,"(29,440)",[4],"(9,495)",[4]
+19,"Other, net",8679,,"(4,354)",,2435,
+20,Income before income taxes,237813,,232079,[4],349456,[4]
+21,Income tax provision (benefit),20808,,"(13,508)",[4],52663,[4]
+22,Net income,"$ 217,005",,"$ 245,587",[4],"$ 296,793",[4]
+23,Basic net income per common share,$ 1.18,,$ 1.34,[4],$ 1.43,[4]
+24,Diluted net income per common share,$ 1.16,,$ 1.31,[4],$ 1.40,[4]
+25,Dividends declared per common share,1.359,,1.346,,1.205,
+26,Basic common shares outstanding,183642,,183158,,207220,
+27,Diluted common shares outstanding,187339,,186788,,212048,
+28,,,,,,,
+29,"[1] Includes share-based compensation expense as follows: Cost of sales 7,054 Research and development 12,194 Selling, general and administrative 17,530 [2] Includes share-based compensation expense as follows: Cost of sales 5,845 Research and development 10,866 Selling, general and administrative 15,770 [3] Includes share-based compensation expense as follows: Cost of sales 6,191 Research and development 10,695 Selling, general and administrative 15,960 [4] As adjusted due to the adoption of ASC Subtopic 470-20, Debt with conversion and Other Options - Cash Conversion","[1] Includes share-based compensation expense as follows: Cost of sales 7,054 Research and development 12,194 Selling, general and administrative 17,530 [2] Includes share-based compensation expense as follows: Cost of sales 5,845 Research and development 10,866 Selling, general and administrative 15,770 [3] Includes share-based compensation expense as follows: Cost of sales 6,191 Research and development 10,695 Selling, general and administrative 15,960 [4] As adjusted due to the adoption of ASC Subtopic 470-20, Debt with conversion and Other Options - Cash Conversion","[1] Includes share-based compensation expense as follows: Cost of sales 7,054 Research and development 12,194 Selling, general and administrative 17,530 [2] Includes share-based compensation expense as follows: Cost of sales 5,845 Research and development 10,866 Selling, general and administrative 15,770 [3] Includes share-based compensation expense as follows: Cost of sales 6,191 Research and development 10,695 Selling, general and administrative 15,960 [4] As adjusted due to the adoption of ASC Subtopic 470-20, Debt with conversion and Other Options - Cash Conversion","[1] Includes share-based compensation expense as follows: Cost of sales 7,054 Research and development 12,194 Selling, general and administrative 17,530 [2] Includes share-based compensation expense as follows: Cost of sales 5,845 Research and development 10,866 Selling, general and administrative 15,770 [3] Includes share-based compensation expense as follows: Cost of sales 6,191 Research and development 10,695 Selling, general and administrative 15,960 [4] As adjusted due to the adoption of ASC Subtopic 470-20, Debt with conversion and Other Options - Cash Conversion","[1] Includes share-based compensation expense as follows: Cost of sales 7,054 Research and development 12,194 Selling, general and administrative 17,530 [2] Includes share-based compensation expense as follows: Cost of sales 5,845 Research and development 10,866 Selling, general and administrative 15,770 [3] Includes share-based compensation expense as follows: Cost of sales 6,191 Research and development 10,695 Selling, general and administrative 15,960 [4] As adjusted due to the adoption of ASC Subtopic 470-20, Debt with conversion and Other Options - Cash Conversion","[1] Includes share-based compensation expense as follows: Cost of sales 7,054 Research and development 12,194 Selling, general and administrative 17,530 [2] Includes share-based compensation expense as follows: Cost of sales 5,845 Research and development 10,866 Selling, general and administrative 15,770 [3] Includes share-based compensation expense as follows: Cost of sales 6,191 Research and development 10,695 Selling, general and administrative 15,960 [4] As adjusted due to the adoption of ASC Subtopic 470-20, Debt with conversion and Other Options - Cash Conversion","[1] Includes share-based compensation expense as follows: Cost of sales 7,054 Research and development 12,194 Selling, general and administrative 17,530 [2] Includes share-based compensation expense as follows: Cost of sales 5,845 Research and development 10,866 Selling, general and administrative 15,770 [3] Includes share-based compensation expense as follows: Cost of sales 6,191 Research and development 10,695 Selling, general and administrative 15,960 [4] As adjusted due to the adoption of ASC Subtopic 470-20, Debt with conversion and Other Options - Cash Conversion"
