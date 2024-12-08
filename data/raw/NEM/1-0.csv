@@ -1,0 +1,49 @@
+,0,1,2,3,4
+0,[1],Excludes Depreciation and amortization and Reclamation and remediation.,,,
+1,[2],"For the year ended December 31, 2022, potentially dilutive shares were excluded in the computation of diluted loss per common share attributable to Newmont stockholders as they were antidilutive.",,,
+2,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+3,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2022","Dec. 31, 2021","Dec. 31, 2020"
+4,Income Statement [Abstract],,,,
+5,Sales (Note 4),,"$ 11,915","$ 12,222","$ 11,497"
+6,Costs and expenses:,,,,
+7,Costs applicable to sales,[1],6468,5435,5014
+8,Depreciation and amortization,,2185,2323,2300
+9,Reclamation and remediation (Note 5),,921,1846,366
+10,Exploration,,231,209,187
+11,"Advanced projects, research and development",,229,154,122
+12,General and administrative,,276,259,269
+13,Impairment charges (Note 6),,1320,25,49
+14,Loss on assets held for sale (Note 1),,0,571,0
+15,"Other expense, net (Note 7)",,82,143,384
+16,Total costs and expenses,,11712,10965,8691
+17,Other income (expense):,,,,
+18,"Gain on asset and investment sales, net (Note 8)",,35,212,677
+19,"Other income (loss), net (Note 9)",,(62),(87),(32)
+20,"Interest expense, net of capitalized interest of $69, $38 and $24, respectively",,(227),(274),(308)
+21,Total other income (expense),,(254),(149),337
+22,Income (loss) before income and mining tax and other items,,(51),1108,3143
+23,Income and mining tax benefit (expense) (Note 10),,(455),"(1,098)",(704)
+24,Equity income (loss) of affiliates (Note 15),,107,166,189
+25,Net income (loss) from continuing operations,,(399),176,2628
+26,Net income (loss) from discontinued operations (Note 1),,30,57,163
+27,Net income (loss),,(369),233,2791
+28,Net loss (income) attributable to noncontrolling interests (Note 1),,(60),933,38
+29,Net income (loss) attributable to Newmont stockholders,,(429),1166,2829
+30,Net income (loss) attributable to Newmont stockholders:,,,,
+31,Continuing operations,,(459),1109,2666
+32,Discontinued operations,,30,57,163
+33,Net income (loss) attributable to Newmont stockholders,,$ (429),"$ 1,166","$ 2,829"
+34,Weighted average common shares:,,,,
+35,Basic (in shares),,794,799,804
+36,Effect of employee stock-based awards (in shares),,1,2,2
+37,Diluted (in shares),,795,801,806
+38,Basic:,,,,
+39,Continuing operations (in dollars per share),,$ (0.58),$ 1.39,$ 3.32
+40,Discontinued operations (in dollars per share),,0.04,0.07,0.20
+41,"Net income (loss) per common share, basic (in dollars per share)",,(0.54),1.46,3.52
+42,Diluted: (2),,,,
+43,Continuing operations (in dollars per share),[2],(0.58),1.39,3.31
+44,Discontinued operations (in dollars per share),[2],0.04,0.07,0.20
+45,"Net income (loss) per common share, diluted (in dollars per share)",,$ (0.54),$ 1.46,$ 3.51
+46,,,,,
+47,"[1] Excludes Depreciation and amortization and Reclamation and remediation. [2] For the year ended December 31, 2022, potentially dilutive shares were excluded in the computation of diluted loss per common share attributable to Newmont stockholders as they were antidilutive.","[1] Excludes Depreciation and amortization and Reclamation and remediation. [2] For the year ended December 31, 2022, potentially dilutive shares were excluded in the computation of diluted loss per common share attributable to Newmont stockholders as they were antidilutive.","[1] Excludes Depreciation and amortization and Reclamation and remediation. [2] For the year ended December 31, 2022, potentially dilutive shares were excluded in the computation of diluted loss per common share attributable to Newmont stockholders as they were antidilutive.","[1] Excludes Depreciation and amortization and Reclamation and remediation. [2] For the year ended December 31, 2022, potentially dilutive shares were excluded in the computation of diluted loss per common share attributable to Newmont stockholders as they were antidilutive.",

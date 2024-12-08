@@ -45,10 +45,12 @@ def open_income_statement(driver) -> WebElement | None:
     table = None
     textKeyword = ''
     for text in [
+        #'income statement',
         'consolidated and sector income statement', 'consolidated and sector income statements',
         'consolidated and sectors income statements', 'consolidated and sectors income statement',
         'consolidated and sector statement of operations', 'consolidated and sector statement of operation',
         'consolidated and combined statements of earnings', 'consolidated and combined statement of earnings',
+        'consolidated statements of loss',
         'consolidated statements of operations and comprehensive income (loss)',
         'consolidated statements of (loss) income',
         'consolidated statements of income',
@@ -145,6 +147,7 @@ def open_income_statement(driver) -> WebElement | None:
         'Interest Income', 'Interest Income:', 'Interest income:', 'Interest income',
         'Net Income (Loss)', 'Net income (loss)', 'net income (loss)',
         'Net Income (Loss):', 'Net income (loss):', 'net income (loss):',
+        'General and administrative', 'General and administrative:',
     ]:
         try:
             table = driver.find_element(By.XPATH,

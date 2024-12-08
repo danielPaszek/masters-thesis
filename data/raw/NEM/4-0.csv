@@ -1,0 +1,45 @@
+,0,1,2,3,4
+0,[1],Excludes Depreciation and amortization and Reclamation and remediation.,,,
+1,CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  $ in Millions,CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  $ in Millions,12 Months Ended,12 Months Ended,12 Months Ended
+2,CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  $ in Millions,CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  $ in Millions,"Dec. 31, 2020","Dec. 31, 2019","Dec. 31, 2018"
+3,Income Statement [Abstract],,,,
+4,Sales (Note 5),,"$ 11,497","$ 9,740","$ 7,253"
+5,Costs and expenses:,,,,
+6,Costs applicable to sales,[1],5014,5195,4093
+7,Depreciation and amortization,,2300,1960,1215
+8,Reclamation and remediation (Note 6),,366,280,163
+9,Exploration,,187,265,197
+10,"Advanced projects, research and development",,122,150,153
+11,General and administrative,,269,313,244
+12,Care and maintenance (Note 7),,178,0,0
+13,Impairment of long-lived and other assets (Note 8),,49,5,369
+14,"Other expense, net (Note 9)",,206,295,29
+15,Total costs and expenses,,8691,8463,6463
+16,Other income (expense):,,,,
+17,Gain on formation of Nevada Gold Mines (Note 32),,0,2390,0
+18,"Gain on asset and investment sales, net (Note 10)",,677,30,100
+19,"Other income, net (Note 11)",,(32),297,55
+20,"Interest expense, net of capitalized interest of $24, $26 and $37, respectively",,(308),(301),(207)
+21,Total other income (expense),,337,2416,(52)
+22,Income (loss) before income and mining tax and other items,,3143,3693,738
+23,Income and mining tax benefit (expense) (Note 12),,(704),(832),(386)
+24,Equity income (loss) of affiliates (Note 13),,189,95,(33)
+25,Net income (loss) from continuing operations,,2628,2956,319
+26,Net income (loss) from discontinued operations,,163,(72),61
+27,Net income (loss),,2791,2884,380
+28,Net loss (income) attributable to noncontrolling interests (Note 15),,38,(79),(39)
+29,Net income (loss) attributable to Newmont stockholders,,2829,2805,341
+30,Net income (loss) attributable to Newmont stockholders:,,,,
+31,Continuing operations,,2666,2877,280
+32,Discontinued operations,,163,(72),61
+33,Net income (loss) attributable to Newmont stockholders,,"$ 2,829","$ 2,805",$ 341
+34,Basic:,,,,
+35,Continuing operations (in dollars per share),,$ 3.32,$ 3.92,$ 0.53
+36,Discontinued operations (in dollars per share),,0.20,(0.10),0.11
+37,"Net income (loss) per common share, basic (in dollars per share)",,3.52,3.82,0.64
+38,Diluted:,,,,
+39,Continuing operations (in dollars per share),,3.31,3.91,0.53
+40,Discontinued operations (in dollars per share),,0.20,(0.10),0.11
+41,"Net income (loss) per common share, diluted (in dollars per share)",,$ 3.51,$ 3.81,$ 0.64
+42,,,,,
+43,[1] Excludes Depreciation and amortization and Reclamation and remediation.,[1] Excludes Depreciation and amortization and Reclamation and remediation.,[1] Excludes Depreciation and amortization and Reclamation and remediation.,[1] Excludes Depreciation and amortization and Reclamation and remediation.,
