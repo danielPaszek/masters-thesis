@@ -45,12 +45,13 @@ def open_income_statement(driver) -> WebElement | None:
     table = None
     textKeyword = ''
     for text in [
-        #'income statement',
         'consolidated and sector income statement', 'consolidated and sector income statements',
         'consolidated and sectors income statements', 'consolidated and sectors income statement',
         'consolidated and sector statement of operations', 'consolidated and sector statement of operation',
         'consolidated and combined statements of earnings', 'consolidated and combined statement of earnings',
+        'consolidated statements of operations and comprehensive income',
         'consolidated statements of loss',
+        'consolidated condensed statements of income',
         'consolidated statements of operations and comprehensive income (loss)',
         'consolidated statements of (loss) income',
         'consolidated statements of income',

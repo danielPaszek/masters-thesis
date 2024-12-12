@@ -1,0 +1,35 @@
+,0,1,2,3,4
+0,[1],"Exclusive of amortization of intangible assets, which is shown separately.",,,
+1,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","May 31, 2021","May 31, 2020","May 31, 2019"
+3,Revenues:,,,,
+4,Cloud services and license support,,"$ 28,700","$ 27,392","$ 26,707"
+5,Cloud license and on-premise license,,5399,5127,5855
+6,Hardware,,3359,3443,3704
+7,Services,,3021,3106,3240
+8,Total revenues,,40479,39068,39506
+9,Operating expenses:,,,,
+10,Cloud services and license support,[1],4353,4006,3782
+11,Hardware,[1],972,1116,1360
+12,Services,,2530,2816,2853
+13,Sales and marketing,[1],7682,8094,8509
+14,Research and development,,6527,6067,6026
+15,General and administrative,,1254,1181,1265
+16,Amortization of intangible assets,,1379,1586,1689
+17,Acquisition related and other,,138,56,44
+18,Restructuring,,431,250,443
+19,Total operating expenses,,25266,25172,25971
+20,Operating income,,15213,13896,13535
+21,Interest expense,,"(2,496)","(1,995)","(2,082)"
+22,"Non-operating income, net",,282,162,815
+23,Income before benefit from (provision for) income taxes,,12999,12063,12268
+24,Benefit from (provision for) income taxes,,747,"(1,928)","(1,185)"
+25,Net income,,"$ 13,746","$ 10,135","$ 11,083"
+26,Earnings per share:,,,,
+27,Basic,,$ 4.67,$ 3.16,$ 3.05
+28,Diluted,,$ 4.55,$ 3.08,$ 2.97
+29,Weighted average common shares outstanding:,,,,
+30,Basic,,2945,3211,3634
+31,Diluted,,3022,3294,3732
+32,,,,,
+33,"[1] Exclusive of amortization of intangible assets, which is shown separately.","[1] Exclusive of amortization of intangible assets, which is shown separately.","[1] Exclusive of amortization of intangible assets, which is shown separately.","[1] Exclusive of amortization of intangible assets, which is shown separately.",

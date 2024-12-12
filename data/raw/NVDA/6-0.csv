@@ -1,0 +1,28 @@
+,0,1,2,3,4
+0,[1],Calculated as net income divided by basic weighted average shares.,,,
+1,[2],Calculated as net income divided by diluted weighted average shares.,,,
+2,"CONSOLIDATED STATEMENTS OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF INCOME - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+3,"CONSOLIDATED STATEMENTS OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF INCOME - USD ($)  shares in Millions, $ in Millions","Jan. 28, 2018","Jan. 29, 2017","Jan. 31, 2016"
+4,Revenue,,"$ 9,714","$ 6,910","$ 5,010"
+5,Cost of revenue,,3892,2847,2199
+6,Gross profit,,5822,4063,2811
+7,Operating expenses,,,,
+8,Research and development,,1797,1463,1331
+9,"Sales, general and administrative",,815,663,602
+10,Restructuring and other charges,,0,3,131
+11,Total operating expenses,,2612,2129,2064
+12,Income from operations,,3210,1934,747
+13,Interest income,,69,54,39
+14,Interest expense,,(61),(58),(47)
+15,"Other, net",,(22),(25),4
+16,Total other income (expense),,(14),(29),(4)
+17,Income before income tax,,3196,1905,743
+18,Income tax expense,,149,239,129
+19,Net income,,"$ 3,047","$ 1,666",$ 614
+20,Basic net income per share,[1],$ 5.09,$ 3.08,$ 1.13
+21,Diluted net income per share,[2],$ 4.82,$ 2.57,$ 1.08
+22,Weighted average shares used in basic per share computation,,599,541,543
+23,Weighted average shares used in diluted per share computation,,632,649,569
+24,Cash dividends declared and paid per common share,,$ 0.570,$ 0.485,$ 0.395
+25,,,,,
+26,[1] Calculated as net income divided by basic weighted average shares. [2] Calculated as net income divided by diluted weighted average shares.,[1] Calculated as net income divided by basic weighted average shares. [2] Calculated as net income divided by diluted weighted average shares.,[1] Calculated as net income divided by basic weighted average shares. [2] Calculated as net income divided by diluted weighted average shares.,[1] Calculated as net income divided by basic weighted average shares. [2] Calculated as net income divided by diluted weighted average shares.,[1] Calculated as net income divided by basic weighted average shares. [2] Calculated as net income divided by diluted weighted average shares.

@@ -1,0 +1,35 @@
+,0,1,2,3,4
+0,[1],"Exclusive of amortization of intangible assets, which is shown separately.",,,
+1,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","May 31, 2024","May 31, 2023","May 31, 2022"
+3,Revenues:,,,,
+4,Cloud services and license support,,"$ 39,383","$ 35,307","$ 30,174"
+5,Cloud license and on-premise license,,5081,5779,5878
+6,Hardware,,3066,3274,3183
+7,Services,,5431,5594,3205
+8,Total revenues,,52961,49954,42440
+9,Operating expenses:,,,,
+10,Cloud services and license support,[1],9427,7763,5213
+11,Hardware,[1],891,1040,972
+12,Services,[1],4825,4761,2692
+13,Sales and marketing,[1],8274,8833,8047
+14,Research and development,,8915,8623,7219
+15,General and administrative,,1548,1579,1317
+16,Amortization of intangible assets,,3010,3582,1150
+17,Acquisition related and other,,314,190,4713
+18,Restructuring,,404,490,191
+19,Total operating expenses,,37608,36861,31514
+20,Operating income,,15353,13093,10926
+21,Interest expense,,"(3,514)","(3,505)","(2,755)"
+22,"Non-operating expenses, net",,(98),(462),(522)
+23,Income before income taxes,,11741,9126,7649
+24,Provision for income taxes,,1274,623,932
+25,Net income,,"$ 10,467","$ 8,503","$ 6,717"
+26,Earnings per share:,,,,
+27,Basic,,$ 3.82,$ 3.15,$ 2.49
+28,Diluted,,$ 3.71,$ 3.07,$ 2.41
+29,Weighted average common shares outstanding:,,,,
+30,Basic,,2744,2696,2700
+31,Diluted,,2823,2766,2786
+32,,,,,
+33,"[1] Exclusive of amortization of intangible assets, which is shown separately.","[1] Exclusive of amortization of intangible assets, which is shown separately.","[1] Exclusive of amortization of intangible assets, which is shown separately.","[1] Exclusive of amortization of intangible assets, which is shown separately.",

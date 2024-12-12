@@ -1,0 +1,40 @@
+,0,1,2,3,4
+0,[1],The net sales by geography is derived from the location of the entity that sells to a third party.,,,
+1,"Consolidated Statements of Operations - USD ($)  shares in Millions, $ in Millions","Consolidated Statements of Operations - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+2,"Consolidated Statements of Operations - USD ($)  shares in Millions, $ in Millions","Consolidated Statements of Operations - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2021","Dec. 31, 2020","Dec. 31, 2019"
+3,Income Statement [Abstract],,,,
+4,Net sales,[1],"$ 4,138.7","$ 4,088.2","$ 3,869.9"
+5,Cost of sales,,2722.5,2593.3,2436.2
+6,Gross profit,,1416.2,1494.9,1433.7
+7,Operating expenses,,,,
+8,Distribution,,93.0,85.1,82.0
+9,Research and development,,122.0,121.7,119.2
+10,Selling,,536.4,545.5,538.7
+11,Administration,,482.0,478.5,476.5
+12,Impairment charges,,173.1,0.0,13.8
+13,Restructuring,,16.9,3.2,25.9
+14,Other operating expense (income),,(417.6),(4.3),2.9
+15,Total operating expenses,,1005.8,1229.7,1259.0
+16,Operating income,,410.4,265.2,174.7
+17,Change in financial assets,,0.0,95.3,(22.1)
+18,"Interest expense, net",,125.0,127.7,117.5
+19,"Other (income) expense, net",,26.7,16.3,(68.9)
+20,Loss on extinguishment of debt,,0.0,20.0,0.2
+21,Income from continuing operations before income taxes,,258.7,5.9,148.0
+22,Income tax expense (benefit),,389.6,(38.3),(10.7)
+23,Income (loss) from continuing operations,,(130.9),44.2,158.7
+24,"Income (loss) from discontinued operations, net of tax",,62.0,(206.8),(12.6)
+25,Net income (loss),,$ (68.9),$ (162.6),$ 146.1
+26,Basic,,,,
+27,Continuing operations (in dollars per share),,$ (0.98),$ 0.32,$ 1.16
+28,Discontinued operations (in dollars per share),,0.46,(1.52),(0.09)
+29,Basic (in dollars per share),,(0.52),(1.20),1.07
+30,Diluted,,,,
+31,Continuing operations (in dollars per share),,(0.98),0.32,1.16
+32,Discontinued operations (in dollars per share),,0.46,(1.51),(0.09)
+33,Diluted (in dollars per share),,$ (0.52),$ (1.19),$ 1.07
+34,Weighted-average shares outstanding,,,,
+35,Basic (in shares),,133.6,136.1,136.0
+36,Diluted (in shares),,133.6,137.2,136.5
+37,,,,,
+38,[1] The net sales by geography is derived from the location of the entity that sells to a third party.,[1] The net sales by geography is derived from the location of the entity that sells to a third party.,[1] The net sales by geography is derived from the location of the entity that sells to a third party.,[1] The net sales by geography is derived from the location of the entity that sells to a third party.,

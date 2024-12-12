@@ -1,0 +1,35 @@
+,0,1,2,3,4
+0,[1],"Exclusive of amortization of intangible assets, which is shown separately.",,,
+1,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","May 31, 2023","May 31, 2022","May 31, 2021"
+3,Revenues:,,,,
+4,Cloud services and license support,,"$ 35,307","$ 30,174","$ 28,700"
+5,Cloud license and on-premise license,,5779,5878,5399
+6,Hardware,,3274,3183,3359
+7,Services,,5594,3205,3021
+8,Total revenues,,49954,42440,40479
+9,Operating expenses:,,,,
+10,Cloud services and license support,[1],7763,5213,4353
+11,Hardware,[1],1040,972,972
+12,Services,[1],4761,2692,2530
+13,Sales and marketing,[1],8833,8047,7682
+14,Research and development,,8623,7219,6527
+15,General and administrative,,1579,1317,1254
+16,Amortization of intangible assets,,3582,1150,1379
+17,Acquisition related and other,,190,4713,138
+18,Restructuring,,490,191,431
+19,Total operating expenses,,36861,31514,25266
+20,Operating income,,13093,10926,15213
+21,Interest expense,,"(3,505)","(2,755)","(2,496)"
+22,"Non-operating (expenses) income, net",,(462),(522),282
+23,Income before income taxes,,9126,7649,12999
+24,(Provision for) benefit from income taxes,,(623),(932),747
+25,Net income,,"$ 8,503","$ 6,717","$ 13,746"
+26,Earnings per share:,,,,
+27,Basic,,$ 3.15,$ 2.49,$ 4.67
+28,Diluted,,$ 3.07,$ 2.41,$ 4.55
+29,Weighted average common shares outstanding:,,,,
+30,Basic,,2696,2700,2945
+31,Diluted,,2766,2786,3022
+32,,,,,
+33,"[1] Exclusive of amortization of intangible assets, which is shown separately.","[1] Exclusive of amortization of intangible assets, which is shown separately.","[1] Exclusive of amortization of intangible assets, which is shown separately.","[1] Exclusive of amortization of intangible assets, which is shown separately.",

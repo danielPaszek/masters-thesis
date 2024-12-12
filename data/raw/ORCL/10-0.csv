@@ -1,0 +1,45 @@
+,0,1,2,3,4,5,6
+0,[1],"Exclusive of amortization of intangible assets, which is shown separately.",,,,,
+1,"CONSOLIDATED STATEMENTS OF OPERATIONS (USD $) In Millions, except Per Share data, unless otherwise specified",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENTS OF OPERATIONS (USD $) In Millions, except Per Share data, unless otherwise specified","May 31, 2014","May 31, 2014","May 31, 2013","May 31, 2013","May 31, 2012","May 31, 2012"
+3,Software and cloud revenues:,,,,,,
+4,New software licenses,"$ 9,416",,"$ 9,411",,"$ 9,451",
+5,Cloud software-as-a-service and platform-as-a-service,1121,,910,,455,
+6,Cloud infrastructure-as-a-service,456,,457,,444,
+7,Software license updates and product support,18206,,17142,,16210,
+8,Software and cloud revenues,29199,,27920,,26560,
+9,Hardware systems revenues:,,,,,,
+10,Hardware systems products,2976,,3033,,3827,
+11,Hardware systems support,2396,,2313,,2475,
+12,Hardware systems revenues,5372,,5346,,6302,
+13,Services revenues,3704,,3914,,4259,
+14,Total revenues,38275,,37180,,37121,
+15,Operating expenses:,,,,,,
+16,Sales and marketing,7567,[1],7062,[1],6990,[1]
+17,Cloud software-as-a-service and platform-as-a-service,455,[1],327,[1],209,[1]
+18,Cloud infrastructure-as-a-service,308,,304,,289,
+19,Software license updates and product support,1162,[1],1175,[1],1226,[1]
+20,Hardware systems products,1521,[1],1501,[1],1843,[1]
+21,Hardware systems support,836,[1],890,[1],1046,[1]
+22,Services,2954,[1],3182,[1],3382,[1]
+23,Research and development,5151,,4850,,4523,
+24,General and administrative,1038,,1072,,1126,
+25,Amortization of intangible assets,2300,,2385,,2430,
+26,Acquisition related and other,41,,(604),,56,
+27,Restructuring,183,,352,,295,
+28,Total operating expenses,23516,,22496,,23415,
+29,Operating income,14759,,14684,,13706,
+30,Interest expense,(914),,(797),,(766),
+31,"Non-operating (expense) income, net",(141),,11,,22,
+32,Income before provision for income taxes,13704,,13898,,12962,
+33,Provision for income taxes,2749,,2973,,2981,
+34,Net income,"$ 10,955",,"$ 10,925",,"$ 9,981",
+35,Earnings per share:,,,,,,
+36,Basic (in dollars per share),$ 2.42,,$ 2.29,,$ 1.99,
+37,Diluted (in dollars per share),$ 2.38,,$ 2.26,,$ 1.96,
+38,Weighted average common shares outstanding:,,,,,,
+39,Basic (in shares),4528,,4769,,5015,
+40,Diluted (in shares),4604,,4844,,5095,
+41,Dividends declared per common share (in dollars per share),$ 0.48,,$ 0.30,,$ 0.24,
+42,,,,,,,
+43,"[1]  Exclusive of amortization of intangible assets, which is shown separately.","[1]  Exclusive of amortization of intangible assets, which is shown separately.","[1]  Exclusive of amortization of intangible assets, which is shown separately.","[1]  Exclusive of amortization of intangible assets, which is shown separately.","[1]  Exclusive of amortization of intangible assets, which is shown separately.","[1]  Exclusive of amortization of intangible assets, which is shown separately.","[1]  Exclusive of amortization of intangible assets, which is shown separately."

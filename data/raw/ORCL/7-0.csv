@@ -1,0 +1,43 @@
+,0,1,2,3,4
+0,[1],"Exclusive of amortization of intangible assets, which is shown separately",,,
+1,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","May 31, 2017","May 31, 2016","May 31, 2015"
+3,Revenues:,,,,
+4,Cloud software as a service,,"$ 3,211","$ 2,001","$ 1,476"
+5,Cloud platform as a service and infrastructure as a service,,1360,852,617
+6,Total cloud revenues,,4571,2853,2093
+7,New software licenses,,6418,7276,8535
+8,Software license updates and product support,,19229,18861,18847
+9,Total on-premise software revenues,,25647,26137,27382
+10,Total cloud and on-premise software revenues,,30218,28990,29475
+11,Hardware revenues,,4152,4668,5205
+12,Services revenues,,3358,3389,3546
+13,Total revenues,,37728,37047,38226
+14,Operating expenses:,,,,
+15,Cloud software as a service,[1],1285,1049,742
+16,Cloud platform as a service and infrastructure as a service,[1],678,469,375
+17,Software license updates and product support,[1],1052,1146,1199
+18,Hardware,[1],1653,2064,2287
+19,Services,[1],2801,2751,2929
+20,Sales and marketing,[1],8197,7884,7655
+21,Research and development,,6159,5787,5524
+22,General and administrative,,1176,1155,1077
+23,Amortization of intangible assets,,1451,1638,2149
+24,Acquisition related and other,,103,42,211
+25,Restructuring,,463,458,207
+26,Total operating expenses,,25018,24443,24355
+27,Operating income,,12710,12604,13871
+28,Interest expense,,"(1,798)","(1,467)","(1,143)"
+29,"Non-operating income, net",,605,305,106
+30,Income before provision for income taxes,,11517,11442,12834
+31,Provision for income taxes,,2182,2541,2896
+32,Net income,,"$ 9,335","$ 8,901","$ 9,938"
+33,Earnings per share:,,,,
+34,Basic (in dollars per share),,$ 2.27,$ 2.11,$ 2.26
+35,Diluted (in dollars per share),,$ 2.21,$ 2.07,$ 2.21
+36,Weighted average common shares outstanding:,,,,
+37,Basic (in shares),,4115,4221,4404
+38,Diluted (in shares),,4217,4305,4503
+39,Dividends declared per common share (in dollars per share),,$ 0.64,$ 0.60,$ 0.51
+40,,,,,
+41,"[1] Exclusive of amortization of intangible assets, which is shown separately","[1] Exclusive of amortization of intangible assets, which is shown separately","[1] Exclusive of amortization of intangible assets, which is shown separately","[1] Exclusive of amortization of intangible assets, which is shown separately","[1] Exclusive of amortization of intangible assets, which is shown separately"

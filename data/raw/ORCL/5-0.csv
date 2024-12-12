@@ -1,0 +1,35 @@
+,0,1,2,3,4
+0,[1],"Exclusive of amortization of intangible assets, which is shown separately.",,,
+1,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","May 31, 2019","May 31, 2018","May 31, 2017"
+3,Revenues:,,,,
+4,Cloud services and license support,,"$ 26,707","$ 26,222","$ 23,758"
+5,Cloud license and on-premise license,,5855,5772,6523
+6,Hardware,,3704,3994,4152
+7,Services,,3240,3395,3359
+8,Total revenues,,39506,39383,37792
+9,Operating expenses:,,,,
+10,Cloud services and license support,[1],3782,3606,3011
+11,Hardware,[1],1360,1576,1648
+12,Services,[1],2853,2878,2793
+13,Sales and marketing,[1],8509,8433,8085
+14,Research and development,,6026,6084,6153
+15,General and administrative,,1265,1282,1172
+16,Amortization of intangible assets,,1689,1620,1451
+17,Acquisition related and other,,44,52,103
+18,Restructuring,,443,588,463
+19,Total operating expenses,,25971,26119,24879
+20,Operating income,,13535,13264,12913
+21,Interest expense,,"(2,082)","(2,025)","(1,798)"
+22,"Non-operating income, net",,815,1185,565
+23,Income before provision for income taxes,,12268,12424,11680
+24,Provision for income taxes,,1185,8837,2228
+25,Net income,,"$ 11,083","$ 3,587","$ 9,452"
+26,Earnings per share:,,,,
+27,Basic,,$ 3.05,$ 0.87,$ 2.30
+28,Diluted,,$ 2.97,$ 0.85,$ 2.24
+29,Weighted average common shares outstanding:,,,,
+30,Basic,,3634,4121,4115
+31,Diluted,,3732,4238,4217
+32,,,,,
+33,"[1] Exclusive of amortization of intangible assets, which is shown separately.","[1] Exclusive of amortization of intangible assets, which is shown separately.","[1] Exclusive of amortization of intangible assets, which is shown separately.","[1] Exclusive of amortization of intangible assets, which is shown separately.","[1] Exclusive of amortization of intangible assets, which is shown separately."
