@@ -1,0 +1,36 @@
+,"Statement Of Income Alternative (USD $) In Thousands, except Per Share data",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+,"Statement Of Income Alternative (USD $) In Thousands, except Per Share data","Dec. 31, 2009","Dec. 31, 2009.1","Dec. 31, 2008","Dec. 31, 2008.1","Dec. 31, 2007","Dec. 31, 2007.1"
+0,Revenues,"$ 1,030,619","$ 1,030,619","$ 964,748","$ 964,748","$ 850,509","$ 850,509"
+1,Costs and expenses,,,,,,
+2,Cost of revenues,245896,245896,231406,231406,240119,240119
+3,Sales and marketing,177029,177029,172206,172206,242127,242127
+4,Research and development,83560,83560,88948,88948,94434,94434
+5,General and administrative,181992,181992,201016,201016,248037,248037
+6,"Restructuring, impairments and other charges, net",16216,16216,196419,196419,236219,236219
+7,Amortization of other intangible assets,12199,12199,11155,11155,21091,21091
+8,Total costs and expenses,716892,716892,901150,901150,1082027,1082027
+9,Operating income (loss),313727,313727,63598,63598,"(231,518)","(231,518)"
+10,"Other (loss) income, net","(32,437)","(32,437)",48809,48809,94407,94407
+11,Income (loss) from continuing operations before income taxes and loss from unconsolidated entities,281290,281290,112407,112407,"(137,111)","(137,111)"
+12,Income tax (expense) benefit,"(80,105)","(80,105)","(39,197)","(39,197)",3451,3451
+13,"Loss from unconsolidated entities, net of tax",0,0,"(3,868)","(3,868)","(2,018)","(2,018)"
+14,"Income (loss) from continuing operations, net of tax",201185,201185,69342,69342,"(135,678)","(135,678)"
+15,"Income (loss) from discontinued operations, net of tax",48054,48054,"(459,602)","(459,602)","(10,829)","(10,829)"
+16,Net income (loss),249239,249239,"(390,260)","(390,260)","(146,507)","(146,507)"
+17,Less: Net (income) loss attributable to noncontrolling interest in subsidiary,"(3,686)","(3,686)",16009,16009,"(3,840)","(3,840)"
+18,Net income (loss) attributable to VeriSign Inc. and subsidiaries common stockholders,245553,245553,"(374,251)","(374,251)","(150,347)","(150,347)"
+19,"Basic income (loss) per share attributable to VeriSign, Inc. and subsidiaries common stockholders from:",,,,,,
+20,Continuing operations,$ 1.03,$ 1.03,$ 0.43,$ 0.43,$ (0.59),$ (0.59)
+21,Discontinued operations,$ 0.25,$ 0.25,$ (2.33),$ (2.33),$ (0.04),$ (0.04)
+22,Net income (loss),$ 1.28,$ 1.28,$ (1.90),$ (1.90),$ (0.63),$ (0.63)
+23,"Diluted income (loss) per share attributable to VeriSign, Inc. and subsidiaries common stockholders from:",,,,,,
+24,Continuing operations,$ 1.03,$ 1.03,$ 0.43,$ 0.43,$ (0.59),$ (0.59)
+25,Discontinued operations,$ 0.25,$ 0.25,$ (2.30),$ (2.30),$ (0.04),$ (0.04)
+26,Net income (loss),$ 1.28,$ 1.28,$ (1.87),$ (1.87),$ (0.63),$ (0.63)
+27,"Shares used to compute net income (loss) per share attributable to VeriSign, Inc. and subsidiaries common stockholders:",,,,,,
+28,Basic,191821,191821,197201,197201,237707,237707
+29,Diluted,192575,192575,200602,200602,237707,237707
+30,"Amounts attributable to VeriSign, Inc. and subsidiaries common stockholders:",,,,,,
+31,"Income (loss) from continuing operations, net of tax",197499,197499,85351,85351,"(139,518)","(139,518)"
+32,"Income (loss) from discontinued operations, net of tax",48054,48054,"(459,602)","(459,602)","(10,829)","(10,829)"
+33,Net income (loss) attributable to VeriSign Inc. and subsidiaries common stockholders,"$ 245,553","$ 245,553","$ (374,251)","$ (374,251)","$ (150,347)","$ (150,347)"

@@ -1,0 +1,84 @@
+,0,1,2,3,4,5
+0,[1],"Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information.",,,,
+1,[2],"Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information.",,,,
+2,[3],"Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8",,,,
+3,[4],"Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information.",,,,
+4,[5],"Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information.",,,,
+5,[6],"Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information.",,,,
+6,[7],"Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information.",,,,
+7,[8],"Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information.",,,,
+8,Statements of Consolidated Operations - USD ($)  $ in Millions,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+9,Statements of Consolidated Operations - USD ($)  $ in Millions,"Dec. 31, 2019","Dec. 31, 2018","Dec. 31, 2018","Dec. 31, 2017","Dec. 31, 2017"
+10,Operating revenue:,,,,,
+11,Revenue,"$ 43,259","$ 41,303",[1],"$ 37,784",[1]
+12,Operating expense:,,,,,
+13,Salaries and related costs,12071,11458,[1],10941,[1]
+14,Aircraft fuel,8953,9307,[1],6913,[1]
+15,Regional capacity purchase,2849,2649,[1],2268,[1]
+16,Landing fees and other rent,2543,2449,[1],2310,[1]
+17,Depreciation and amortization,2288,2165,"[1],[2]",2096,"[1],[2]"
+18,Aircraft maintenance materials and outside repairs,1794,1767,[1],1856,[1]
+19,Distribution expenses,1651,1558,[1],1435,[1]
+20,Aircraft rent,288,433,[1],621,[1]
+21,Special charges,246,487,[1],176,[1]
+22,Other operating expenses,6275,5801,[1],5550,[1]
+23,Total operating expense,38958,38074,[1],34166,[1]
+24,Operating income,4301,3229,[1],3618,[1]
+25,Nonoperating income (expense):,,,,,
+26,Interest expense,(731),(670),[1],(626),[1]
+27,Interest capitalized,85,65,[1],74,[1]
+28,Interest income,133,101,[1],57,[1]
+29,"Unrealized gains (losses) on investments, net",153,(5),"[1],[2]",0,"[1],[2]"
+30,"Miscellaneous, net",(27),(72),[1],(100),[1]
+31,"Total nonoperating expense, net",(387),(581),[1],(595),[1]
+32,Income before income taxes,3914,2648,[1],3023,[1]
+33,Income tax expense,905,526,[1],880,[1]
+34,Net income,"$ 3,009","$ 2,122","[1],[2],[3],[4]","$ 2,143","[1],[2],[3],[4]"
+35,"Earnings per share, basic (in dollars per share)",$ 11.63,$ 7.70,[1],$ 7.08,[1]
+36,"Earnings per share, diluted (in dollars per share)",$ 11.58,$ 7.67,[1],$ 7.06,[1]
+37,"United Airlines, Inc.",,,,,
+38,Operating revenue:,,,,,
+39,Revenue,"$ 43,259","$ 41,303",[5],"$ 37,784",[5]
+40,Operating expense:,,,,,
+41,Salaries and related costs,12071,11458,[5],10941,[5]
+42,Aircraft fuel,8953,9307,[5],6913,[5]
+43,Regional capacity purchase,2849,2649,[5],2268,[5]
+44,Landing fees and other rent,2543,2449,[5],2310,[5]
+45,Depreciation and amortization,2288,2165,"[5],[6]",2096,"[5],[6]"
+46,Aircraft maintenance materials and outside repairs,1794,1767,[5],1856,[5]
+47,Distribution expenses,1651,1558,[5],1435,[5]
+48,Aircraft rent,288,433,[5],621,[5]
+49,Special charges,246,487,[5],176,[5]
+50,Other operating expenses,6273,5799,[5],5548,[5]
+51,Total operating expense,38956,38072,[5],34164,[5]
+52,Operating income,4303,3231,[5],3620,[5]
+53,Nonoperating income (expense):,,,,,
+54,Interest expense,(731),(670),[5],(626),[5]
+55,Interest capitalized,85,65,[5],74,[5]
+56,Interest income,133,101,[5],57,[5]
+57,"Unrealized gains (losses) on investments, net",153,(5),"[5],[6]",0,"[5],[6]"
+58,"Miscellaneous, net",(27),(72),[5],(100),[5]
+59,"Total nonoperating expense, net",(387),(581),[5],(595),[5]
+60,Income before income taxes,3916,2650,[5],3025,[5]
+61,Income tax expense,905,527,[5],864,[5]
+62,Net income,3011,2123,"[5],[6],[7],[8]",2161,"[5],[6],[7],[8]"
+63,Passenger revenue,,,,,
+64,Operating revenue:,,,,,
+65,Revenue,39625,37706,[1],34460,[1]
+66,"Passenger revenue | United Airlines, Inc.",,,,,
+67,Operating revenue:,,,,,
+68,Revenue,39625,37706,[5],34460,[5]
+69,Cargo,,,,,
+70,Operating revenue:,,,,,
+71,Revenue,1179,1237,[1],1114,[1]
+72,"Cargo | United Airlines, Inc.",,,,,
+73,Operating revenue:,,,,,
+74,Revenue,1179,1237,[5],1114,[5]
+75,Other operating revenue,,,,,
+76,Operating revenue:,,,,,
+77,Revenue,2455,2360,[1],2210,[1]
+78,"Other operating revenue | United Airlines, Inc.",,,,,
+79,Operating revenue:,,,,,
+80,Revenue,"$ 2,455","$ 2,360",[5],"$ 2,210",[5]
+81,,,,,,
+82,"[1] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [2] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [3] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 [4] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [5] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [6] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [7] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [8] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information.","[1] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [2] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [3] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 [4] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [5] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [6] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [7] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [8] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information.","[1] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [2] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [3] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 [4] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [5] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [6] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [7] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [8] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information.","[1] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [2] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [3] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 [4] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [5] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [6] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [7] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [8] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information.","[1] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [2] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [3] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 [4] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [5] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [6] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [7] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [8] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information.","[1] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [2] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [3] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 [4] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [5] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [6] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [7] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information. [8] Amounts adjusted due to the adoption of Accounting Standards Update No. 2016-02, Leases (Topic 842). See Note 1 to the financial statements contained in Part II, Item 8 of this report for additional information."

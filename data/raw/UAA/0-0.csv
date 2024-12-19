@@ -1,0 +1,20 @@
+,"Consolidated Statements of Operations - USD ($)  shares in Thousands, $ in Thousands",3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+,"Consolidated Statements of Operations - USD ($)  shares in Thousands, $ in Thousands","Mar. 31, 2024","Dec. 31, 2023","Sep. 30, 2023","Jun. 30, 2023","Mar. 31, 2023","Dec. 31, 2022","Sep. 30, 2022","Jun. 30, 2022","Mar. 31, 2022","Mar. 31, 2024","Mar. 31, 2023","Dec. 31, 2021"
+0,Income Statement [Abstract],,,,,,,,,,,,
+1,Net revenues,"$ 1,332,197","$ 1,486,043","$ 1,566,674","$ 1,316,965","$ 1,398,605","$ 1,581,487","$ 1,574,296","$ 1,348,777","$ 1,300,793","$ 5,701,879","$ 5,903,165","$ 5,682,592"
+2,Cost of goods sold,732601,815404,818151,705470,793112,884563,860799,720860,696397,3071626,3259334,2821967
+3,Gross profit,599596,670639,748523,611495,605493,696924,713497,627917,604396,2630253,2643831,2860625
+4,"Selling, general and administrative expenses",603150,599230,609050,589072,575931,607433,597595,599286,597158,2400502,2380245,2344859
+5,Restructuring and impairment charges,,,,,,,,,56674,0,0,40518
+6,Income (loss) from operations,"(3,554)",71409,139473,22423,29562,89491,115902,28631,"(49,436)",229751,263586,475248
+7,"Interest income (expense), net",2478,(211),(373),"(1,626)","(1,651)","(1,615)","(3,555)","(6,005)","(6,154)",268,"(12,826)","(44,300)"
+8,"Other income (expense), net","(3,708)",47927,"(6,104)","(6,060)","(5,740)",42848,"(5,771)","(14,241)",(107),32055,17096,"(51,009)"
+9,Income (loss) before income taxes,"(4,784)",119125,132996,14737,22171,130724,106576,8385,"(55,697)",262074,267856,379939
+10,Income tax expense (benefit),"(11,327)",8569,28436,4328,"(152,497)",17726,21489,4637,8181,30006,"(108,645)",30191
+11,Income (loss) from equity method investments,25,197,151,(399),(308),72,(908),(898),732,(26),"(2,042)",1255
+12,Net income (loss),"$ 6,568","$ 110,753","$ 104,711","$ 10,010","$ 174,360","$ 113,070","$ 84,179","$ 2,850","$ (63,146)","$ 232,042","$ 374,459","$ 351,003"
+13,"Basic net income (loss) per share of Class A, B and C common stock (in dollars per share)",$ 0.02,$ 0.25,$ 0.24,$ 0.02,$ 0.39,$ 0.25,$ 0.19,$ 0.01,$ (0.13),$ 0.53,$ 0.83,$ 0.75
+14,"Diluted net income (loss) per share of Class A, B and C common stock (in dollars per share)",$ 0.02,$ 0.25,$ 0.23,$ 0.02,$ 0.38,$ 0.25,$ 0.18,$ 0.01,$ (0.13),$ 0.52,$ 0.81,$ 0.75
+15,"Weighted average common shares outstanding Class A, B and C common stock",,,,,,,,,,,,
+16,Basic (in shares),,,,,,,,,471425,440324,451426,465504
+17,Diluted (in shares),,,,,,,,,471425,451011,461509,468644
