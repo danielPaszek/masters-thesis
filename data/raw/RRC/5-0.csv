@@ -1,0 +1,49 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,[1],"Includes common stock issued in connection with the exchange of 77.0 million shares for all outstanding Memorial common stock on September 16, 2016.",,,,,,,,,,,
+1,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Thousands, $ in Thousands","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Thousands, $ in Thousands",3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,3 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Thousands, $ in Thousands","CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Thousands, $ in Thousands","Dec. 31, 2018","Sep. 30, 2018","Jun. 30, 2018","Mar. 31, 2018","Dec. 31, 2017","Sep. 30, 2017","Jun. 30, 2017","Mar. 31, 2017","Dec. 31, 2018","Dec. 31, 2017","Dec. 31, 2016"
+3,Revenues and other income:,,,,,,,,,,,,
+4,Revenues and other income,,,,,,,,,,"$ 3,333,836",,
+5,Derivative fair value (loss) income,,"$ 100,698","$ (34,591)","$ (103,290)","$ (14,009)","$ 25,024","$ (88,426)","$ 111,195","$ 165,557","(51,192)","$ 213,350","$ (261,391)"
+6,Total revenues and other income,,1072637,811225,656184,742599,679032,482232,673111,776655,3282645,2611030,1099939
+7,Costs and expenses:,,,,,,,,,,,,
+8,Production and ad valorem taxes,,16656,9427,10140,9926,11757,11993,9969,9163,46149,42882,25443
+9,Brokered natural gas and marketing,,221626,116080,102747,55594,51131,59773,55857,53550,496047,220311,168576
+10,Exploration,,10600,8299,7499,7719,7893,22767,14498,8504,34117,53662,32325
+11,Abandonment and impairment of unproved properties,,441750,6549,54922,11773,217544,42568,5193,4420,514994,269725,30076
+12,General and administrative,,50090,43722,47583,68417,80553,53035,52322,47496,209812,233406,184772
+13,MRD Merger expenses,,,,,,,,,,0,0,37225
+14,Termination costs,,0,(336),0,(37),(279),(47),(96),4192,(373),3770,(519)
+15,Deferred compensation plan,,"(18,072)",223,6615,"(7,397)","(14,077)","(9,203)","(14,466)","(13,169)","(18,631)","(50,915)",19153
+16,Interest,,49161,54801,53862,52385,51473,49179,47926,47101,210209,195679,168213
+17,"Depletion, depreciation and amortization",,147909,164266,161026,162266,162918,159749,152504,149821,635467,624992,524102
+18,Impairment of proved properties,,0,0,15302,7312,0,63679,0,0,22614,63679,43040
+19,Impairment of goodwill,,1641197,0,0,0,,,,,1641197,0,0
+20,Loss (gain) on the sale of assets,,10815,30,(156),(23),(207),(102),(807),"(22,600)",10666,"(23,716)",7074
+21,Total costs and expenses,,2905843,738549,764538,650685,806927,681924,545910,494149,5059615,2528910,1902077
+22,(Loss) income before income taxes,,"(1,833,206)",72676,"(108,354)",91914,"(127,895)","(199,692)",127201,282506,"(1,776,970)",82120,"(802,138)"
+23,Income tax (benefit) expense:,,,,,,,,,,,,
+24,Current,,0,0,0,0,17,0,0,0,0,17,98
+25,Deferred,,"(68,784)",24137,"(28,518)",42676,"(349,097)","(71,992)",57651,112395,"(30,489)","(251,043)","(280,848)"
+26,Total (benefit) expense for income taxes,,"(68,784)",24137,"(28,518)",42676,"(349,080)","(71,992)",57651,112395,"(30,489)","(251,026)","(280,750)"
+27,Net (loss) income,,"$ (1,764,422)","$ 48,539","$ (79,836)","$ 49,238","$ 221,185","$ (127,700)","$ 69,550","$ 170,111","$ (1,746,481)","$ 333,146","$ (521,388)"
+28,Net (loss) income per common share:,,,,,,,,,,,,
+29,Basic,,$ (7.15),$ 0.19,$ (0.32),$ 0.20,$ 0.89,$ (0.52),$ 0.28,$ 0.69,$ (7.10),$ 1.34,$ (2.75)
+30,Diluted,,$ (7.15),$ 0.19,$ (0.32),$ 0.20,$ 0.89,$ (0.52),$ 0.28,$ 0.69,$ (7.10),$ 1.34,$ (2.75)
+31,Weighted average common shares outstanding:,,,,,,,,,,,,
+32,Basic,[1],,,,,,,,,246171,245091,189868
+33,Diluted,,,,,,,,,,246171,245458,189868
+34,"Natural Gas, NGLs and Oil Sales",,,,,,,,,,,,
+35,Revenues and other income:,,,,,,,,,,,,
+36,Revenues and other income,,"$ 756,627","$ 736,431","$ 661,390","$ 696,629","$ 603,159","$ 507,541","$ 506,137","$ 559,450","$ 2,851,077","$ 2,176,287","$ 1,197,215"
+37,"Brokered Natural Gas, Marketing and Other",,,,,,,,,,,,
+38,Revenues and other income:,,,,,,,,,,,,
+39,Revenues and other income,,215312,109385,98084,59979,50849,63117,55779,51648,482760,221393,164115
+40,Direct Operating,,,,,,,,,,,,
+41,Costs and expenses:,,,,,,,,,,,,
+42,Costs and expenses,,35395,30926,35088,38122,37921,36888,31420,28023,139531,134252,97388
+43,"Transportation, Gathering, Processing and Compression",,,,,,,,,,,,
+44,Costs and expenses:,,,,,,,,,,,,
+45,Costs and expenses,,"$ 298,716","$ 304,562","$ 269,910","$ 244,628","$ 200,300","$ 191,645","$ 191,590","$ 177,648","$ 1,117,816","$ 761,183","$ 565,209"
+46,,,,,,,,,,,,,
+47,"[1] Includes common stock issued in connection with the exchange of 77.0 million shares for all outstanding Memorial common stock on September 16, 2016.","[1] Includes common stock issued in connection with the exchange of 77.0 million shares for all outstanding Memorial common stock on September 16, 2016.","[1] Includes common stock issued in connection with the exchange of 77.0 million shares for all outstanding Memorial common stock on September 16, 2016.","[1] Includes common stock issued in connection with the exchange of 77.0 million shares for all outstanding Memorial common stock on September 16, 2016.","[1] Includes common stock issued in connection with the exchange of 77.0 million shares for all outstanding Memorial common stock on September 16, 2016.","[1] Includes common stock issued in connection with the exchange of 77.0 million shares for all outstanding Memorial common stock on September 16, 2016.","[1] Includes common stock issued in connection with the exchange of 77.0 million shares for all outstanding Memorial common stock on September 16, 2016.","[1] Includes common stock issued in connection with the exchange of 77.0 million shares for all outstanding Memorial common stock on September 16, 2016.","[1] Includes common stock issued in connection with the exchange of 77.0 million shares for all outstanding Memorial common stock on September 16, 2016.","[1] Includes common stock issued in connection with the exchange of 77.0 million shares for all outstanding Memorial common stock on September 16, 2016.","[1] Includes common stock issued in connection with the exchange of 77.0 million shares for all outstanding Memorial common stock on September 16, 2016.","[1] Includes common stock issued in connection with the exchange of 77.0 million shares for all outstanding Memorial common stock on September 16, 2016.",

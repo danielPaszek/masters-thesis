@@ -1,0 +1,41 @@
+,0,1,2,3,4
+0,[1],Amounts may not add due to rounding.,,,
+1,"CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENT OF INCOME - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2016","Dec. 31, 2015","Dec. 31, 2014"
+3,Revenue,,,,
+4,Services,,"$ 20,859","$ 31,765","$ 44,138"
+5,Product sales,,6951,3710,4442
+6,Total Revenue,,27810,35475,48580
+7,Interest & other income,,200,236,291
+8,Expenses,,,,
+9,Cost of services,,17876,25259,33792
+10,Cost of sales,,6234,3062,3606
+11,Research & engineering,,1012,1094,1217
+12,General & administrative,,403,494,475
+13,Impairments & other,,3172,2575,1773
+14,Merger & integration,,648,,
+15,Interest,,570,346,369
+16,Income (loss) from continuing operations before taxes,,"(1,905)",2881,7639
+17,Taxes on income (loss),,(278),746,1928
+18,Income (loss) from continuing operations,,"(1,627)",2135,5711
+19,Loss from discontinued operations,,,,(205)
+20,Net income (loss),,"(1,627)",2135,5506
+21,Net income attributable to noncontrolling interests,,60,63,68
+22,Net income (loss) attributable to Schlumberger,,"(1,687)",2072,5438
+23,Schlumberger amounts attributable to:,,,,
+24,Income (loss) from continuing operations,,"(1,687)",2072,5643
+25,Loss from discontinued operations,,,,(205)
+26,Net income (loss) attributable to Schlumberger,,"$ (1,687)","$ 2,072","$ 5,438"
+27,Basic earnings per share of Schlumberger,,,,
+28,Income (loss) from continuing operations,,$ (1.24),$ 1.63,$ 4.36
+29,Loss from discontinued operations,,,,(0.16)
+30,Net income (loss),,(1.24),1.63,4.20
+31,Diluted earnings per share of Schlumberger,,,,
+32,Income (loss) from continuing operations,,(1.24),1.63,4.31
+33,Loss from discontinued operations,,,,(0.16)
+34,Net income (loss),[1],$ (1.24),$ 1.63,$ 4.16
+35,Average shares outstanding:,,,,
+36,Basic,,1357,1267,1295
+37,Assuming dilution,,1357,1275,1308
+38,,,,,
+39,[1] Amounts may not add due to rounding.,[1] Amounts may not add due to rounding.,[1] Amounts may not add due to rounding.,[1] Amounts may not add due to rounding.,

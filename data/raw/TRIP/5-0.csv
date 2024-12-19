@@ -1,0 +1,32 @@
+,0,1,2,3,4,5
+0,[1],Excludes amortization expense as follows:,,,,
+1,[2],Includes stock-based compensation expense as follows,,,,
+2,[3],"The year ended December 31, 2017 reflects $67 million of Transition Tax and $6 million of tax expense recorded due to the remeasurement of net deferred tax assets related to the 2017 Tax Act enacted on December 22, 2017. Refer to “Note 11: Income Taxes” for further information.",,,,
+3,"Consolidated Statements of Operations - USD ($)  shares in Thousands, $ in Millions","Consolidated Statements of Operations - USD ($)  shares in Thousands, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+4,"Consolidated Statements of Operations - USD ($)  shares in Thousands, $ in Millions","Consolidated Statements of Operations - USD ($)  shares in Thousands, $ in Millions","Dec. 31, 2018","Dec. 31, 2017","Dec. 31, 2017","Dec. 31, 2016"
+5,Income Statement [Abstract],,,,,
+6,Revenue (Note 4),,"$ 1,615","$ 1,556",,"$ 1,480"
+7,Costs and expenses:,,,,,
+8,Cost of revenue,"[1],[2]",86,72,,71
+9,Selling and marketing,[2],778,849,,756
+10,Technology and content,[2],275,243,,243
+11,General and administrative,[2],177,157,,143
+12,Depreciation,,82,79,,69
+13,Amortization of intangible assets,,34,32,,32
+14,Total costs and expenses,,1432,1432,,1314
+15,Operating income,,183,124,,166
+16,Other income (expense):,,,,,
+17,Interest expense,,(12),(15),,(12)
+18,"Interest income and other, net (Note 19)",,2,1,,(3)
+19,"Total other income (expense), net",,(10),(14),,(15)
+20,Income before income taxes,,173,110,,151
+21,Provision for income taxes (Note 11),,(60),(129),[3],(31)
+22,Net income (loss),,$ 113,$ (19),,$ 120
+23,Earnings (loss) per share attributable to common stockholders (Note 5):,,,,,
+24,Basic,,$ 0.82,$ (0.14),,$ 0.83
+25,Diluted,,$ 0.81,$ (0.14),,$ 0.82
+26,Weighted average common shares outstanding (Note 5):,,,,,
+27,Basic,,138116,140445,,145443
+28,Diluted,,140375,140445,,146893
+29,,,,,,
+30,"[1] Excludes amortization expense as follows: [2] Includes stock-based compensation expense as follows [3] The year ended December 31, 2017 reflects $67 million of Transition Tax and $6 million of tax expense recorded due to the remeasurement of net deferred tax assets related to the 2017 Tax Act enacted on December 22, 2017. Refer to “Note 11: Income Taxes” for further information.","[1] Excludes amortization expense as follows: [2] Includes stock-based compensation expense as follows [3] The year ended December 31, 2017 reflects $67 million of Transition Tax and $6 million of tax expense recorded due to the remeasurement of net deferred tax assets related to the 2017 Tax Act enacted on December 22, 2017. Refer to “Note 11: Income Taxes” for further information.","[1] Excludes amortization expense as follows: [2] Includes stock-based compensation expense as follows [3] The year ended December 31, 2017 reflects $67 million of Transition Tax and $6 million of tax expense recorded due to the remeasurement of net deferred tax assets related to the 2017 Tax Act enacted on December 22, 2017. Refer to “Note 11: Income Taxes” for further information.","[1] Excludes amortization expense as follows: [2] Includes stock-based compensation expense as follows [3] The year ended December 31, 2017 reflects $67 million of Transition Tax and $6 million of tax expense recorded due to the remeasurement of net deferred tax assets related to the 2017 Tax Act enacted on December 22, 2017. Refer to “Note 11: Income Taxes” for further information.","[1] Excludes amortization expense as follows: [2] Includes stock-based compensation expense as follows [3] The year ended December 31, 2017 reflects $67 million of Transition Tax and $6 million of tax expense recorded due to the remeasurement of net deferred tax assets related to the 2017 Tax Act enacted on December 22, 2017. Refer to “Note 11: Income Taxes” for further information.","[1] Excludes amortization expense as follows: [2] Includes stock-based compensation expense as follows [3] The year ended December 31, 2017 reflects $67 million of Transition Tax and $6 million of tax expense recorded due to the remeasurement of net deferred tax assets related to the 2017 Tax Act enacted on December 22, 2017. Refer to “Note 11: Income Taxes” for further information."

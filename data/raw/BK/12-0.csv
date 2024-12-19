@@ -1,0 +1,101 @@
+,0,1,2,3,4,5,6
+0,[1],"Total fee and other revenue includes income from consolidated investment management funds of $200 million, net of noncontrolling interests of $50 million, for a net impact of $150 million. Income before taxes includes noncontrolling interests of $50 million.",,,,,
+1,[2],"Total fee and other revenue includes income from consolidated investment management funds of $226 million, net of noncontrolling interests of $59 million, for a net impact of $167 million. Income before taxes includes noncontrolling interests of $59 million.",,,,,
+2,[3],"In 2011, BNY Mellon realigned its internal reporting structure. See Note 26 of the Notes to Consolidated Financial Statements for additional information.",,,,,
+3,[4],Presented on a continuing operations basis.,,,,,
+4,[5],Based on continuing operations for 2010 and 2009.,,,,,
+5,[6],"Diluted earnings per share for the year ended Dec. 31, 2009, was calculated using average basic shares. Adding back the dilutive shares would be anti-dilutive.",,,,,
+6,[7],"Represents stock options, restricted stock, restricted stock units, participating securities and warrants outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.",,,,,
+7,[8],"Basic and diluted earnings per share under the two-class method are determined on the net income reported on the income statement less earnings allocated to participating securities, and the excess of redeemable value over the fair value of noncontrolling interests.",,,,,
+8,[9],Does not foot due to rounding.,,,,,
+9,"Consolidated Income Statement (USD $) In Millions, except Share data in Thousands, unless otherwise specified",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+10,"Consolidated Income Statement (USD $) In Millions, except Share data in Thousands, unless otherwise specified","Dec. 31, 2011","Dec. 31, 2011","Dec. 31, 2010","Dec. 31, 2010","Dec. 31, 2009","Dec. 31, 2009"
+11,Investment services fees:,,,,,,
+12,Foreign exchange and other trading revenue,$ 848,,$ 886,,"$ 1,036",
+13,Net securities gains (losses),48,,27,,"(5,369)",
+14,Total fee and other revenue,11696,[1],10891,[2],4739,
+15,Net interest revenue,,,,,,
+16,Interest revenue,3588,,3470,[3],3508,[3]
+17,Interest expense,604,,545,[3],593,[3]
+18,Net interest revenue,2984,,2925,[3],2915,[3]
+19,Provision for credit losses,1,,11,[3],332,[3]
+20,Net interest revenue after provision for credit losses,2983,,2914,[3],2583,[3]
+21,Noninterest expense,,,,,,
+22,Staff,5726,,5215,[3],4700,[3]
+23,"Professional, legal and other purchased services",1217,,1099,[3],1017,[3]
+24,Net occupancy,624,,588,[3],564,[3]
+25,Software,485,,410,[3],367,[3]
+26,Distribution and servicing,416,,377,[3],393,[3]
+27,Furniture and equipment,330,,315,[3],309,[3]
+28,Sub-custodian,298,,247,[3],203,[3]
+29,Business development,261,,271,[3],214,[3]
+30,Other,1147,,1060,[3],954,[3]
+31,Subtotal,10504,,9582,[3],8721,[3]
+32,Amortization of intangible assets,428,,421,[3],426,[3]
+33,Restructuring charges,89,,28,[3],150,[3]
+34,Merger and integration expenses,91,,139,[3],233,[3]
+35,Total noninterest expense,11112,,10170,[3],9530,[3]
+36,Income,,,,,,
+37,Income (loss) from continuing operations before income taxes,3617,,3694,"[3],[4],[5]","(2,208)","[3],[4],[5]"
+38,Provision (benefit) for income taxes,1048,,1047,"[3],[5]","(1,395)","[3],[5]"
+39,Net income (loss) from continuing operations,2569,,2647,"[3],[4]",(813),"[3],[4]"
+40,Discontinued operations:,,,,,,
+41,Loss from discontinued operations,,,(110),[3],(421),[3]
+42,Benefit for income taxes,,,(44),[3],(151),[3]
+43,Net income (loss) from discontinued operations,,,(66),[3],(270),[3]
+44,Net income (loss),2569,,2581,[3],"(1,083)",[3]
+45,Net (income) attributable to noncontrolling interests,(53),,(63),[3],(1),[3]
+46,Redemption charge and preferred dividends,,,,,(283),[3]
+47,Net income (loss) applicable to common shareholders of The Bank of New York Mellon Corporation,2516,,2518,[3],"(1,367)",[3]
+48,Reconciliation of net income (loss) from continuing operations to the net income applicable to common shareholders of The Bank of New York Mellon Corporation,,,,,,
+49,Net income (loss) from continuing operations,2569,,2647,"[3],[4]",(813),"[3],[4]"
+50,Net (income) attributable to noncontrolling interests,(53),,(63),,(1),
+51,Redemption charge and preferred dividends,,,,,(283),[3]
+52,Net income (loss) from continuing operations applicable to common shareholders of The Bank of New York Mellon Corporation,2516,,2584,,"(1,097)",
+53,Net loss from discontinued operations,,,(66),,(270),
+54,Net income (loss) applicable to common shareholders of The Bank of New York Mellon Corporation,2516,,2518,[3],"(1,367)",[3]
+55,Less: Earnings allocated to participating securities,27,,23,,,
+56,Excess of redeemable value over the fair value of noncontrolling interests,9,,,,,
+57,Net income (loss) applicable to common shareholders of The Bank of New York Mellon Corporation after required adjustments for the calculation of basic and diluted earnings per share,2480,,2495,,"(1,367)",
+58,Average common shares and equivalents outstanding of The Bank of New York Mellon Corporation,,,,,,
+59,Basic,1220804,,1212630,,1178907,
+60,Common stock equivalents,8425,,9508,,,
+61,Less: Participating securities,6203,,5924,,,
+62,Diluted,1223026,,1216214,,1178907,[6]
+63,Anti-dilutive securities,86270,[7],87058,[7],98112,[7]
+64,Basic:,,,,,,
+65,Net income (loss) from continuing operations,$ 2.03,[8],$ 2.11,[8],$ (0.93),[8]
+66,Net loss from discontinued operations,,,$ (0.05),[8],$ (0.23),[8]
+67,Net income (loss) applicable to common stock,$ 2.03,[8],$ 2.06,[8],$ (1.16),[8]
+68,Diluted:,,,,,,
+69,Net income (loss) from continuing operations,$ 2.03,[8],$ 2.11,[8],$ (0.93),[8]
+70,Net loss from discontinued operations,,,$ (0.05),[8],$ (0.23),[8]
+71,Net income (loss) applicable to common stock,$ 2.03,[8],$ 2.05,"[8],[9]",$ (1.16),[8]
+72,Operations,,,,,,
+73,Investment services fees:,,,,,,
+74,Asset servicing,3697,,3076,[3],2573,[3]
+75,Issuer services,1445,,1460,[3],1463,[3]
+76,Clearing services,1159,,1005,[3],962,[3]
+77,Treasury services,535,,530,[3],519,[3]
+78,Total investment services fees,6836,,6071,[3],5517,[3]
+79,Investment management and performance fees,3002,,2868,[3],2677,[3]
+80,Foreign exchange and other trading revenue,848,,886,[3],1036,[3]
+81,Distribution and servicing,187,,210,[3],326,[3]
+82,Financing-related fees,170,,195,[3],215,[3]
+83,Investment income,258,,308,[3],226,[3]
+84,Other,197,,159,[3],111,[3]
+85,Total fee revenue,11498,,10697,[3],10108,[3]
+86,Net securities gains (losses)-including other-than-temporary impairment,(86),,(43),[3],"(5,552)",[3]
+87,Non-credit-related gains (losses) on securities not expected to be sold (recognized in OCI),(134),,(70),[3],(183),[3]
+88,Net securities gains (losses),48,,27,[3],"(5,369)",[3]
+89,Total fee and other revenue,11546,,10724,[3],4739,[3]
+90,Investment Management Funds,,,,,,
+91,Investment services fees:,,,,,,
+92,Investment income,670,,663,[3],,
+93,Interest of investment management fund note holders,470,,437,[3],,
+94,Income of consolidated investment management funds,200,,226,[3],,
+95,Total fee and other revenue,150,,167,,,
+96,Discontinued operations:,,,,,,
+97,Net (income) attributable to noncontrolling interests,$ (50),,$ (59),[3],,
+98,,,,,,,
+99,"[1]  Total fee and other revenue includes income from consolidated investment management funds of $200 million, net of noncontrolling interests of $50 million, for a net impact of $150 million. Income before taxes includes noncontrolling interests of $50 million.  [2]  Total fee and other revenue includes income from consolidated investment management funds of $226 million, net of noncontrolling interests of $59 million, for a net impact of $167 million. Income before taxes includes noncontrolling interests of $59 million.  [3]  In 2011, BNY Mellon realigned its internal reporting structure. See Note 26 of the Notes to Consolidated Financial Statements for additional information.  [4]  Presented on a continuing operations basis.  [5]  Based on continuing operations for 2010 and 2009.  [6]  Diluted earnings per share for the year ended Dec. 31, 2009, was calculated using average basic shares. Adding back the dilutive shares would be anti-dilutive.  [7]  Represents stock options, restricted stock, restricted stock units, participating securities and warrants outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.  [8]  Basic and diluted earnings per share under the two-class method are determined on the net income reported on the income statement less earnings allocated to participating securities, and the excess of redeemable value over the fair value of noncontrolling interests.  [9]  Does not foot due to rounding.","[1]  Total fee and other revenue includes income from consolidated investment management funds of $200 million, net of noncontrolling interests of $50 million, for a net impact of $150 million. Income before taxes includes noncontrolling interests of $50 million.  [2]  Total fee and other revenue includes income from consolidated investment management funds of $226 million, net of noncontrolling interests of $59 million, for a net impact of $167 million. Income before taxes includes noncontrolling interests of $59 million.  [3]  In 2011, BNY Mellon realigned its internal reporting structure. See Note 26 of the Notes to Consolidated Financial Statements for additional information.  [4]  Presented on a continuing operations basis.  [5]  Based on continuing operations for 2010 and 2009.  [6]  Diluted earnings per share for the year ended Dec. 31, 2009, was calculated using average basic shares. Adding back the dilutive shares would be anti-dilutive.  [7]  Represents stock options, restricted stock, restricted stock units, participating securities and warrants outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.  [8]  Basic and diluted earnings per share under the two-class method are determined on the net income reported on the income statement less earnings allocated to participating securities, and the excess of redeemable value over the fair value of noncontrolling interests.  [9]  Does not foot due to rounding.","[1]  Total fee and other revenue includes income from consolidated investment management funds of $200 million, net of noncontrolling interests of $50 million, for a net impact of $150 million. Income before taxes includes noncontrolling interests of $50 million.  [2]  Total fee and other revenue includes income from consolidated investment management funds of $226 million, net of noncontrolling interests of $59 million, for a net impact of $167 million. Income before taxes includes noncontrolling interests of $59 million.  [3]  In 2011, BNY Mellon realigned its internal reporting structure. See Note 26 of the Notes to Consolidated Financial Statements for additional information.  [4]  Presented on a continuing operations basis.  [5]  Based on continuing operations for 2010 and 2009.  [6]  Diluted earnings per share for the year ended Dec. 31, 2009, was calculated using average basic shares. Adding back the dilutive shares would be anti-dilutive.  [7]  Represents stock options, restricted stock, restricted stock units, participating securities and warrants outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.  [8]  Basic and diluted earnings per share under the two-class method are determined on the net income reported on the income statement less earnings allocated to participating securities, and the excess of redeemable value over the fair value of noncontrolling interests.  [9]  Does not foot due to rounding.","[1]  Total fee and other revenue includes income from consolidated investment management funds of $200 million, net of noncontrolling interests of $50 million, for a net impact of $150 million. Income before taxes includes noncontrolling interests of $50 million.  [2]  Total fee and other revenue includes income from consolidated investment management funds of $226 million, net of noncontrolling interests of $59 million, for a net impact of $167 million. Income before taxes includes noncontrolling interests of $59 million.  [3]  In 2011, BNY Mellon realigned its internal reporting structure. See Note 26 of the Notes to Consolidated Financial Statements for additional information.  [4]  Presented on a continuing operations basis.  [5]  Based on continuing operations for 2010 and 2009.  [6]  Diluted earnings per share for the year ended Dec. 31, 2009, was calculated using average basic shares. Adding back the dilutive shares would be anti-dilutive.  [7]  Represents stock options, restricted stock, restricted stock units, participating securities and warrants outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.  [8]  Basic and diluted earnings per share under the two-class method are determined on the net income reported on the income statement less earnings allocated to participating securities, and the excess of redeemable value over the fair value of noncontrolling interests.  [9]  Does not foot due to rounding.","[1]  Total fee and other revenue includes income from consolidated investment management funds of $200 million, net of noncontrolling interests of $50 million, for a net impact of $150 million. Income before taxes includes noncontrolling interests of $50 million.  [2]  Total fee and other revenue includes income from consolidated investment management funds of $226 million, net of noncontrolling interests of $59 million, for a net impact of $167 million. Income before taxes includes noncontrolling interests of $59 million.  [3]  In 2011, BNY Mellon realigned its internal reporting structure. See Note 26 of the Notes to Consolidated Financial Statements for additional information.  [4]  Presented on a continuing operations basis.  [5]  Based on continuing operations for 2010 and 2009.  [6]  Diluted earnings per share for the year ended Dec. 31, 2009, was calculated using average basic shares. Adding back the dilutive shares would be anti-dilutive.  [7]  Represents stock options, restricted stock, restricted stock units, participating securities and warrants outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.  [8]  Basic and diluted earnings per share under the two-class method are determined on the net income reported on the income statement less earnings allocated to participating securities, and the excess of redeemable value over the fair value of noncontrolling interests.  [9]  Does not foot due to rounding.","[1]  Total fee and other revenue includes income from consolidated investment management funds of $200 million, net of noncontrolling interests of $50 million, for a net impact of $150 million. Income before taxes includes noncontrolling interests of $50 million.  [2]  Total fee and other revenue includes income from consolidated investment management funds of $226 million, net of noncontrolling interests of $59 million, for a net impact of $167 million. Income before taxes includes noncontrolling interests of $59 million.  [3]  In 2011, BNY Mellon realigned its internal reporting structure. See Note 26 of the Notes to Consolidated Financial Statements for additional information.  [4]  Presented on a continuing operations basis.  [5]  Based on continuing operations for 2010 and 2009.  [6]  Diluted earnings per share for the year ended Dec. 31, 2009, was calculated using average basic shares. Adding back the dilutive shares would be anti-dilutive.  [7]  Represents stock options, restricted stock, restricted stock units, participating securities and warrants outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.  [8]  Basic and diluted earnings per share under the two-class method are determined on the net income reported on the income statement less earnings allocated to participating securities, and the excess of redeemable value over the fair value of noncontrolling interests.  [9]  Does not foot due to rounding.","[1]  Total fee and other revenue includes income from consolidated investment management funds of $200 million, net of noncontrolling interests of $50 million, for a net impact of $150 million. Income before taxes includes noncontrolling interests of $50 million.  [2]  Total fee and other revenue includes income from consolidated investment management funds of $226 million, net of noncontrolling interests of $59 million, for a net impact of $167 million. Income before taxes includes noncontrolling interests of $59 million.  [3]  In 2011, BNY Mellon realigned its internal reporting structure. See Note 26 of the Notes to Consolidated Financial Statements for additional information.  [4]  Presented on a continuing operations basis.  [5]  Based on continuing operations for 2010 and 2009.  [6]  Diluted earnings per share for the year ended Dec. 31, 2009, was calculated using average basic shares. Adding back the dilutive shares would be anti-dilutive.  [7]  Represents stock options, restricted stock, restricted stock units, participating securities and warrants outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.  [8]  Basic and diluted earnings per share under the two-class method are determined on the net income reported on the income statement less earnings allocated to participating securities, and the excess of redeemable value over the fair value of noncontrolling interests.  [9]  Does not foot due to rounding."

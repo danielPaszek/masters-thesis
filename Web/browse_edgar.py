@@ -53,9 +53,10 @@ def open_income_statement(driver) -> WebElement | None:
         'consolidated statements of loss',
         'consolidated condensed statements of income',
         'consolidated statements of operations and comprehensive income (loss)',
+        'consolidated statements of income (loss)',
         'consolidated statements of (loss) income',
-        'consolidated statements of income',
         'consolidated statements of operations',
+        'consolidated statements of income',
         'consoldiated statements of operations', # yep, typo
         'consolidated statements of earnings',
         'consolidated statement of operations',
@@ -64,9 +65,14 @@ def open_income_statement(driver) -> WebElement | None:
         'statements of consolidated (loss) income',
         'consolidated statement of (loss) income',
         'statement of consolidated income',
+        'consolidated statements of comprehensive loss',
+        'consolidated statements of comprehensive income',
         'consolidated statements of comprehensive earnings',
+        'consolidated statements of comprehensive (loss) income',
+        'consolidated statements of comprehensive income (loss)',
         'consolidated statements of condensed earnings',
-        'consolidated statement of income', 'statement of consolidated operations',
+        'consolidated statement of income',
+        'statement of consolidated operations',
         'INCOME STATEMENTS', 'statement of income',
         'consolidated results of operations',
         'statements of consolidated operations',
@@ -79,7 +85,10 @@ def open_income_statement(driver) -> WebElement | None:
         'consolidated statements of comprehensive earnings',
         'consolidated comprehensive statements of earnings',
         'consolidated statement of earnings',
+        'statements of income',
         'income statements',
+        'statements of operations',
+
     ]:
         try:
             section = driver.find_element(By.XPATH,

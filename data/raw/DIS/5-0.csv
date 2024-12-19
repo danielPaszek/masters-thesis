@@ -1,0 +1,38 @@
+,0,1,2,3,4
+0,[1],Total may not equal the sum of the column due to rounding.,,,
+1,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENTS OF OPERATIONS - USD ($)  shares in Millions, $ in Millions","Oct. 02, 2021","Oct. 02, 2021","Oct. 03, 2020","Sep. 28, 2019"
+3,Revenues,"$ 67,418",,"$ 65,388","$ 69,607"
+4,"Selling, general, administrative and other","(13,517)",,"(12,369)","(11,549)"
+5,Depreciation and amortization,"(5,111)",,"(5,345)","(4,167)"
+6,Total costs and expenses,"(63,759)",,"(61,594)","(57,777)"
+7,Restructuring and impairment charges,(654),,"(5,735)","(1,183)"
+8,"Other income, net",201,,1038,4357
+9,"Interest expense, net","(1,406)",,"(1,491)",(978)
+10,Equity in the income (loss) of investees,761,,651,(103)
+11,Total income (loss) from continuing operations,2561,,"(1,743)",13923
+12,Income taxes on continuing operations,(25),,(699),"(3,026)"
+13,Net income (loss) from continuing operations,2536,,"(2,442)",10897
+14,"Income (loss) from discontinued operations, net of income tax benefit (expense) of $9, $10 and ($39), respectively",(29),,(32),687
+15,Net income (loss),2507,,"(2,474)",11584
+16,Net income from continuing operations attributable to noncontrolling and redeemable noncontrolling interests,(512),,(390),(472)
+17,Net income from discontinued operations attributable to noncontrolling interests,0,,0,58
+18,Net income (loss) attributable to The Walt Disney Company (Disney),"$ 1,995",,"$ (2,864)","$ 11,054"
+19,Earnings per share attributable to Disney,,,,
+20,"Continuing Operations, Per Diluted Share",$ 1.11,,$ (1.57),$ 6.26
+21,"Discontinued Operation, Per Diluted Share",(0.02),,(0.02),0.38
+22,Diluted,1.09,[1],(1.58),6.64
+23,"Continuing Operations, Per Basic Share",1.11,,(1.57),6.30
+24,"Discontinued Operation, Per Basic Share",(0.02),,(0.02),0.38
+25,Basic,$ 1.10,,$ (1.58),$ 6.68
+26,Weighted average number of common and common equivalent shares outstanding:,,,,
+27,Diluted (shares),1828,,1808,1666
+28,Basic (shares),1816,,1808,1656
+29,Service,,,,
+30,Revenues,"$ 61,768",,"$ 59,265","$ 60,579"
+31,Cost of Goods and Services Sold,"(41,129)",,"(39,406)","(36,493)"
+32,Product,,,,
+33,Revenues,5650,,6123,9028
+34,Cost of Goods and Services Sold,"$ (4,002)",,"$ (4,474)","$ (5,568)"
+35,,,,,
+36,[1] Total may not equal the sum of the column due to rounding.,[1] Total may not equal the sum of the column due to rounding.,[1] Total may not equal the sum of the column due to rounding.,[1] Total may not equal the sum of the column due to rounding.,[1] Total may not equal the sum of the column due to rounding.

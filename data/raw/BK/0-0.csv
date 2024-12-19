@@ -1,0 +1,57 @@
+,0,1,2,3,4
+0,[1],"Represents stock options, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.",,,
+1,Consolidated Income Statement - USD ($)  shares in Thousands,Consolidated Income Statement - USD ($)  shares in Thousands,12 Months Ended,12 Months Ended,12 Months Ended
+2,Consolidated Income Statement - USD ($)  shares in Thousands,Consolidated Income Statement - USD ($)  shares in Thousands,"Dec. 31, 2023","Dec. 31, 2022","Dec. 31, 2021"
+3,Fee and other revenue,,,,
+4,Investment services fees,,"$ 8,843,000,000","$ 8,529,000,000","$ 8,284,000,000"
+5,Investment management and performance fees,,3058000000,3299000000,3588000000
+6,Foreign exchange revenue,,631000000,822000000,799000000
+7,Financing-related fees,,192000000,175000000,194000000
+8,Distribution and servicing fees,,148000000,130000000,112000000
+9,Total fee revenue,,12872000000,12955000000,12977000000
+10,Investment and other income,,285000000,"(82,000,000)",336000000
+11,Total fee and other revenue,,13157000000,12873000000,13313000000
+12,Net interest revenue,,,,
+13,Interest revenue,,20648000000,7118000000,2845000000
+14,Interest expense,,16303000000,3614000000,227000000
+15,Net interest revenue,,4345000000,3504000000,2618000000
+16,Total revenue,,17502000000,16377000000,15931000000
+17,Provision for credit losses,,119000000,39000000,"(231,000,000)"
+18,Noninterest expense,,,,
+19,Staff,,7095000000,6800000000,6337000000
+20,Software and equipment,,1817000000,1657000000,1478000000
+21,"Professional, legal and other purchased services",,1527000000,1527000000,1459000000
+22,Net occupancy,,542000000,514000000,498000000
+23,Sub-custodian and clearing,,475000000,485000000,505000000
+24,Distribution and servicing,,353000000,343000000,298000000
+25,Business development,,183000000,152000000,107000000
+26,Bank assessment charges,,788000000,126000000,133000000
+27,Goodwill impairment,,0,680000000,0
+28,Amortization of intangible assets,,57000000,67000000,82000000
+29,Other,,458000000,659000000,617000000
+30,Total noninterest expense,,13295000000,13010000000,11514000000
+31,Income,,,,
+32,Income before income taxes,,4088000000,3328000000,4648000000
+33,Provision for income taxes,,800000000,768000000,877000000
+34,Net income,,3288000000,2560000000,3771000000
+35,Net (income) loss attributable to noncontrolling interests related to consolidated investment management funds,,"(2,000,000)",13000000,"(12,000,000)"
+36,Net income applicable to shareholders of The Bank of New York Mellon Corporation,,3286000000,2573000000,3759000000
+37,Preferred stock dividends,,"(235,000,000)","(211,000,000)","(207,000,000)"
+38,Net income applicable to common shareholders of The Bank of New York Mellon Corporation,,3051000000,2362000000,3552000000
+39,Net income applicable to common shareholders of The Bank of New York Mellon Corporation used for the earnings per share calculation,,,,
+40,Net income applicable to common shareholders of The Bank of New York Mellon Corporation,,3051000000,2362000000,3552000000
+41,"Less: Earning allocated to participating securities, basic",,0,0,2000000
+42,"Less: Earning allocated to participating securities, diluted",,0,0,2000000
+43,Net income applicable to common shareholders of The Bank of New York Mellon corporation after required adjustment for the calculation of basic earnings per common share,,3051000000,2362000000,3550000000
+44,Net income applicable to common shareholders of The Bank of New York Mellon corporation after required adjustment for the calculation of diluted earnings per common share,,"$ 3,051,000,000","$ 2,362,000,000","$ 3,550,000,000"
+45,Average common shares and equivalents outstanding of The Bank of New York Mellon Corporation,,,,
+46,Basic (shares),,784069,811068,851905
+47,Common stock equivalents (shares),,3821,3904,4900
+48,Less: Participating securities (shares),,(92),(177),(446)
+49,Diluted (shares),,787798,814795,856359
+50,Anti-dilutive securities (shares),[1],1334,3142,642
+51,Earnings per share applicable to the common shareholders of The Bank of New York Mellon Corporation,,,,
+52,Basic (usd per share),,$ 3.89,$ 2.91,$ 4.17
+53,Diluted (usd per share),,$ 3.87,$ 2.90,$ 4.14
+54,,,,,
+55,"[1] Represents stock options, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.","[1] Represents stock options, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.","[1] Represents stock options, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.","[1] Represents stock options, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.",

@@ -1,0 +1,41 @@
+,"Consolidated Statements of Income - USD ($)  shares in Millions, $ in Millions",3 Months Ended,3 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+,"Consolidated Statements of Income - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2016","Dec. 31, 2015","Dec. 31, 2016","Dec. 31, 2015","Dec. 31, 2014"
+0,Income Statement [Abstract],,,,,
+1,Revenue,"$ 1,399","$ 1,374","$ 5,661","$ 5,313","$ 5,051"
+2,Expenses:,,,,,
+3,Operating-related expenses,,,1769,1700,1651
+4,Selling and general expenses,,,1443,1550,3144
+5,Depreciation,,,85,90,86
+6,Amortization of intangibles,,,96,67,48
+7,Total expenses,,,3393,3407,4929
+8,(Gain) loss on dispositions,,,"(1,101)",(11),9
+9,Operating profit,857,424,3369,1917,113
+10,"Interest expense, net",,,181,102,59
+11,Income from continuing operations before taxes on income,,,3188,1815,54
+12,Provision for taxes on income,,,960,547,245
+13,Income (loss) from continuing operations,,,2228,1268,(191)
+14,"Discontinued operations, net of tax:",,,,,
+15,Income from discontinued operations,,,0,0,18
+16,Gain on sale of discontinued operations,,,0,0,160
+17,"Discontinued operations, net",,,0,0,178
+18,Net income (loss),569,276,2228,1268,(13)
+19,Less: net income from continuing operations attributable to noncontrolling interests,,,(122),(112),(102)
+20,Net income (loss) attributable to S&P Global Inc.,537,248,2106,1156,(115)
+21,Amounts attributable to S&P Global Inc. common shareholders:,,,,,
+22,Income (loss) from continuing operations,,,2106,1156,(293)
+23,Income from discontinued operations,,,0,0,178
+24,Net income (loss) attributable to S&P Global Inc.,$ 537,$ 248,"$ 2,106","$ 1,156",$ (115)
+25,Income (loss) from continuing operations:,,,,,
+26,Basic (in dollars per share),,,$ 8.02,$ 4.26,$ (1.08)
+27,Diluted (in dollars per share),,,7.94,4.21,(1.08)
+28,Income from discontinued operations:,,,,,
+29,Basic (in dollars per share),,,0.00,0.00,0.66
+30,Diluted (in dollars per share),,,0.00,0.00,0.66
+31,Net income (loss):,,,,,
+32,Basic (in dollars per share),$ 2.07,$ 0.92,8.02,4.26,(0.42)
+33,Diluted (in dollars per share),$ 2.05,$ 0.91,$ 7.94,$ 4.21,$ (0.42)
+34,Weighted-average number of common shares outstanding:,,,,,
+35,Basic (in shares),,,262.8,271.6,271.5
+36,Diluted (in shares),,,265.2,274.6,271.5
+37,Actual shares outstanding at year end (in shares),258.3,265.2,258.3,265.2,272.0
+38,Dividend declared per common share (in dollars per share),,,$ 1.44,$ 1.32,$ 1.20

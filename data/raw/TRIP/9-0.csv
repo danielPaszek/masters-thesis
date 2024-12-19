@@ -1,0 +1,34 @@
+,0,1,2,3,4,5,6
+0,[1],Excludes amortization as follows:,,,,,
+1,[2],Includes stock-based compensation expense as follows:,,,,,
+2,[3],Includes amortization of internal use software and website development costs.,,,,,
+3,"Consolidated Statements of Operations (USD $) In Millions, except Share data in Thousands, unless otherwise specified",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+4,"Consolidated Statements of Operations (USD $) In Millions, except Share data in Thousands, unless otherwise specified","Dec. 31, 2014","Dec. 31, 2014","Dec. 31, 2013","Dec. 31, 2013","Dec. 31, 2012","Dec. 31, 2012"
+5,Income Statement [Abstract],,,,,,
+6,Revenue (Note 2),"$ 1,246",,$ 945,,$ 763,
+7,Costs and expenses:,,,,,,
+8,Cost of revenue,40,[1],18,[1],12,[1]
+9,Selling and marketing,502,[2],368,[2],266,[2]
+10,Technology and content,171,[2],131,[2],87,[2]
+11,General and administrative,128,[2],98,[2],76,[2]
+12,Depreciation,47,[3],30,[3],20,[3]
+13,Amortization of intangible assets,18,,6,,6,
+14,Total costs and expenses:,906,,651,,467,
+15,Operating income,340,,294,,296,
+16,Other income (expense):,,,,,,
+17,Interest expense,(9),,(10),,(11),
+18,"Interest income and other, net",(9),,,,(3),
+19,"Total other expense, net",(18),,(10),,(14),
+20,Income before income taxes,322,,284,,282,
+21,Provision for income taxes,(96),,(79),,(87),
+22,Net income,226,,205,,195,
+23,Net (income) loss attributable to noncontrolling interest,,,,,1,
+24,"Net income attributable to TripAdvisor, Inc.",$ 226,,$ 205,,$ 194,
+25,"Earnings per share attributable to TripAdvisor, Inc. available to common stockholders (Note 2):",,,,,,
+26,Basic,$ 1.58,,$ 1.44,,$ 1.39,
+27,Diluted,$ 1.55,,$ 1.41,,$ 1.37,
+28,Weighted average common shares outstanding (Note 2):,,,,,,
+29,Basic,142721,,142854,,139462,
+30,Diluted,145800,,145263,,141341,
+31,,,,,,,
+32,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation expense as follows:  [3]  Includes amortization of internal use software and website development costs.,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation expense as follows:  [3]  Includes amortization of internal use software and website development costs.,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation expense as follows:  [3]  Includes amortization of internal use software and website development costs.,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation expense as follows:  [3]  Includes amortization of internal use software and website development costs.,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation expense as follows:  [3]  Includes amortization of internal use software and website development costs.,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation expense as follows:  [3]  Includes amortization of internal use software and website development costs.,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation expense as follows:  [3]  Includes amortization of internal use software and website development costs.

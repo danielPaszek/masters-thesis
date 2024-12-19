@@ -1,0 +1,45 @@
+,0,1,2,3,4,5,6
+0,[1],Excludes amortization as follows:,,,,,
+1,[2],Includes stock-based compensation as follows:,,,,,
+2,"Consolidated and Combined Statements of Operations (USD $) In Thousands, except Per Share data, unless otherwise specified",12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended,12 Months Ended
+3,"Consolidated and Combined Statements of Operations (USD $) In Thousands, except Per Share data, unless otherwise specified","Dec. 31, 2012","Dec. 31, 2012","Dec. 31, 2011","Dec. 31, 2011","Dec. 31, 2010","Dec. 31, 2010"
+4,Consolidated and Combined Statements of Operations [Abstract],,,,,,
+5,Revenue,"$ 559,215",,"$ 426,045",,"$ 313,525",
+6,Related-party revenue from Expedia,203751,,211018,,171110,
+7,Total revenue,762966,,637063,,484635,
+8,Costs and expenses:,,,,,,
+9,Cost of revenue (exclusive of amortization) (1),12074,[1],10873,[1],7345,[1]
+10,Selling and marketing (2),266239,[2],209176,[2],140470,[2]
+11,Technology and content (2),86640,[2],57448,[2],43321,[2]
+12,General and administrative (2),75641,[2],44770,[2],31819,[2]
+13,Related-party shared services fee,,,9222,,7900,
+14,Depreciation,19966,,18362,,12871,
+15,Amortization of intangible assets,6110,,7523,,14609,
+16,Spin-off costs,,,6932,[2],,
+17,Total costs and expenses,466670,,364306,,258335,
+18,Operating income,296296,,272757,,226300,
+19,Other income (expense):,,,,,,
+20,"Interest (expense) income, net","(10,871)",,391,,(241),
+21,"Other, net","(3,450)",,"(1,254)",,"(1,644)",
+22,"Total other expense, net","(14,321)",,(863),,"(1,885)",
+23,Income before income taxes,281975,,271894,,224415,
+24,Provision for income taxes,"(87,387)",,"(94,103)",,"(85,461)",
+25,Net income,194588,,177791,,138954,
+26,Net (income) loss attributable to noncontrolling interest,(519),,(114),,(178),
+27,"Net income attributable to TripAdvisor, Inc.",194069,,177677,,138776,
+28,"Earnings Per Share attributable to TripAdvisor, Inc.:",,,,,,
+29,Basic,$ 1.39,,$ 1.33,,$ 1.04,
+30,Diluted,$ 1.37,,$ 1.32,,$ 1.04,
+31,Weighted Average Common Shares Outstanding:,,,,,,
+32,Basic,139462,,133461,,133461,
+33,Diluted,141341,,134865,,133461,
+34,(1) Excludes amortization as follows:,,,,,,
+35,Amortization of acquired technology included in amortization of intangibles,708,,578,,1080,
+36,Amortization of website development costs included in depreciation,12816,,12438,,8104,
+37,Excluded Amortization,13524,,13016,,9184,
+38,(2) Includes stock-based compensation as follows:,,,,,,
+39,Selling and marketing,4622,,3216,,2101,
+40,Technology and content,11400,,3931,,2661,
+41,General and administrative,"$ 14,080",,"$ 10,197",,"$ 2,421",
+42,,,,,,,
+43,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation as follows:,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation as follows:,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation as follows:,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation as follows:,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation as follows:,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation as follows:,[1]  Excludes amortization as follows:  [2]  Includes stock-based compensation as follows:

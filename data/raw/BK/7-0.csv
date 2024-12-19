@@ -1,0 +1,67 @@
+,0,1,2,3,4
+0,[1],"Represents stock options, restricted stock, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.",,,
+1,[2],Basic and diluted earnings per share under the two-class method are determined on the net income applicable to common shareholders of The Bank of New York Mellon Corporation reported on the income statement less earnings allocated to participating securities.,,,
+2,"Consolidated Income Statement - USD ($)  shares in Thousands, $ in Millions","Consolidated Income Statement - USD ($)  shares in Thousands, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+3,"Consolidated Income Statement - USD ($)  shares in Thousands, $ in Millions","Consolidated Income Statement - USD ($)  shares in Thousands, $ in Millions","Dec. 31, 2016","Dec. 31, 2015","Dec. 31, 2014"
+4,Investment services fees:,,,,
+5,Asset servicing,,"$ 4,244","$ 4,187","$ 4,075"
+6,Clearing services,,1404,1375,1335
+7,Issuer services,,1026,978,968
+8,Treasury services,,547,555,564
+9,Total investment services fees,,7221,7095,6942
+10,Investment management and performance fees,,3350,3438,3492
+11,Foreign exchange and other trading revenue,,701,768,570
+12,Financing-related fees,,219,220,169
+13,Distribution and servicing,,166,162,173
+14,Investment and other income,,341,316,1212
+15,Total fee revenue,,11998,11999,12558
+16,Net securities gains — including other-than-temporary impairment,,79,82,92
+17,Noncredit-related portion of other-than-temporary impairment (recognized in other comprehensive income),,4,(1),1
+18,Net securities gains,,75,83,91
+19,Total fee and other revenue,,12073,12082,12649
+20,Operations of consolidated investment management funds,,,,
+21,Investment income,,35,115,503
+22,Interest of investment management fund note holders,,9,29,340
+23,Income from consolidated investment management funds,,26,86,163
+24,Net interest revenue,,,,
+25,Interest revenue,,3575,3326,3234
+26,Interest expense,,437,300,354
+27,Net interest revenue,,3138,3026,2880
+28,Total revenue,,15237,15194,15692
+29,Provision for credit losses,,(11),160,(48)
+30,Noninterest expense,,,,
+31,Staff,,5733,5837,5845
+32,"Professional, legal and other purchased services",,1185,1230,1339
+33,Software,,647,627,620
+34,Net occupancy,,590,600,610
+35,Distribution and servicing,,405,381,428
+36,Sub-custodian,,245,270,286
+37,Furniture and equipment,,247,280,322
+38,Business development,,245,267,268
+39,Other,,940,961,1031
+40,Amortization of intangible assets,,237,261,298
+41,"Merger and integration, litigation and restructuring charges",,49,85,1130
+42,Total noninterest expense,,10523,10799,12177
+43,Income,,,,
+44,Income before income taxes,,4725,4235,3563
+45,Provision for income taxes,,1177,1013,912
+46,Net income,,3548,3222,2651
+47,"Net (income) attributable to noncontrolling interests (includes $(10), $(68) and $(84) related to consolidated investment management funds, respectively)",,(1),(64),(84)
+48,Net income applicable to shareholders of The Bank of New York Mellon Corporation,,3547,3158,2567
+49,Preferred stock dividends,,(122),(105),(73)
+50,Net income applicable to common shareholders of The Bank of New York Mellon Corporation,,3425,3053,2494
+51,Net income applicable to common shareholders of The Bank of New York Mellon Corporation used for the earnings per share calculation,,,,
+52,Net income applicable to common shareholders of The Bank of New York Mellon Corporation,,3425,3053,2494
+53,Less: Earnings allocated to participating securities,,52,43,43
+54,Net income applicable to the common shareholders of The Bank of New York Mellon Corporation after required adjustment for the calculation of basic and diluted earnings per common share,,"$ 3,373","$ 3,010","$ 2,451"
+55,Average common shares and equivalents outstanding of The Bank of New York Mellon Corporation,,,,
+56,Basic (shares),,1066286,1104719,1129897
+57,Common stock equivalents (shares),,15672,17290,20037
+58,Less: Participating securities (shares),,"(9,945)","(9,498)","(12,454)"
+59,Diluted (shares),,1072013,1112511,1137480
+60,Anti-dilutive securities (shares),[1],31695,28736,43735
+61,Earnings per share applicable to the common shareholders of The Bank of New York Mellon Corporation,,,,
+62,Basic (usd per share),[2],$ 3.16,$ 2.73,$ 2.17
+63,Diluted (usd per share),[2],$ 3.15,$ 2.71,$ 2.15
+64,,,,,
+65,"[1] Represents stock options, restricted stock, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive. [2] Basic and diluted earnings per share under the two-class method are determined on the net income applicable to common shareholders of The Bank of New York Mellon Corporation reported on the income statement less earnings allocated to participating securities.","[1] Represents stock options, restricted stock, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive. [2] Basic and diluted earnings per share under the two-class method are determined on the net income applicable to common shareholders of The Bank of New York Mellon Corporation reported on the income statement less earnings allocated to participating securities.","[1] Represents stock options, restricted stock, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive. [2] Basic and diluted earnings per share under the two-class method are determined on the net income applicable to common shareholders of The Bank of New York Mellon Corporation reported on the income statement less earnings allocated to participating securities.","[1] Represents stock options, restricted stock, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive. [2] Basic and diluted earnings per share under the two-class method are determined on the net income applicable to common shareholders of The Bank of New York Mellon Corporation reported on the income statement less earnings allocated to participating securities.","[1] Represents stock options, restricted stock, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive. [2] Basic and diluted earnings per share under the two-class method are determined on the net income applicable to common shareholders of The Bank of New York Mellon Corporation reported on the income statement less earnings allocated to participating securities."

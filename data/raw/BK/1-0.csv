@@ -1,0 +1,55 @@
+,0,1,2,3,4
+0,[1],"Represents stock options, restricted stock, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.",,,
+1,Consolidated Income Statement - USD ($)  shares in Thousands,Consolidated Income Statement - USD ($)  shares in Thousands,12 Months Ended,12 Months Ended,12 Months Ended
+2,Consolidated Income Statement - USD ($)  shares in Thousands,Consolidated Income Statement - USD ($)  shares in Thousands,"Dec. 31, 2022","Dec. 31, 2021","Dec. 31, 2020"
+3,Fee and other revenue,,,,
+4,Investment services fees,,"$ 8,529,000,000","$ 8,284,000,000","$ 8,047,000,000"
+5,Investment management and performance fees,,3299000000,3588000000,3367000000
+6,Foreign exchange revenue,,822000000,799000000,774000000
+7,Financing-related fees,,175000000,194000000,212000000
+8,Distribution and servicing fees,,130000000,112000000,115000000
+9,Total fee revenue,,12955000000,12977000000,12515000000
+10,Investment and other income,,"(82,000,000)",336000000,316000000
+11,Total fee and other revenue,,12873000000,13313000000,12831000000
+12,Net interest revenue,,,,
+13,Interest revenue,,7118000000,2845000000,4109000000
+14,Interest expense,,3614000000,227000000,1132000000
+15,Net interest revenue,,3504000000,2618000000,2977000000
+16,Total revenue,,16377000000,15931000000,15808000000
+17,Provision for credit losses,,39000000,"(231,000,000)",336000000
+18,Noninterest expense,,,,
+19,Staff,,6800000000,6337000000,5966000000
+20,Software and equipment,,1657000000,1478000000,1370000000
+21,"Professional, legal and other purchased services",,1527000000,1459000000,1403000000
+22,Net occupancy,,514000000,498000000,581000000
+23,Sub-custodian and clearing,,485000000,505000000,460000000
+24,Distribution and servicing,,343000000,298000000,336000000
+25,Business development,,152000000,107000000,105000000
+26,Bank assessment charges,,126000000,133000000,124000000
+27,Goodwill impairment,,680000000,0,0
+28,Amortization of intangible assets,,67000000,82000000,104000000
+29,Other,,659000000,617000000,555000000
+30,Total noninterest expense,,13010000000,11514000000,11004000000
+31,Income,,,,
+32,Income before income taxes,,3328000000,4648000000,4468000000
+33,Provision for income taxes,,768000000,877000000,842000000
+34,Net income,,2560000000,3771000000,3626000000
+35,Net loss (income) attributable to noncontrolling interests related to consolidated investment management funds,,13000000,"(12,000,000)","(9,000,000)"
+36,Net income applicable to shareholders of The Bank of New York Mellon Corporation,,2573000000,3759000000,3617000000
+37,Preferred stock dividends,,"(211,000,000)","(207,000,000)","(194,000,000)"
+38,Net income applicable to common shareholders of The Bank of New York Mellon Corporation,,2362000000,3552000000,3423000000
+39,Net income applicable to common shareholders of The Bank of New York Mellon Corporation used for the earnings per share calculation,,,,
+40,Net income applicable to common shareholders of The Bank of New York Mellon Corporation,,2362000000,3552000000,3423000000
+41,Less: Earnings allocated to participating securities,,0,2000000,6000000
+42,Net income applicable to common shareholders of The Bank of New York Mellon Corporation after required adjustment for the calculation of basic and diluted earnings per common share,,"$ 2,362,000,000","$ 3,550,000,000","$ 3,417,000,000"
+43,Average common shares and equivalents outstanding of The Bank of New York Mellon Corporation,,,,
+44,Basic (shares),,811068,851905,890839
+45,Common stock equivalents (shares),,3904,4900,2425
+46,Less: Participating securities (shares),,(177),(446),(750)
+47,Diluted (shares),,814795,856359,892514
+48,Anti-dilutive securities (shares),[1],3142,642,4968
+49,Earnings per share applicable to the common shareholders of The Bank of New York Mellon Corporation,,,,
+50,Basic (usd per share),,$ 2.91,$ 4.17,$ 3.84
+51,Diluted (usd per share),,$ 2.90,$ 4.14,$ 3.83
+52,,,,,
+53,"[1] Represents stock options, restricted stock, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.","[1] Represents stock options, restricted stock, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.","[1] Represents stock options, restricted stock, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.","[1] Represents stock options, restricted stock, restricted stock units and participating securities outstanding but not included in the computation of diluted average common shares because their effect would be anti-dilutive.",
