@@ -1,0 +1,29 @@
+,"Consolidated Statements of Earnings - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+,"Consolidated Statements of Earnings - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2021","Dec. 31, 2020","Dec. 31, 2019"
+0,Income Statement [Abstract],,,
+1,Net Sales,"$ 7,836.2","$ 7,024.5","$ 7,982.2"
+2,Type of Revenue [Extensible List],us-gaap:ProductMember,us-gaap:ProductMember,us-gaap:ProductMember
+3,"Cost of products sold, excluding intangible asset amortization","$ 2,341.0","$ 2,128.3","$ 2,252.6"
+4,"Type of Cost, Good or Service [Extensible List]",us-gaap:ProductMember,us-gaap:ProductMember,us-gaap:ProductMember
+5,Intangible asset amortization,$ 615.7,$ 597.6,$ 584.3
+6,Research and development,497.2,372.0,449.3
+7,"Selling, general and administrative",3323.9,3177.8,3343.8
+8,Goodwill and intangible asset impairment,16.3,645.0,70.1
+9,Restructuring and other cost reduction initiatives,129.1,116.9,50.0
+10,Quality remediation,53.1,50.9,82.4
+11,"Acquisition, integration, divestiture and related",79.8,23.8,12.2
+12,Operating expenses,7056.1,7112.3,6844.7
+13,Operating Profit (Loss),780.1,(87.8),1137.5
+14,"Other income (expense), net",11.8,25.4,(4.8)
+15,"Interest expense, net",(208.4),(212.0),(226.9)
+16,Loss on early extinguishment of debt,(165.1),,
+17,Earnings (Loss) before income taxes,418.4,(274.4),905.8
+18,Provision (benefit) for income taxes,16.3,(137.0),(225.7)
+19,Net Earnings (Loss),402.1,(137.4),1131.5
+20,Less: Net earnings (loss) attributable to noncontrolling interest,0.5,1.5,(0.1)
+21,"Net Earnings (Loss) of Zimmer Biomet Holdings, Inc.",$ 401.6,$ (138.9),"$ 1,131.6"
+22,Earnings (Loss) Per Common Share - Basic,$ 1.93,$ (0.67),$ 5.52
+23,Earnings (Loss) Per Common Share - Diluted,$ 1.91,$ (0.67),$ 5.47
+24,Weighted Average Common Shares Outstanding,,,
+25,Basic,208.6,207.0,205.1
+26,Diluted,210.4,207.0,206.7

@@ -158,6 +158,7 @@ def open_income_statement(driver) -> WebElement | None:
         'Interest Income', 'Interest Income:', 'Interest income:', 'Interest income',
         'Net Income (Loss)', 'Net income (loss)', 'net income (loss)',
         'Net Income (Loss):', 'Net income (loss):', 'net income (loss):',
+        'Operating loss', 'Operating loss:',
         'General and administrative', 'General and administrative:',
     ]:
         try:

@@ -1,0 +1,32 @@
+,0,1,2,3,4
+0,[1],"As further described in Note 7, total expenses include amounts incurred with related parties of $54.7 million, $54.6 million, and $57.1 million for the years ended December 31, 2021, 2020, and 2019, respectively.",,,
+1,"CONSOLIDATED STATEMENTS OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF INCOME - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENTS OF INCOME - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF INCOME - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2021","Dec. 31, 2020","Dec. 31, 2019"
+3,CONSOLIDATED STATEMENTS OF INCOME,,,,
+4,Revenues,,"$ 5,070.8","$ 4,835.0","$ 5,292.1"
+5,Type of Revenue,,us-gaap:ServiceMember,us-gaap:ServiceMember,us-gaap:ServiceMember
+6,Expenses:,,,,
+7,Cost of services,,"$ 2,896.4","$ 2,826.5","$ 3,086.5"
+8,Type of Cost of Service,,us-gaap:ServiceMember,us-gaap:ServiceMember,us-gaap:ServiceMember
+9,"Selling, general, and administrative",,"$ 1,051.3","$ 1,041.2","$ 1,271.6"
+10,Total expenses,[1],3947.7,3867.7,4358.1
+11,Operating income,,1123.1,967.3,934.0
+12,Other income/(expense):,,,,
+13,Gain on divestitures of businesses (Note 5),,,,524.6
+14,Gain on sale of noncontrolling interest in a private company (Note 5),,47.9,,
+15,Pension settlement charges (Note 12),,(109.8),,
+16,Interest income,,1.4,3.2,6.3
+17,Interest expense,,(105.5),(118.5),(152.0)
+18,"Other income/(expense), net",,(21.7),3.1,8.5
+19,"Total other income/(expense), net",,(187.7),(112.2),387.4
+20,Income before income taxes,,935.4,855.1,1321.4
+21,Provision for income taxes,,129.6,110.8,263.1
+22,Net income,,$ 805.8,$ 744.3,"$ 1,058.3"
+23,Earnings per share:,,,,
+24,Basic (USD per share),,$ 1.98,$ 1.81,$ 2.47
+25,Diluted (USD per share),,$ 1.97,$ 1.79,$ 2.46
+26,Weighted-average shares outstanding:,,,,
+27,Basic (shares),,406.8,412.3,427.6
+28,Diluted (shares),,408.9,415.2,430.9
+29,,,,,
+30,"[1] As further described in Note 7, total expenses include amounts incurred with related parties of $54.7 million, $54.6 million, and $57.1 million for the years ended December 31, 2021, 2020, and 2019, respectively.","[1] As further described in Note 7, total expenses include amounts incurred with related parties of $54.7 million, $54.6 million, and $57.1 million for the years ended December 31, 2021, 2020, and 2019, respectively.","[1] As further described in Note 7, total expenses include amounts incurred with related parties of $54.7 million, $54.6 million, and $57.1 million for the years ended December 31, 2021, 2020, and 2019, respectively.","[1] As further described in Note 7, total expenses include amounts incurred with related parties of $54.7 million, $54.6 million, and $57.1 million for the years ended December 31, 2021, 2020, and 2019, respectively.",

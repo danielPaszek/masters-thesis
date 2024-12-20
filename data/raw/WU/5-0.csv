@@ -1,0 +1,31 @@
+,0,1,2,3,4
+0,[1],"As further described in Note 7, total expenses include amounts incurred with related parties of $57.6 million, $65.9 million, and $68.0 million for the years ended December 31, 2018, 2017 and 2016, respectively.",,,
+1,"CONSOLIDATED STATEMENTS OF INCOME/(LOSS) - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF INCOME/(LOSS) - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+2,"CONSOLIDATED STATEMENTS OF INCOME/(LOSS) - USD ($)  shares in Millions, $ in Millions","CONSOLIDATED STATEMENTS OF INCOME/(LOSS) - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2018","Dec. 31, 2017","Dec. 31, 2016"
+3,CONSOLIDATED STATEMENTS OF INCOME/(LOSS),,,,
+4,Revenues,,"$ 5,589.9","$ 5,524.3","$ 5,422.9"
+5,Type of Revenue,,us-gaap:ServiceMember,us-gaap:ServiceMember,us-gaap:ServiceMember
+6,Expenses:,,,,
+7,Cost of services (Note 2),,"$ 3,300.8","$ 3,353.0","$ 3,266.7"
+8,Type of Cost of Service,,us-gaap:ServiceMember,us-gaap:ServiceMember,us-gaap:ServiceMember
+9,"Selling, general and administrative",,"$ 1,167.0","$ 1,231.5","$ 1,669.2"
+10,Goodwill impairment charge,,0.0,464.0,0.0
+11,Total expenses,[1],4467.8,5048.5,4935.9
+12,Operating income,,1122.1,475.8,487.0
+13,Other income/(expense):,,,,
+14,Interest income,,4.8,4.9,3.5
+15,Interest expense,,(149.6),(142.1),(152.5)
+16,"Other income, net (Note 2)",,14.1,8.9,3.7
+17,"Total other expense, net",,(130.7),(128.3),(145.3)
+18,Income before income taxes,,991.4,347.5,341.7
+19,Provision for income taxes (Note 11),,139.5,904.6,88.5
+20,Net income/(loss),,$ 851.9,$ (557.1),$ 253.2
+21,Earnings/(loss) per share:,,,,
+22,Basic (USD per share),,$ 1.89,$ (1.19),$ 0.52
+23,Diluted (USD per share),,$ 1.87,$ (1.19),$ 0.51
+24,Weighted-average shares outstanding:,,,,
+25,Basic (shares),,451.8,467.9,490.2
+26,Diluted (shares),,454.4,467.9,493.5
+27,Cash dividends declared per common share (USD per share),,$ 0.76,$ 0.70,$ 0.64
+28,,,,,
+29,"[1] As further described in Note 7, total expenses include amounts incurred with related parties of $57.6 million, $65.9 million, and $68.0 million for the years ended December 31, 2018, 2017 and 2016, respectively.","[1] As further described in Note 7, total expenses include amounts incurred with related parties of $57.6 million, $65.9 million, and $68.0 million for the years ended December 31, 2018, 2017 and 2016, respectively.","[1] As further described in Note 7, total expenses include amounts incurred with related parties of $57.6 million, $65.9 million, and $68.0 million for the years ended December 31, 2018, 2017 and 2016, respectively.","[1] As further described in Note 7, total expenses include amounts incurred with related parties of $57.6 million, $65.9 million, and $68.0 million for the years ended December 31, 2018, 2017 and 2016, respectively.",

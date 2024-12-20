@@ -1,0 +1,37 @@
+,"Consolidated Statements of Earnings - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+,"Consolidated Statements of Earnings - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2023","Dec. 31, 2022","Dec. 31, 2021"
+0,Income Statement [Abstract],,,
+1,Net Sales,"$ 7,394.2","$ 6,939.9","$ 6,827.3"
+2,Type of Revenue [Extensible List],us-gaap:ProductMember,us-gaap:ProductMember,us-gaap:ProductMember
+3,"Cost of products sold, excluding intangible asset amortization","$ 2,083.8","$ 2,019.5","$ 1,960.4"
+4,"Type of Cost, Good or Service [Extensible List]",us-gaap:ProductMember,us-gaap:ProductMember,us-gaap:ProductMember
+5,Intangible asset amortization,$ 561.5,$ 526.8,$ 529.5
+6,Research and development,458.7,406.0,435.8
+7,"Selling, general and administrative",2838.9,2761.7,2843.4
+8,Goodwill and intangible asset impairment,,292.8,16.3
+9,Restructuring and other cost reduction initiatives,151.9,191.6,125.7
+10,Quality remediation,,33.8,52.8
+11,"Acquisition, integration, divestiture and related",21.7,11.4,3.1
+12,Operating expenses,6116.5,6243.6,5967.0
+13,Operating Profit,1277.7,696.3,860.3
+14,"Other (expense) income, net",(9.3),(128.0),12.2
+15,"Interest expense, net",(201.2),(164.8),(208.4)
+16,Loss on early extinguishment of debt,,,(165.1)
+17,Earnings from continuing operations before income taxes,1067.3,403.5,499.0
+18,Provision for income taxes from continuing operations,42.2,112.3,53.5
+19,Net Earnings from Continuing Operations,1025.1,291.2,445.5
+20,Less: Net earnings attributable to noncontrolling interest,1.1,1.0,0.5
+21,"Net Earnings from Continuing Operations of Zimmer Biomet Holdings, Inc.",1024.0,290.2,445.0
+22,"Loss from Discontinued Operations, Net of Tax",,(58.8),(43.4)
+23,"Net Earnings of Zimmer Biomet Holdings, Inc.","$ 1,024.0",$ 231.4,$ 401.6
+24,Basic Earnings Per Common Share,,,
+25,Earnings from Continuing Operations,$ 4.91,$ 1.38,$ 2.14
+26,Loss from Discontinued Operations,,(0.28),(0.21)
+27,Basic Earnings Per Common Share,4.91,1.1,1.93
+28,Diluted Earnings Per Common Share,,,
+29,Earnings from Continuing Operations,4.88,1.38,2.12
+30,Loss from Discontinued Operations,,(0.28),(0.21)
+31,Diluted Earnings Per Common Share,$ 4.88,$ 1.1,$ 1.91
+32,Weighted Average Common Shares Outstanding,,,
+33,Basic,208.7,209.6,208.6
+34,Diluted,209.7,210.3,210.4

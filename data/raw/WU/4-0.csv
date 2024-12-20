@@ -1,0 +1,27 @@
+,"CONSOLIDATED STATEMENTS OF INCOME/(LOSS) - USD ($)  shares in Millions, $ in Millions",12 Months Ended,12 Months Ended,12 Months Ended
+,"CONSOLIDATED STATEMENTS OF INCOME/(LOSS) - USD ($)  shares in Millions, $ in Millions","Dec. 31, 2019","Dec. 31, 2018","Dec. 31, 2017"
+0,CONSOLIDATED STATEMENTS OF INCOME/(LOSS),,,
+1,Revenues,"$ 5,292.1","$ 5,589.9","$ 5,524.3"
+2,Type of Revenue,us-gaap:ServiceMember,us-gaap:ServiceMember,us-gaap:ServiceMember
+3,Expenses:,,,
+4,Cost of services.,"$ 3,086.5","$ 3,300.8","$ 3,353.0"
+5,Type of Cost of Service,us-gaap:ServiceMember,us-gaap:ServiceMember,us-gaap:ServiceMember
+6,"Selling, general, and administrative","$ 1,271.6","$ 1,167.0","$ 1,231.5"
+7,Goodwill impairment charge,0.0,0.0,464.0
+8,Total expenses,4358.1,4467.8,5048.5
+9,Operating income,934.0,1122.1,475.8
+10,Other income/(expense):,,,
+11,Gain on divestitures of businesses (Note 4),524.6,,
+12,Interest income,6.3,4.8,4.9
+13,Interest expense,(152.0),(149.6),(142.1)
+14,"Other income, net",8.5,14.1,8.9
+15,"Total other income/(expense), net",387.4,(130.7),(128.3)
+16,Income before income taxes,1321.4,991.4,347.5
+17,Provision for income taxes (Note 11),263.1,139.5,904.6
+18,Net income/(loss),"$ 1,058.3",$ 851.9,$ (557.1)
+19,Earnings/(loss) per share:,,,
+20,Basic (USD per share),$ 2.47,$ 1.89,$ (1.19)
+21,Diluted (USD per share),$ 2.46,$ 1.87,$ (1.19)
+22,Weighted-average shares outstanding:,,,
+23,Basic (shares),427.6,451.8,467.9
+24,Diluted (shares),430.9,454.4,467.9
