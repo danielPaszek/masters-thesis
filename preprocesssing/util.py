@@ -1,5 +1,6 @@
 import re
 import pandas as pd
+from dateutil.parser import parse
 
 THOUSAND = 'thousand'
 MILLION = 'million'
@@ -9,12 +10,6 @@ USD = 'usd'
 def cleanFirstNumericRows(df):
     while all([x.isnumeric() or x == '' for x in df.iloc[0, 1:]]):
         df = df.iloc[1:].reset_index(drop=True)
-    # while True:
-    #     wrong = [val == '' or val.isnumeric() for val in df.iloc[0, :]]
-    #     if all(wrong):
-    #         df = df.iloc[1:].reset_index(drop=True)
-    #     else:
-    #         break
     return df
 
 
@@ -37,11 +32,39 @@ def trashRow(df):
 def most_frequent(List):
     return max(set(List), key=List.count)
 
+def isPeriodTag(df: pd.DataFrame):
+    periodTags = [re.search('^[0-9]+.?months.?end.*$', val.lower()) for val in df.iloc[0, 1:]]
+    periodTags = [x for x in periodTags if x]
+    return any(periodTags)
 
-def cleanHeaderAndGetPeriod(df: pd.DataFrame):
-    period = -1
-    while trashRow(df):
+def parseDate(val: str):
+    try:
+        if len(val) > 5:
+            return parse(val)
+        return None
+    except:
+        return None
+def isDateTag(df: pd.DataFrame):
+    periodTags = [parseDate(val) for val in df.iloc[0, 1:]]
+    periodTags = [x for x in periodTags if x]
+    return any(periodTags)
+
+def cleanUpToPeriodOrDate(df: pd.DataFrame):
+    i = 0
+    while len(df.index) and not isPeriodTag(df) and not isDateTag(df):
+        i += 1
         df = df.iloc[1:].reset_index(drop=True)
+    #     test if a lot of lines were removed
+    if i > 5:
+        try:
+            getPeriod(df)
+        except:
+            print('VALIDATE DATAFRAME')
+    return df
+
+
+def getPeriod(df: pd.DataFrame):
+    period = -1
     try:
         while True:
             periodTags = [re.search('^[0-9]+.?months.?end.*$', val.lower()) for val in df.iloc[0, :]]
@@ -54,10 +77,10 @@ def cleanHeaderAndGetPeriod(df: pd.DataFrame):
             df = df.iloc[1:].reset_index(drop=True)
     except Exception as e:
         if period == -1:
-            # junk row on top
-            if any([len(x) > 40 for x in df.iloc[0, :]]) or all([x.isnumeric() for x in df.iloc[0, 1:]]):
-                df = df.iloc[1:].reset_index(drop=True)
-                return cleanHeaderAndGetPeriod(df)
+            # # junk row on top
+            # if any([len(x) > 40 for x in df.iloc[0, :]]) or all([x.isnumeric() for x in df.iloc[0, 1:]]):
+            #     df = df.iloc[1:].reset_index(drop=True)
+            #     return cleanHeaderAndGetPeriod(df)
             raise Exception('No period found')
     return df, period
 
